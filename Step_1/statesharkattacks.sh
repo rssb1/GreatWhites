@@ -31,9 +31,7 @@ shark_attacks[Michigan]=0
 shark_attacks[Minnesota]=0
 shark_attacks[Mississippi]=0
 shark_attacks[Missouri]=21
-shark_attacks[Montana]=5 
-
-
+shark_attacks[Montana]=5
 shark_attacks[Nebraska]=2
 shark_attacks[Nevada]=1
 shark_attacks[New\ Hampshire]=0
@@ -57,9 +55,7 @@ shark_attacks[Virginia]=0
 shark_attacks[Washington]=0
 shark_attacks[West Virginia]=0
 shark_attacks[Wisconsin]=21
-shark_attacks[Wyoming]=5 
-
-
+shark_attacks[Wyoming]=5
 shark_attacks[District\ of\ Columbia]=2
 shark_attacks[South\ Carolina]=1
 shark_attacks[American\ Samoa]=0
