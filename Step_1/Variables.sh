@@ -1,0 +1,61 @@
+#!/bin/bash
+
+#Each state and United States is a varible
+VAR1=Alabama
+VAR2=Alaska
+VAR3=Arizona
+VAR4=Arkansas
+VAR5=California
+VAR6=Colorado
+VAR7=Connecticut
+VAR8=Delaware
+VAR9=Florida
+VAR10=Georgia
+VAR11=Hawaii
+VAR12=Idaho
+VAR13=Illinois
+VAR14=Indiana
+VAR15=Iowa
+VAR16=Kansas
+VAR17=Kentucky
+VAR18=Louisiana
+VAR19=Maine
+VAR20=Maryland
+VAR21=Massachusetts
+VAR22=Michigan
+VAR23=Minnesota
+VAR24=Mississippi
+VAR25=Missouri
+VAR26=Montana
+VAR27=Nebraska
+VAR28=Nevada
+VAR29=New Hampshire
+VAR30=New Jersey
+VAR31=New Mexico
+VAR32=New York
+VAR33=North Carolina
+VAR34=North Dakota
+VAR35=Ohio
+VAR36=Oklahoma
+VAR37=Oregon
+VAR38=Pennslyvania
+VAR39=Rohode Island
+VAR40=South Carolina
+VAR41=South Dakota
+VAR42=Tennessee
+VAR43=Texas
+VAR44=Utah
+VAR45=Vermont
+VAR46=Virginia
+VAR47=Washington
+VAR48=West Virginia
+VAR49=Wisconsin
+Var50=Wyoming
+
+#Federal district +  inhabited terriotiry
+Var51=District of Columbia
+VAR52=American Samoa
+VAR53=Guam
+VAR54=North Mariana Islands
+VAR55=Puerto Rico
+VAR56=U.S. Virgin Islands
