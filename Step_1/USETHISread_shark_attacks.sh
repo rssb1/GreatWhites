@@ -83,4 +83,3 @@ process_shark_query() {
 
 # --- Main Execution ---
 process_shark_query
-y
