@@ -63,7 +63,7 @@ process_shark_query() {
                             
                             if ($6 == area) {
                                 # Printing selected columns:
-                                # $2=Date, $3=Year, $7=Location, $8=Activity, $10=Sex, $11=age, $12=Injury, $13=Fatal (Y/N)
+                                # $2=Date, $4=Type, $6=Area, $7=Location, $8=Activity, $10=Sex, $11=Age, $12=Injury, $13=Fatal, $14=Time, $15=Species
                                 printf "%s | %s | %s | %s | %s | %s | %s | %s | %s | %s | %s\n",
                                 $2,$4,$6,$7,$8,$10,$11,$12,$13,$14,$15
                             }
