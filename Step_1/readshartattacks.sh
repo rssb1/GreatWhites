@@ -2,12 +2,11 @@
 
 # Declare an associative array to store the data read from the CSV file
 declare -A shark_attacks
-CSV_FILE="shark_data.csv"
+CSV_FILE="shark_data_extended.csv"
 
 # Function to load data from the CSV file into the associative array
-# This function is flexible and handles CSV files with more than two columns.
 load_data() {
-    echo "Loading shark attack data from $CSV_FILE..."
+    echo "Loading selective shark attack data from $CSV_FILE (Columns 1, 2, 3, 5, 6, 7, 9, 10, 11, 12, 14)..."
     
     # Check if the CSV file exists
     if [ ! -f "$CSV_FILE" ]; then
@@ -15,26 +14,38 @@ load_data() {
         exit 1
     fi
     
-    # Read the CSV file line by line
-    # KEY CHANGE: IFS=',' sets the Internal Field Separator to a comma.
-    # The process substitution (< <(...)) ensures array updates persist.
-    # tail -n +2 skips the header line.
-    # 'read -r state count ignore' captures the first two columns, and 'ignore' takes the rest.
-    while IFS=',' read -r state count ignore; do
+    # The process below first uses 'awk' to extract and reformat ONLY the required columns (1, 2, 3, 5, 6, 7, 9, 10, 11, 12, 14), 
+    # separated by commas. The output is then piped to the 'while read' loop.
+    
+    # Define the list of variables to match the 11 selected columns from AWK
+    # We only need 'state' and 'attacks' for the core logic; the rest are read for demonstration.
+    local awk_output
+    
+    awk_output=$(tail -n +2 "$CSV_FILE" | awk -F',' '
+        { 
+            # Reconstruct the line using only the required column indices
+            print $1 "," $2 "," $3 "," $5 "," $6 "," $7 "," $9 "," $10 "," $11 "," $12 "," $14 
+        }'
+    )
+
+    # Use a here-string to feed the awk output into the read loop
+    while IFS=',' read -r state attacks c3 c5 c6 c7 c9 c10 c11 c12 c14; do
         
-        # Trim leading/trailing whitespace from the state name and count
-        # This is important as some shells/OS combinations might introduce hidden spaces.
+        # Trim leading/trailing whitespace
         state=$(echo "$state" | awk '{$1=$1};1')
-        count=$(echo "$count" | awk '{$1=$1};1')
+        attacks=$(echo "$attacks" | awk '{$1=$1};1')
         
         # Only process lines where the state name is not empty
         if [[ -n "$state" ]]; then
-            # Store the data: State Name (key) = Attack Count (value)
-            shark_attacks["$state"]=$count
+            # We store the State (key) and the Attack Count (value) for the logic check.
+            shark_attacks["$state"]=$attacks
+            
+            # Optional: Displaying the data read, showing that selective columns were chosen
+            # echo "Loaded: $state | Attacks: $attacks | Species: $c10 | Victim: $c12"
         fi
-    done < <(tail -n +2 "$CSV_FILE")
+    done <<< "$awk_output"
     
-    echo "Data load complete. Loaded ${#shark_attacks[@]} states."
+    echo "Data load complete. Loaded ${#shark_attacks[@]} states based on selected columns."
 }
 
 # Function to handle user input and processing with a persistent validation loop
@@ -77,7 +88,7 @@ process_shark_query() {
         case "$see_locations" in
             [Yy]* )
                 echo "Displaying the locations for $formatted_input..."
-                # You would add code here to display specific locations.
+                # In a real application, you might use the other 9 columns (c3, c5, etc.) here.
                 ;;
             [Nn]* )
                 echo "Okay, staying safe."
