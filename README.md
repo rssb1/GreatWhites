@@ -8,4 +8,4 @@ Members:
 Gabbie:Coder
 Melita:Data Anlayst
 Avery: Communication Consultant
-Ramani: Researcher
+Ramani: Geospatial Data Researcher
