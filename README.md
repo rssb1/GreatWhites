@@ -4,4 +4,8 @@ Project Idea: Look into shark attacks rates and use the compiling data to form a
 Team Name: Great Whites
 
 
-Members: Gabbie, Melita, Avery, Ramani
+Members:
+Gabbie:Coder
+Melita:Data Anlayst
+Avery: Communication Consultant
+Ramani: Researcher
