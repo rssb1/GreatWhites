@@ -27,7 +27,6 @@ process_shark_query() {
         read -p "Enter a State/Area (e.g., Florida, Hawaii) to check: " state_input
         formatted_input=$(format_input "$state_input")
 
-        # FIX: The AWK command now aggressively trims whitespace from $6 (Area)
         # using the 'gsub' function before comparison. This ensures hidden spaces don't prevent a match.
         # It then counts the records matching the trimmed Area.
         num_attacks=$(awk -F',' -v area="$formatted_input" '
@@ -52,7 +51,7 @@ process_shark_query() {
             
             case "$see_more" in
                 [Yy]* )
-                    echo "Date | Year | Location | Activity | Injury | Fatal"
+                    echo "Date | Type | Area | Location | Activity | Sex | Age | Injury | Fatal | Time | Species |"
                     echo "------------------------------------------------------------------------------------------------"
                     
                     # Print the detailed records for the matched Area
