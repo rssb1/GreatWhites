@@ -1,10 +1,10 @@
-After the sh file finishes printing out the locations and other info -> Pass filtered.csv and the chosen state as input to the heat map generator.
+After the sh file finishes printing out the locations and other info -> Pass .csv and the chosen state as input to the heat map generator.
 
 Geocode locations
 - Convert each beach/location name to latitude and longitude, because we don't have that information we would have to use the state to find its location
 
 Prepare map data
-- Create a list of coordinates for each shark attack.
+- Create a list of coordinates for each shark attack.  from geocode location
 - Optionally count attacks per location to adjust intensity.
 
 Generate heat map: Use GeoPandas/Folium/Plotly to plot points on a map of USA:
@@ -13,6 +13,9 @@ Generate heat map: Use GeoPandas/Folium/Plotly to plot points on a map of USA:
 - Overlay attack points as a heat map (intensity = number of attacks).
 
 Display or save heat map
-- Option A: Show interactive map in Jupyter Notebook. (best fit)
-- Option B: Save as HTML for website interaction.
+- Show interactive map in Jupyter Notebook. (best way in my opinion)
+- Save as HTML for website interaction.
+
+If time permits then make thw website or the map interactive by being able to add new data points
+
 
