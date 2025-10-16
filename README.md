@@ -9,4 +9,5 @@ Gabbie: Coder
 Melita: Data Anlayst
 Avery: Communication Consultant
 Ramani: Geospatial Data Researcher
-![0](https://github.com/user-attachments/assets/14eb1788-2098-4196-9688-6c6f49ba612f)
+
+<img width="1111" height="1112" alt="IMG_1532 (1)" src="https://github.com/user-attachments/assets/b5a2a73a-78f1-42e7-8482-1684fb494582" />
