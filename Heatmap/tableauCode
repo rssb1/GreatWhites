@@ -1,0 +1,23 @@
+//This is the code that we used to classify the attacks to populate the map
+
+CASE [Select Metric]
+
+    WHEN "Total Attacks" THEN
+        COUNT([Case Number])
+
+    WHEN "Fatal Attacks" THEN
+        COUNT(
+            IF [Fatal (Y/N)] = "Y" THEN [Case Number] END
+        )
+
+    WHEN "Unprovoked Attacks" THEN
+        COUNT(
+            IF [Type] = "Unprovoked" THEN [Case Number] END
+        )
+
+    WHEN "Provoked Attacks" THEN
+        COUNT(
+            IF [Type] = "Provoked" THEN [Case Number] END
+        )
+
+END
