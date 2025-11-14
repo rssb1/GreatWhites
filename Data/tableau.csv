@@ -1,0 +1,967 @@
+Timestamp,Date,,Type,Country,Area,Location,Activity,Name,Sex,,Injury,Fatal (Y/N),Species,Investigator or Source
+11/13/2025 21:58:11,10/15/2025,2025,Invalid,USA,Colorado,Colorado Beach,Fishing,Fisher,M,34,Hand bitten off,Y,tiger shark,My imaginary friend
+11/13/2025 16:35:24,11/11/2025,2025,Provoked,USA,Kansas,Kansas ,Wading,,,,,Y,,
+11/14/2025 0:20:30,4/28/2025,2025,Provoked,USA,South Dakota,beach,Kayaking,John,M,18,headache,Y,N/A,Myself
+11/14/2025 0:30:45,12/2/2024,2024,Provoked,USA,Minnesota,minnesota beach,Diving,Jane,F,27,N/A,Y,N/A,imagination
+2017.06.10.a,########,2017,Unprovoked,USA,Florida,"Ponce Inlet, Volusia County",Surfing,Bryan Brock,M,19,Laceration to left foot,N,,"Daytona Beach News-Journal, 6/10/2017"
+2017.06.04,6/4/2017,2017,Unprovoked,USA,Florida,"Middle Sambo Reef off Boca Chica, Monroe County",Spearfishing,Parker Simpson,M,,Laceration to shin,N,8' shark,"Nine News, 6/7/2017"
+2017.05.30,########,2017,Provoked,USA,South Carolina,"Awendaw, Charleston County",Touching a shark,Mackenzie Higgins,F,20,Right hand bitten by hooked shark PROVOKED INCIDENT,N,3' shark,"C. Creswell, GSAF"
+2017.05.28,########,2017,Unprovoked,USA,Florida,Off Jupiter,Feeding sharks,Randy Jordan,M,,Lacerations to right arm,N,Tiger shark,"M. Michaelson, GSAF"
+2017.05.03,5/3/2017,2017,Invalid,USA,California,"Sunset Beach, Orange County",Surfing,Sophia Raab,F,18,"Laceration to thigh, likely caused by surfboard fin",N,Shark involvement highly doubtful,"R. Collier, GSAF"
+2017.04.29.d,########,2017,Unprovoked,USA,California,"San Onofre, San Diego County",,Leeanne Ericson,F,,Major injury to posterior thigh,N,,"R. Collier, GSAF"
+2017.04.29.b,########,2017,Unprovoked,USA,South Carolina,"Folly Beach, Charleston County",Surfing,Holly Dyar,F,33,Left foot bitten,N,,"C. Creswell, GSAF"
+2017.04.26,########,2017,Invalid,USA,Florida,,Photo shoot,Molly Cavelli,F,,Alleged laceration to left ankle,,No shark invovlement - it ws a publicity stunt,"The Sun, 5/6/2017"
+2017.04.20,########,2017,Invalid,USA,South Carolina,Georgetown County,Swimming,male,M,,Laceration & puncture wounds to left foot,N,Shark involvement not confirmed,"C. Creswell, GSAF"
+2017.04.17.b,########,2017,Unprovoked,USA,Florida,"Daytona Beach, Volusia County",,,,,cc,N,,"Daytona Beach News-Journal, 4/17/2017"
+2017.04.14,########,2017,Unprovoked,USA,Hawaii,"Kekaha Beach, Kauai",Surfing,Baboo,M,28,Lower right leg severely injured,N,"Tiger shark, 12'","Hawaii News Now, 4/14/2017"
+2017.04.13,########,2017,Unprovoked,USA,Florida,"Hanna Park, Jacksonville, Duval County",Surfing,Keeanan Perry,M,17,Lacerations to right foot,N,,"News4Jax, 4/14/2017"
+2017.04.12.b,########,2017,Unprovoked,USA,Florida,St. Augustine,Surfing,Kerry Keyton,F,,Lacerations to right foot,N,,"The Surf Station, 4/13/2017"
+2017.04.11,########,2017,Unprovoked,USA,Florida,"Ormond Beach, Volusia County",Surfing,Denise Holz-Oosterveld,F,35,Calf bitten,N,,"WFTV, 4/11/2017"
+2017.04.10.b,########,2017,Unprovoked,USA,Florida,"Melbourne Beach, Brevard County",Paddle boarding,female,F,10,Laceration to calf,N,,"Brevard Times, 4/10/2017"
+2017.04.10.a,########,2017,Unprovoked,USA,Florida,"Melbourne Beach, Brevard County",Swimming,Heather Orr,F,21,Minor injury to hand,N,,"Brevard Times, 4/10/2017"
+2017.04.06,4/6/2017,2017,Unprovoked,USA,Florida,"Daytona, Volusia County",Swimming,Kody Stephens,M,16,Foot injured,N,,"Bradenton Herald, 4/7/2017"
+2017.04.05,4/5/2017,2017,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Swimming,Melanie Lawson,F,51,"Thigh nipped, minor injury",N,,"AJC, 4/5/2017"
+2017.04.02.a,4/2/2017,2017,Unprovoked,USA,Florida,"Destin, Okaloosa County",Swimming,Caitlyn Taylor,F,17,Abrasions to lower left leg & puncture wounds to right leg,N,5' shark,Okaloosa County Sheriff's Office
+2017.03.27,########,2017,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,Robert Nesbit,M,58,Minor injury to left foot,N,,"Orlando Sentinel, 3/27/2017"
+2017.03.18,########,2017,Unprovoked,USA,California,Monterey Bay,Kayaking,Brian Correira,M,,"No injury, kayak bitten",N,White shark,"R. Collier, GSAF"
+2017.02.11,########,2017,Unprovoked,USA,Florida,"Melbourne Beach, Brevard County",Swimming,male,M,22,Injury to hand,N,,"Florida Today, 2/11/2017"
+2017.02.01.b,2/1/2017,2017,Boat,USA,South Carolina,16 miles off Hilton Head,Tagging sharks,Chip Michelove & crew,,,"Shark bit boat, no injury to occupants",N,"White shark, female, 14'","YouTube, 2/2/2017"
+2017.01.22,########,2017,Unprovoked,USA,Florida,"Vero Beach, Indian River County",,male,M,,Puncture wounds to lower arm or hand,N,,"TCPalm, 1/22/2017"
+2017.01.13.a,########,2017,Unprovoked,USA,Florida,Jensen Beach,,a lifeguard,M,,Minor injury to hand,N,,WPTV. 1/13/2017
+2017.01.05,1/5/2017,2017,Unprovoked,USA,Florida,"Blockhouse Beach, Brevard County",Wading,male,M,47,Minor injuries to foot,N,,"Florida Today, 1/5/2017"
+2016.12.27,########,2016,Unprovoked,USA,Florida,"Avalon State Park Beach, North Hutchinson Island, St Lucie County",Surfing,Zack Davis,M,16,Lacerations to right forearm,N,,"TCPalm, 12/28/2016"
+2016.12.11,########,2016,Invalid,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,Shane Garthwait,M,19,Cuts to right ankle & foot,N,,"News Journal, 12/15/2016"
+2016.11.14,########,2016,Unprovoked,USA,Hawaii,"Kamaole Beach Park I, Maui",Floating,Barbara Zawacki,F,58,Injuries to right calf and thigh,N,Tiger shark,"Maui News, 11/14/2016"
+2016.10.30,########,2016,Unprovoked,USA,Florida,"Mayport Naval Station Beach, Duval County",Surfing,Daniel Adams,M,41,Lacerations to right foot and ankle,N,,"First Coast News, 10/31/2016"
+2016.10.29,########,2016,Unprovoked,USA,Florida,Mayport Naval Station Duval County,Surfing,Derrick Shoup,M,42,Lacerations to right hand,N,,"First Coast News, 10/31/2016"
+2016.10.21,########,2016,Unprovoked,USA,Hawaii,"Hooipa Beach Park, Maui",Surfing,Federico Jaime,M,36,Left arm and leg injured,N,6' to 8' shark,"Surfline, 10/23/2016"
+2016.10.14,########,2016,Unprovoked,USA,Hawaii,"Charlie Young Beach, Kihei, Maui",Snorkeling,female,F,66,Injuries to left calf,N,,Maui News
+2016.10.10,########,2016,Unprovoked,USA,Oregon,"Indian Beach, Ecola State Park, Clatsop County",Surfing,Joseph Tanner,M,29,Wounds to upper thigh and lower leg,N,,"UP Beacon, 10/12/2016"
+2016.10.02,########,2016,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,male,M,21,Cuts to dorsal surface of left foot,N,,"Orlando Sentinel, 10/2/2016"
+2016.10.01,########,2016,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfng,male,M,32,Minor injuries,N,,"Orlando Sentinel, 10/2/2016"
+2016.09.18.c,########,2016,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,male,M,16,Minor injury to thigh,N,,"Orlando Sentinel, 9/19/2016"
+2016.09.18.b,########,2016,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,Chucky Luciano,M,36,Lacerations to hands,N,,"Orlando Sentinel, 9/19/2016"
+2016.09.18.a,########,2016,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,male,M,43,Lacerations to lower leg,N,,"Orlando Sentinel, 9/19/2016"
+2016.09.17.b,########,2016,Unprovoked,USA,California,"Bunkers, Humboldt Bay, Eureka, Humboldt County",Surfing,Yuma,M,43,"No injury, board bitten",N,,"R. Collier, GSAF"
+2016.09.11,########,2016,Unprovoked,USA,Florida,"Ponte Vedra, St. Johns County",Wading,male,M,,Minor injury to arm,N,3' to 4' shark,"News4Jax, 9/11/2016"
+2016.09.07,9/7/2016,2016,Unprovoked,USA,Hawaii,"Makaha, Oahu",Swimming,Lulu Bagnol,F,51,Severe lacerations to shoulder & forearm,N,"Tiger shark, 10'","Hawaii News Now, 9/7/2016"
+2016.09.05.b,9/5/2016,2016,Unprovoked,USA,South Carolina,"Kingston Plantation, Myrtle Beach, Horry County",Boogie boarding,Rylie Williams,F,12,Lacerations & punctures to lower right leg,N,,"C. Creswell, GSAF"
+2016.09.04,9/4/2016,2016,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Body boarding,Austin Moore,M,9,Foot bitten,N,,"Orlando Sentinel, 9/7/2016"
+2016.09.01,9/1/2016,2016,Unprovoked,USA,California,"Refugio State Beach, Santa Barbara County",Spearfishing,Tyler McQuillen,M,22,Two toes broken & lacerated,N,"White shark, 8' to 10'","R. Collier, GSAF"
+2016.08.29.b,########,2016,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,Sam Cumiskey,M,25,Lacerations to right foot,N,"Bull shark, 6'","News Channel 8, 8/30/16"
+2016.08.29.a,########,2016,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,male,M,37,Minor injury to ankle,N,,"News Channel 8, 8/30/16"
+2016.08.25,########,2016,Unprovoked,USA,Florida,"Ponte Vedra, St. Johns County",Wading,David Cassetty,M,49,Minor injury to ankle,N,,"First Coast News, 7/25/2016"
+2016.08.06,8/6/2016,2016,Unprovoked,USA,Hawaii,Maui,SUP Foil boarding,Connor Baxter,M,21,"No inury, shark & board collided",N,"Tiger shark, 10'","SUP, 8/9/2015"
+2016.08.04,8/4/2016,2016,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,Nolan Tyler,M,22,Big toe bitten,N,Blacktip shark,"News 965, 8/5/2016"
+2016.07.27,########,2016,Provoked,USA,Florida,"Florida Keys, Monroe County",Lobstering,Warren Sapp,M,43,Laceration to left forearm PROVOKED INCIDENT,N,"Nurse shark, 4'","Tampa Bay Times, 7/27/2016"
+2016.07.17,########,2016,Boat,USA,Alabama,8 miles off Mobile,Fishing in Alabama Deep Fishing Rodeo,Occupant: Ben Raines,,,"No injury, shark bit trolling motor",N,"Tiger shark, 10'","Al.com, 7/19/2016"
+2016.07.16.b,########,2016,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,female,F,9,Minor injury to leg,N,,"Orlando Sentinel, 7/21/2016"
+2016.07.16.a,########,2016,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",,female,F,11,Minor injury to toes,N,,"Orlando Sentinel, 7/21/2016"
+2016.07.15.b,########,2016,Unprovoked,USA,California,"Surfside, Orange County",Kite surfing,Lee Frees,M,61,"No injury, board damaged",N,"White shark, 10' to 12'","R. Collier, GSAF"
+2016.07.15.a,########,2016,Unprovoked,USA,South Carolina,"North Myrtle Beach, Horry County",Swimming,male,M,,Puncture wounds to foot,N,,"C. Creswell, GSAF"
+2016.07.08,7/8/2016,2016,Boat,USA,California,"Capitola, Santa Cruz County",Fishing for squid,Mark Davis,M,,"No injury. Hull bitten, tooth fragment recovered",N,White shark,"R. Collier, GSAF"
+2016.07.07.b,7/7/2016,2016,Provoked,USA,Massachusetts,"Off Gloucester, Essec County",Fishing,Roger Brissom,M,59,Fin of hooked shark injured fisherman's forearm. . PROVOKED INCIDENT,N,dogfish shark,Salem News 7/8/2016
+2016.07.07.a,7/7/2016,2016,Boat,USA,California,"Off Palos Verdes peninsula, Los Angeles County",Fishing for sharks,24' boat Shark Tagger Occupant Keith Poe,M,,"No injury. Hull bitten, tooth fragment recovered",N,White shark,"R. Collier, GSAF"
+2016.07.06,7/6/2016,2016,Unprovoked,USA,Florida,"Melbourne Beach, Brevard County",Swimming,female,F,42,"Buttocks, thigh, left hand & wrist injured",N,,"Florida Today, 7/6/2016"
+2016.06.27,########,2016,Unprovoked,USA,South Carolina,Sullivan's Island,,male,M,35,Minor injury,N,3' to 4' shark,"C. Creswell, GSAF"
+2016.06.25,########,2016,Unprovoked,USA,North Carolina,"Atlantic Beach, Emerald Isle, Carteret County",Surfing,male,M,11,Foot injured,N,,"C. Creswell, GSAF"
+2016.06.21.b,########,2016,Unprovoked,USA,South Carolina,"North Myrtle Beach, Horry County",Floating,Jeff Schott,M,42,Lacerations and punctures to foot,N,3' to 5' shark,"C. Creswell, GSAF"
+2016.06.21.a,########,2016,Unprovoked,USA,Florida,"Pelican Beach Park, Satellite Beach, Brevard County",Wading,male,M,,Injuries to right calf,N,,"Florida Today, 6/22/2016"
+2016.06.15.b,########,2016,Unprovoked,USA,Hawaii,"Kalapaki Beach, Kauai",Surfing,male,M,,Single puncture wound to arm,N,3' to 4' shark,"West Hawaii Today, 6/16/2016"
+2016.06.14,########,2016,Unprovoked,USA,Texas,"Pirates Beach, Galveston",Floating in tube,Marin Alice Melton,F,6,Injury to lower leg,N,3' to 4' shark,"Click2Houston, 6/14/2016"
+2016.06.11,########,2016,Unprovoked,USA,North Carolina,"Atlantic Beach, Emerald Isle, Carteret County",Standing,Dillon Bowen,M,19,Laceration to wrist,N,3' shark,"C. Creswell, GSAF"
+2016.06.07,6/7/2016,2016,Invalid,USA,South Carolina,"Folly Beach, Charleston County",Surfing,Jack O'Neill,M,27,"No injury, board damaged",N,Said to involve an 8' shark but more likely damage caused by debris,"C. Creswell, GSAF"
+2016.06.05.b,6/5/2016,2016,Unprovoked,USA,Florida,"Flagler Beach, Flagler County",Swimming,male,M,64,Leg bitten,N,,"Daytona Beach News-Journal, 6/5/2016"
+2016.05.29.b,########,2016,Unprovoked,USA,California,"Corona Del Mar, Newport, Orange County",Swimming,Maria Korcsmaros,F,52,Injuries to arm and shoulder,N,,"R. Collier, GSAF"
+2016.05.29.a,########,2016,Unprovoked,USA,Florida,"Neptune, Duval County",Swimming,male,M,13,Injury to posterior right leg,N,5' shark,"News4Jax, 5/29/2016"
+2016.05.22,########,2016,Unprovoked,USA,Florida,"Vero Beach, Indian River County",Swimming,Mary Marcus,F,57,Puncture wounds to thigh,N,,"Florida Today, 5/22/2016"
+2016.05.21.b,########,2016,Unprovoked,USA,Florida,"St. Petersburg, Pinellas County",Swimming,Krystal Magee,F,22,Lacerations and puncture wounds to foot and ankle,N,"Bull shark, 4' to 5'","ABC Action News, 6/15/2016"
+2016.05.21.a,########,2016,Unprovoked,USA,Florida,"Hugenot Beach , Jacksonville, Duval County",Swimming,female,F,11,"Back, arm & hand injured",N,,"Action News Jax, 5/23/2016"
+2016.05.18,########,2016,Unprovoked,USA,Florida,"Ponte Vedra, St. Johns County",Swimming,Mark Wilson,M,48,Ankle bitten,N,"Blacktip shark, 4'","News4Jax, 5/19/2016"
+2016.05.15,########,2016,Provoked,USA,Florida,"Boca Raton, Palm Beach County",Teasing a shark,female,F,23,Arm grabbed PROVOKED INCIDENT,N,"Nurse shark, 2'","CBS News, 5/16/2016"
+2016.05.03,5/3/2016,2016,Unprovoked,USA,Hawaii,"Wailea Beach, Maui",Floating,male,M,59,Minor lacerations to right shoulder,N,,"Maui Now, 5/3/2016"
+2016.04.23,########,2016,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,Kelton Beardall,M,15,Minor injury to left foot,N,,"News4Jax, 4/23/2016"
+2016.04.13,########,2016,Unprovoked,USA,Florida,"Off Singer Island, Palm Beach County",Spearfishing,Kyle Senkowicz,M,26,Multiple bites to right arm,N,"Bull shark, 7'","Palm Beach Post, 4/13/2016"
+2016.04.07.b,4/7/2016,2016,Unprovoked,USA,Florida,"Florida Keys, Monroe County",Fishing,Jonathan Lester,M,34,Left hand bitten,N,5' to 6' shark,
+2016.04.07.a,4/7/2016,2016,Invalid,USA,Florida,"Corners Beach, Jupiter, Palm Beach County",SUP,Maximo Trinidad,M,,Fell off board when spinner shark leapt from the water next to him. No injury to surfer,N,,YouTube
+2016.03.31,########,2016,Unprovoked,USA,Hawaii,"Olowalu, Maui",Snorkeling,J. Orr,F,46,Minor injury to left foot,N,,"Maui Now, 3/31/2016"
+2016.03.28.b,########,2016,Unprovoked,USA,Florida,"Fort Myers Beach, Lee County",,Nick Kawa,M,,Minor injury to arm. Possibly caused by smalll nurse shark,N,Shark involvement not confirmed,"Fox 35, 3/30/2015"
+2016.03.13,########,2016,Invalid,USA,California,"Bolsa Chica State Park, Orange County",Surfing,unknown,,,Board reportedly bumped by shark. No injury,N,Shark involvement not confirmed,"Orange County Register, 3/13/2016"
+2016.03.11,########,2016,Unprovoked,USA,Florida,"Vero Beach, St. Lucie County",Body surfing,Daniel Kenny,M,19,Lacerations to right foot and ankle,N,,"WCBV-5, 3/31/206"
+2016.03.04,3/4/2016,2016,Unprovoked,USA,Florida,"Ocean Reef Park, Singer Island, Palm Beach County",,male,M,12,Superficial injury to foot,N,,WPTV. 3/4/2016
+2016.01.28,########,2016,Unprovoked,USA,Hawaii,"Hanalei Bay, Kauai",Surfing,male,M,,Lacerations to both hands,N,"Reef shark, 5'",KHON2. 1/28/2016
+2016.01.25,########,2016,Unprovoked,USA,Hawaii,"Hanalei Bay, Kauai,",Surfing,Kaya Waldman,F,15,No injury,N,,"The Garden Island, 2/2/2016"
+2016.01.24.b,########,2016,Unprovoked,USA,Texas,Off Surfside,Spearfishing,Keith Love,M,,"Bruised ribs & tail bone, speargun broken and wetsuit cut",N,Bull sharks x 2,K. Love
+2016.01.23,########,2016,Unprovoked,USA,Hawaii,"Wailea Beach, Maui",Paddle boarding,Matt Mason,M,48,No injury,N,"Tiger shark, 14'","Grand Forks Herald, 1/27/2915"
+2015.12.22,########,2015,Unprovoked,USA,Hawaii,La'aloa Beach Park,Paddle boarding,Robert Ford,M,71,"No injury, shark bit board",N,9' shark,"West Hawaii Today, 12/23/2015"
+2015.11.15.b,########,2015,Unprovoked,USA,Florida,"Palm Beach, Palm Beach County",Swimming,Sarah Rose Bogden,F,,Leg injured,N,,"Palm Beach Post, 11/16/2015"
+2015.11.15.a,########,2015,Unprovoked,USA,Florida,"Ocean Reef Park, Singer Island, Palm Beach County",Surfing,Allen Engelman,M,28,Lacerations to hand,N,"Spinner shark, 7'","5WPTV, 11/15/2015"
+2015.12.23,########,2015,Invalid,USA,Florida,"Paradise Beach, Melbourne, Brevard County",Surfing,Ryla Underwood,F,9,Lower left leg injured,N,Shark involvement not confirmed,"Fox25Orlando, 11/7/2015"
+2015.11.03,########,2015,Unprovoked,USA,Hawaii,"Kehena Beach, Hawaii",Swimming,Paul O'Leary,M,54,Laceration to right ankle,N,,"Hawaii News Now, 11/4/2015"
+2015.11.01.b,########,2015,Unprovoked,USA,Florida,"Cocoa Beach, Brevard County",Wading,Jill Kruse,F,28,Injury to right ankle/calf & hand,N,3' to 5' shark,"USA Today, 11/1/2015"
+2015.10.28.a,########,2015,Unprovoked,USA,Hawaii,"Malaka, Oahu",Body boarding,Raymond Senensi,M,10,"Lacerations & puncture wounds to right thigh, calf & ankle",N,,"Star Advertiser, 10/28/2015"
+2015.10.21,########,2015,Unprovoked,USA,Florida,"Playalinda Beach, Brevard County",Surfing,Michael Salinger,M,21,Lacerations to left hand,N,5' shark,"ClickOrlando.com, 10/21/2015"
+2015.10.19,########,2015,Unprovoked,USA,Florida,"Deerfield Beach, Broward County",Surfing,Peter Kirn,M,21,Left foot bitten,N,"Spinner shark, 5'","NBC6.com, 10/19/2015"
+2015.10.17.b,########,2015,Invalid,USA,Hawaii,"Waikiki,",Surfing,male,M,32,Left foot bitten by eel,N,No shark involvement,"KHON2, 10/17/2015"
+2015.10.17.a,########,2015,Unprovoked,USA,Hawaii,"Lanikai Beach, Kailua, Oahu",Swimming,Tony Lee,M,44,Injuries to lower legs,N,"Tiger shark, 7'","KHON2, 10/17/2015"
+2015.10.13,########,2015,Boat,USA,California,"Off Leffingwell Landing, San Luis Obispo County",Kayak Fishing,Jordan Pavacich,M,,"No injury, shark rammed kayak repeatedly",N,Hammerhead sp.,"The Tribune, 10/28/2015"
+2015.10.09.b,########,2015,Unprovoked,USA,South Carolina,"Shipyard Beach Club, Hilton Head Island, Beaufort County",Boogie boarding,Meti Kershner,F,9,Laceration to forearm,N,,"C. Creswell, GSAF"
+2015.10.09.a,########,2015,Unprovoked,USA,Hawaii,"Leftovers, Oahu",Surfing,Colin Cook,M,25,"Left leg severed below the knee, defense injuries to left hand",N,"Tiger shark, 13'","Hawaii News Now, 10/9/2015"
+2015.10.05.b,########,2015,Unprovoked,USA,Florida,"Pepper Park Beach, St. Lucie County",Body boarding,male,M,22,2 lacerations to ankle,N,,"WPBF.com, 10/6/2015"
+2015.10.05.a,########,2015,Unprovoked,USA,Texas,Galveston,Wading,Gregory Slaughter,M,13,Foot & hands bitten,N,4' to 5' shark,"Houston Chronicle, 10/5/2015"
+2015.10.04,########,2015,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,Phillip Tarasovic,M,14,Severe lacerations to left hand,N,"Blacktip shark, 4' to 5'","CNN, 10/4/2015"
+2015.09.29,########,2015,Unprovoked,USA,Florida,"Vilano Beach, St. Johns County",Surfing,"David Morrison, Jr.",M,22,"Laceration to heel, puncture wounds to dorsum of foot",N,"Blacktip shark, 5' to 6'","First Coast News, 9/30/2015"
+2015.09.24,########,2015,Unprovoked,USA,California,"Horseshoe Rock, Santa Barbara County",Kayak fishing,Darren Kenney,M,,"No injury, kayak damaged",N,"White shark, 19'",R. Collier
+2015.09.20.d,########,2015,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,male,M,14,Minor injury to left ankle,N,juvenile shark,"Orlando Sentinel, 9/20/2015"
+2015.09.20.c,########,2015,Unprovoked,USA,Hawaii,"Upolu Point, North Kohala, Big Island",Spearfishing,Braxton Rocha,M,27,Severe laceration to left leg,N,"Tiger shark, 13'","Big Island Video, 9/20/2015"
+2015.09.20.b,########,2015,Unprovoked,USA,Florida,"Fernandina Beach, Amelia Island, Nassau County",Wading,"Joshua Bitner, Jr.",M,12,Significant injuries to leg,N,4' shark,"News4Jax, 9/21/2015"
+2015.09.20.a,########,2015,Unprovoked,USA,Florida,"Vilano Beach, St. Johns County",Photographing fish,Filippo Schiavo,M,16,Injury to right hand / wrist,N,,"News4JAX, 9/21/2015"
+2015.09.18,########,2015,Unprovoked,USA,Florida,"Big Talbot Island, Duval County",Swimming,Peter Vergenz,M,,Lacerations to calf,N,,"Action News Jax, 9/23/2015"
+2015.09.17,########,2015,Unprovoked,USA,Florida,"Jacksonville Beach, Duval County",Surfing,Bryan Liebetrau,M,20,Injury to right foot,N,,"News4JAX, 9/15/2015"
+2015.09.06,9/6/2015,2015,Unprovoked,USA,California,"El Pescador Beach, Los Angeles County",Stand-Up Paddleboarding,Caterina Gennaro,F,50,"No injury, shark struck board, tossing her into the sea",N,"White shark, 11' to 12'","R. Collier, GSAF"
+2015.09.05,9/5/2015,2015,Provoked,USA,California,"Deer Creek Beach, Ventura County",Kayak Fishing,Dylan Marks,M,29,Laceration to dorsum of foot by hooked shark PROVOKED INCIDENT,N,Hammerhead shark.,"R. Collier, GSAF"
+2015.09.03,9/3/2015,2015,Unprovoked,USA,South Carolina,"Myrtle Beach, Horry County",,Chip Wagner,M,,Right foot bitten,N,4' shark?,"C. Creswell, GSAF"
+2015.08.29.b,########,2015,Unprovoked,USA,California,"Morro Strand State Beach, San Luis Obispo County",Surfing,Elinor Dempsey,F,54,"No injury, surfboard bitten",N,"White shark, 11' to 12'","R. Collier, GSAF"
+2015.08.29.a,########,2015,Unprovoked,USA,California,"Morro Bay, San Luis Obispo County",Surfing,Daniel Phillips,M,21,"No injury, shark struk sufer's leg and his board",N,"White shark, 10' to 12'","R. Collier, GSAF"
+2015.08.22.b,########,2015,Invalid,USA,Florida,"Cocoa Beach, Brevard County",,young boy,M,,Wound to right lower leg,N,Shark involvement not confirmed,"Brevard Times, 8/22/2015"
+2015.08.20,########,2015,Unprovoked,USA,South Carolina,"Murrells Inlet, Georgetown County",Surfing,Dylan Peyton,M,15,"Injuries to left calf, arm and hand",N,4' shark,"C. Creswell, GSAF"
+2015.08.19,########,2015,Unprovoked,USA,Florida,"Jacksonville Beach, Duval County",Walking,Kaley Szarmack,F,10,Lacerations to right leg,N,3' shark,"ABC News, 8/21/2015"
+2015.08.18.b,########,2015,Unprovoked,USA,California,Santa Barbara County,Kayak Fishing,Connor Lyon,M,22,"No injury, kayak bitten",N,"White shark, 13'","R. Collier, GSAF"
+2015.08.10,########,2015,Provoked,USA,California,Cortes Bank,Spearfishing,Richard Shafer,M,57,Right hand bitten PROVOKED INCIDENT,N,Hammerhead shark. 6' to 7',"NBC San Diego, 8/13/2015"
+2015.07.26.b,########,2015,Unprovoked,USA,Florida,"Daytona Beach, Volusia County",Surfing,Shawn Warrilow,M,25,Minor injury to sole of foot,N,"Blacktip or spinner shark, 4'",CBS 7/27/2015
+2015.07.26.a,########,2015,Invalid,USA,South Carolina,"Edisto Beach, Colleton County",Floating,female,F,35,"2' cut to dorsum of foot, 2 puncture wounds to sole",N,"Thought to involve a 3' to 4' shark, but shark involvement not confirmed","C. Creswell, GSAF, ABC 11, 7/27/2015"
+2015.07.23.b,########,2015,Provoked,USA,California,"La Jolla, San Diego County",Kayak Fishing,Austin Lorber,M,31,No injury to occupant. Kayak bitten by gaffed shark. PROVOKED INCIDENT,N,"Mako shark, 100-lb","NBC San Diego, 7/27/2015"
+2015.07-10,########,2015,Unprovoked,USA,California,"Huntington Beach, Orange County",Surfing,Danny Miskin,M,38,"No injury, shark bumped & damaged board",N,"White shark, 7'","KTLA, 7/10/2015"
+2015.07.08,7/8/2015,2015,Invalid,USA,California,"Huntington Beach, Orange County",Treading water,Eugene Finney,M,39,Laceration to back,N,Shark involvement not cofirmed,"Sentinel & Enterprise.com, 10/4/2015"
+2015.07.04.a,7/4/2015,2015,Unprovoked,USA,North Carolina,"Off Surf City, Pender County",,a marine,M,32,Lacerations to right hand & forearm,N,,"C. Creswell, GSAF"
+2015.07.01,7/1/2015,2015,Unprovoked,USA,North Carolina,"Ocracoke, Lifeguard Beach, National Park Service, Hyde County",Swimming,Andrew Costello,M,68,"Injuries to torso, hip, lower leg & hands",N,6' to 7' shark,"C. Creswell, GSAF"
+2015.06.30.a,########,2015,Unprovoked,USA,South Carolina,"Isle of Palms County Park, Isle of Palms, Charleston County",Playing in the water,Kysen Weakley,M,12,Shallow lacerations & puncture to lateral left leg,N,4' to 5' shark,"C. Creswell, GSAF"
+2015.06.27.b,########,2015,Unprovoked,USA,North Carolina,"Rodanthe, Dare County",Swimming,John Cole,M,18,"Injuries to right calf, buttock and both hands",N,Bull shark,"C. Creswell, WRAL, 6/27/2015"
+2015.06.26.c,########,2015,Invalid,USA,Florida,"Jacksonville Beach, Duval County",Swimming,female,F,,Minor lacerations to leg,N,Shark involvement not confirmed,"Action News Jax, 6/26/2015"
+2015.06.26.a,########,2015,Unprovoked,USA,South Carolina,"South Beach, Hunting Island State Park, Beaufort County",Standing,"Lance Donahue, Jr",M,43,Puncture wounds to foot,N,4' shark,"C. Creswell, GSAF; WCNC, 6/26/2015"
+2015.06.25,########,2015,Unprovoked,USA,North Carolina,"Avon, Hatteras Island, Outer Banks, Dare County",Body surfing?,Patrick Thornton,M,47,Multiple lacerations to back,N,,"C. Creswell, GSAF"
+2015.06.24.b,########,2015,Unprovoked,USA,North Carolina,Surf City,Swimming,Brady Noyes,M,6,Minor injury to foot,N,Sandtiger shark,"C. Creswell, GSAF"
+2015.06.23,########,2015,Unprovoked,USA,South Carolina,"St. Helena Island, Beaufort County",Standing,male,M,9,Minor injury to calf,N,small shark,"C. Creswell, GSAF; R. Lurye, Island Packet"
+2015.06.17,########,2015,Unprovoked,USA,Florida,Daytona Beach Shores,Swimming,Gavin Simpson,M,10,Minor injury to calf,N,,"WTXL TV, 6/17/2015"
+2015.06.14.b,########,2015,Unprovoked,USA,North Carolina,"Oak Island, Brunswick County",Wading,Hunter Treschel,M,16,Arm amputated below shoulder,N,Bull shark,"C. Creswell, GSAF"
+2015.06.14.a,########,2015,Unprovoked,USA,North Carolina,"Oak Island, Brunswick County",Wading,Kiersten Yow,F,12,Left arm amputated at elbow & severe injury to leg,N,Bull shark,"C. Creswell, GSAF"
+2015.06.13,########,2015,Unprovoked,USA,California,Off San Diego,,Elke Specker,F,,Severe laceration to leg,N,Mako shark,"Courthouse News Service, 11/14/2016"
+2015.06.11,########,2015,Unprovoked,USA,North Carolina,"Ocean Isle, Brunswick County",Boogie boarding,girl,F,13,Minor lacerations to foot,N,4' shark,"C. Creswell, GSAF"
+2015.06.07,6/7/2015,2015,Unprovoked,USA,Florida,"Lori Wilson Park, Cocoa Beach, Brevard County",Playing,Lucas Vertullo,M,11,Lacerations to right calf,N,"Bull shark, 5'","Florida Today, 6/7/2015"
+2015.06.05,6/5/2015,2015,Unprovoked,USA,Florida,Fort Lauderdale,Attempting to rescue a shark,female,F,17,Puncture wound to finger,N,small nurse shark,"7 News, 6/5/2015"
+2015.05.29.b,########,2015,Unprovoked,USA,Florida,"Cocoa Beach, Brevard County",Standing,Ashlyn Gilpin,F,14,Left foot bitten,N,,"Orlando Sentinel, 5/29/2015"
+2015.05.29.a,########,2015,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Wading,Dakota Hatfield,F,19,Minor lacerations to dorsum of right foot,N,,"ClickOrlando, 5/29/2015"
+2015.05.24,########,2015,Unprovoked,USA,Florida,"Cocoa Beach, Brevard County",Swimming,Alysa Whetro,F,13,"Puncture wounds to lower left leg and ankle, shallow lacerations to foot, deep laceration to Achilles tendon",N,,"WFTV, 5/27/2015"
+2015.05.20,########,2015,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,Matthew Zaccaria,M,18,2 puncture wounds to dorsum of left foot,N,5' shark,"WFTV, 5/20/2015"
+2015.05.15,########,2015,Unprovoked,USA,South Carolina,Sullivan's Island,,male,M,30,Laceration to foot,N,6' shark,"News 2, 5/15/2015"
+2015.05.07,5/7/2015,2015,Unprovoked,USA,Florida,"Cocoa Beach, Brevard County",Swimming,Josh Green,M,,"Lacerations to lower left leg, ankle & foot",N,,"KnightNews.com, 5/9/2015"
+2015.04.29,########,2015,Unprovoked,USA,Hawaii,Kanahena Cove,Snorkeling,Margaret Cruse,F,65,FATAL,Y,,"Star Advertiser, 4/30/2015"
+2015.04.26,########,2015,Unprovoked,USA,Florida,"Resident's Beach, Marco Island",Wading,Carsten Jessen,M,63,Lacerations to left calf,N,3- to 4-foot shark,"ABC-7, 4/27/2015"
+2015.04.13,########,2015,Unprovoked,USA,Florida,"Florida Keys, Monroe County",Photographing the shark,Mark Rackley,M,48,Lacerations to shoulder and left bicep,N,"Blue shark, 8 to 9 feet","Miami Herald, 4/25/2015"
+2015.04.03,4/3/2015,2015,Unprovoked,USA,Florida,"3 miles off Jupiter, Palm Beach County",Spearfishing,Rick Neumann,M,70,Injuries to head & torso,N,Bull shark,"ABC Action News, 4/6/2015"
+2015.03.18,########,2015,Unprovoked,USA,Hawaii,Hapuna Beach,Standing / Snorkeling,Ken Grasing,M,58,Lacerations to left forearm. Lacerations to left hand and thigh,N,"Tiger shark, 8 to 12 feet","KMBC, 3/19/2015"
+2015.01.27,########,2015,Provoked,USA,Hawaii,Lahaina,Shark fishing,Michael Pollard,M,20,Lacerations to calf by hooked shark PROVOKED INCIDENT,N,4' shark,"Huffington Post, 1/28/2015"
+2015.01.19.b,########,2015,Boat,USA,Florida,Off Panama City,Fishing,22-ft boat. Occupant Captain Scott Fitzgerald,M,,No injury but shark bit trolling motor & rammed boat,N,White shark,"The Panhandle, 1/20/2015"
+2015.01.08,1/8/2015,2015,Invalid,USA,Florida,,Swimming after falling overboard,Rob Konrad,M,38,"During his 16-hour swim to shore, he was circled by a shark but it did not injure him",N,No shark involvement,"UPI, 1/12/2015"
+2015.01.01,1/1/2015,2015,Unprovoked,USA,Florida,"Windsor Beach, Indian River County",,male,M,12,Leg bitten,N,"A small shark","WPTV-West Palm Beach, 1/2/2015"
+2015.11.16,########,2015,Unprovoked,USA,Florida,"Playalinda Beach, Brevard County",Surfing,Aaron Conti,M,,Right heel injured,N,,WFTV. 11/17/2015
+2014.12.28.b,########,2014,Unprovoked,USA,California,"Monta??a de Oro State Park, San Luis Obispo County",Surfing,Kevin Swanson,M,50,Injury to hip/leg,N,"White shark, 8' to 10'","R. Collier, GSAF"
+2014.11.17,Reported 17-Nov-2014,2014,Boat,USA,California,"Franklin Point, San Mateo County",,Boat: occupants: Matt Mitchell & 2 other people,,,"Shark bumped boat, no injury to occupants",N,White shark,"Inquisitr, 11/17/2014"
+2014.11.16,########,2014,Unprovoked,USA,Florida,"Indian Harbor Beach, Brevard County",Surfing,male,M,44,Laceration to left hand,N,2' shark,"USA Today, 11/16/2014"
+2014.11.13,########,2014,Unprovoked,USA,Hawaii,"Airplane Beach, Lahina, West Maui",Snorkeling,Andrew Haas,M,53,Laceration to left upper leg,N,1.5 m shark,"G. Kubota, Star Advertiser, 11/13/2014"
+2014.11.08,########,2014,Unprovoked,USA,Florida,"Fort Pierce Inlet State Park, St. Lucie County",Surfing,Ryan Shapiro,M,18,Minor injuries to hand & arm,N,,WPTV.com
+2014.10.31,########,2014,Unprovoked,USA,Hawaii,"North Kohala, Hawaii County",Surfing,McKenzie Clark,F,34,Lacerations to fingers,N,"Tiger shark, 12'","L. Kubota, Hawaii News Now, 10/31/2014"
+2014.10.22,########,2014,Unprovoked,USA,Hawaii,"Kihei, Maui",Stand-Up Paddleboarding,Kim Lawrence,F,,"No injury, paddleboard bitten",N,Tiger shark,"Hawaii News Now, 10/22/2014"
+2014.10.20,########,2014,Unprovoked,USA,Hawaii,"Kahului, Maui",Stand-Up Paddleboarding,male,M,,"No injury, paddleboard bitten",N,,"The Maui News, 10/21/2014"
+2014.10.19,########,2014,Boat,USA,California,"Leadbetter Beach, Santa Barbara County",Canoeing,Tara Burnley,F,,"No injury to occupant, canoe bitten",N,,"R. Collier, GSAF"
+2014.10.18,########,2014,Unprovoked,USA,Hawaii,"Maalaea, South Maui",Surfing,Kaleo Roberson,M,,"No injury, surfboard bitten",N,12' to 14' shark,"Star Advertiser, 10/18/2014"
+2014.10.14,########,2014,Unprovoked,USA,South Carolina,"Hilton Head Island, Beaufort County",Standing in inner tube,Kyra Bandy,F,7,Lacerations to left foot,N,"Bull shark, 3' to 4'","TheIndyChannel, 10/16,2014"
+2014.10.12,########,2014,Unprovoked,USA,Florida,"Melbourne Beach, Brevard County",Body surfing or Boogie boarding,female,F,,Laceration to right hand/wrist,N,,"Florida Today, 10/13/2014"
+2014.10.05.b,########,2014,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,Kevin Ross,M,29,Foot bitten,N,Blacktip shark,"WESH2, 10/6/2014"
+2014.10.07,########,2014,Unprovoked,USA,Florida,"Cherie Down Park, Brevard County",Fishing,female,F,40,Thigh bitten,N,,"Click Orlando, 10/7/2014"
+2014.10.05.a,########,2014,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,Hilton Mantooth,M,15,Foot bitten,N,Blacktip shark,"WESH2, 10/6/2014"
+2014.10.03.b,########,2014,Boat,USA,California,Santa Barbara County,Kayaking,Ryan Howell,M,,"No injury to occupant, shark/s holded kayak",N,"White shark, 18' to 20'","R. Collier, GSAF"
+2014.10.03.a,########,2014,Boat,USA,California,Santa Barbara County,Kayaking,Raul Armenta,M,,"No injury to occupant, shark/s holded kayak",N,White shark,"R. Collier, GSAF"
+2014.10.02.b,########,2014,Unprovoked,USA,California,"Walls Beach, Vandenberg AFB, Santa Barbara County",Surfing,M.M.,M,28,Lacerations to knee,N,8' to 10' shark,"R. Collier, GSAF"
+2014.09.21,########,2014,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,Jordan Lefebvre,M,,Minor injury to left foot,N,,"NBC2 News, 9/21/2014"
+2014.09.13,########,2014,Invalid,USA,California,"Manresa State Beach, Santa Cruz County",Surfing,Beau Browning,M,,"A hoax, no shark involvement",N,No shark involvement,"R. Collier, GSAF"
+2014.09.06,9/6/2014,2014,Unprovoked,USA,Alabama,"Katrina Cut, Dauphin Island, Mobile County",Fishing,Jamie Robson,M,43,Leg bitten,N,Bull shark,"Fox10TV.com, 9/7/2014"
+2014.09.03,9/3/2014,2014,Unprovoked,USA,Massachusetts,"Manomet Point, Plymouth, Plymouth County",Kayaking,Ida Parker & Kristen Orr,F,,"No injury, shark bit kayak",N,"White shark, 12' to 14'","Boston Globe, 9/4/2014"
+2014.09.02,9/2/2014,2014,Provoked,USA,Florida,"Fletcher Beach, Hutchinson Island, Martin County",Fishing,male,M,52,Bitten twice on the leg by a shark he was attempting to free from his line PROVOKED INCIDENT,N,3' to 4' shark,"WPBF.com, 9/2/2014"
+2014.08.31,########,2014,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Body surfing,Alexandra Masterson,F,13,Injury to left calf,N,Spinner shark,"Sun Sentinel, 8/31/2014"
+2014.08.29.b,########,2014,Unprovoked,USA,Florida,"Ponce Inlet, Volusia County",Surfing,Brendan Murphy,M,17,Lacerations to shin,N,Spinner shark or blacktip shark,"Click Orlando, 9/12/2014"
+2014.08.29.a,########,2014,Invalid,USA,Florida,"Atlantic Beach, Duval County",,child,,,Shark involvement not confirmed,N,Shark involvement not confirmed,"Orlando Sentinel, 8/31/2014"
+2014.08.28,########,2014,Provoked,USA,Maryland,Assateague National Seashore,Fishing,Mathew Vickers,M,33,Lacerations to foot by hooked shark PROVOKED INCIDENT,N,,"Delmarva Now, 8/29/2014"
+2014.08.27.b,########,2014,Unprovoked,USA,North Carolina,"Figure Eight Island, New Hanover County",Surfing,Hunter Anderson,M,29,Laceration to left hand,N,4' to 6' shark,"C. Creswell, GSAF"
+2014.08.27.a,########,2014,Unprovoked,USA,South Carolina,"Surfside Beach, Horry County",Standing,female,F,,Heel bitten,N,,"C. Creswell, GSAF"
+2014.08.25,Reported 25-Aug-2014,2014,Provoked,USA,Florida,Apalachicola Bay,Fishing for sharks,John Wiley,M,,Lacerations to forearm from hooked shark PROVOKED INCIDENT,N,"Bull shark, 4.5'","Nooga.com, 8/25/2014"
+2014.08.24,########,2014,Unprovoked,USA,North Carolina,"Off Masonboro Island, New Hanover County",Kite boarding,Miller Diggs,,,Laceration to left foot,N,4' shark,"C. Creswell, GSAF; WWAY, 8/24/2014"
+2014.08.12,########,2014,Unprovoked,USA,Florida,"3 to 4 miles west of Indian Pass, Gulf County",Standing,Kyle Hayes,M,,Puncture wounds and lacerations to left thigh and knee,N,"Bull shark, 8'","K. Hayes / Brewton Standard, 8/19/2014"
+2014.08.10,########,2014,Unprovoked,USA,Florida,"Hallandale Beach, Broward County",,male,M,26,Puncture wounds & lacerations to foot,N,,"CBS Miami, 8/11/1014"
+2014.08.09,8/9/2014,2014,Unprovoked,USA,Florida,"Lori Wilson Park, Cocoa Beach, Brevard County",Swimming,Krama Fordham,F,10,Puncture wounds to right foot & ankle,N,,"Florida Today, 8/9/2014"
+2014.08.08,8/8/2014,2014,Unprovoked,USA,Louisiana,"Lake Ponchartain off Southshore Harbor, New Orleans",Swimming,Trent Trentacosta,M,7,Minor lacerations to left heel and big toe,N,"Bull shark, 5'","The Times-Picayune, 8/9/2014"
+2014.08.06,8/6/2014,2014,Unprovoked,USA,South Carolina,"Folly Beach, Charleston County",Boogie boarding,Riley Harris,M,10,Lacerations to right leg & foot,N,4' tp 5' shark,"C. Creswell, GSAF; WCSC. 8/6/2014"
+2014.08.05,8/5/2014,2014,Unprovoked,USA,Florida,"Cocoa Beach, Brevard County",Swimming,female,F,45,Lacerations to foot,N,,"Inquisitr, 8/7/2014"
+2014.08.02,8/2/2014,2014,Unprovoked,USA,Florida,"South of Cocoa Beach, Brevard County",Surfing,male,M,,Foot bitten,N,,"Florida Today, 8/8/2014"
+2014.08.02,8/2/2014,2014,Unprovoked,USA,Florida,"Table Beach, Brevard County",Boogie boarding,Christian Sanhueza,M,8,Laceration to ankle,N,,"Florida Today, 8/2/2014"
+2014.07.27,########,2014,Unprovoked,USA,North Carolina,"Sunset Beach, Brunswick County",Swimming,male,M,,Left foot bitten,N,Possibly juvenile tiger shark,"C. Creswell, GSAF"
+2014.07.21,########,2014,Unprovoked,USA,Florida,"Indialantic, Brevard County",Standing,Aayden Crick,M,8,Lacerations to right knee,N,,"ClickOrlando, 7/22/2014"
+2014.07.16,########,2014,Unprovoked,USA,Hawaii,"Paia Bay, Maui",Swimming,male,M,61,Lacerations to left foot,N,6' to 8' shark,"Maui Now, 7/16/2014"
+2014.07.14,########,2014,Unprovoked,USA,Florida,Okaloosa Island,Swimming,Terrell Moore,M,39,Puncture wounds to foot,N,4' shark,"W. Victora, Daily News, 7/15/2014"
+2014.07.12,########,2014,Unprovoked,USA,North Carolina,"Masonboro Island, New Hanover County",Body surfing,Carson Jewell,M,,Lacerations to hand and wrist,N,,"C. Creswell, GSAF"
+2014.07.09,7/9/2014,2014,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,Tristan Durham,M,14,Lacerations to foot,N,,"WESH.com, 7/9/2014"
+2014.07.05.b,7/5/2014,2014,Provoked,USA,California,"Manhattan Beach, Los Angeles County",Swimming,Steve Robles,M,,PROVOKED INCIDENT Torso bitten by shark hooked by an angler,N,"White shark, 7'","R. Collier, GSAF / M Michaelson, SRI"
+2014.07.05.a,7/5/2014,2014,Unprovoked,USA,California,"Oceano Dunes State Beach, San Luis Obispo County",Surfing,R.J.,M,,"No injury, surboard bitten",N,,"R. Collier, GSAF"
+2014.07.03,7/3/2014,2014,Unprovoked,USA,South Carolina,"Isle of Palms, Charleston County",Body surfing,Christian Fairbourne,M,19,Right hand bitten,N,4' to 5' shark,"C. Creswell, GSAF Live5News, 7/3/2014"
+2014.06.09.b,6/9/2014,2014,Unprovoked,USA,Delaware,"Cape Henlopen State Park, Sussex County",Standing,Andrew Vance,M,16,"Abrasion to right hand, lacerations to left forearm",N,"Sandbar shark, 3' to 4'","News Journal (Wilmington, Del), 6/11/2014"
+2014.06.07,6/7/2014,2014,Unprovoked,USA,Texas,"West Beach, Galveston",Kneeling in the water,Mikaela Amezaga Medina,F,14,Shallow lacerations & puncture wounds below shoulder,N,,"Inquisitr.com, 6/9/2014"
+2014.06.01.c,6/1/2014,2014,Unprovoked,USA,Florida,Fort Lauderdale,Swimming,Jessica Vaughn,F,22,Laceration to right lower leg,N,Bull shark,"Local10.com, 6/1/2014"
+2014.06.01.a,6/1/2014,2014,Unprovoked,USA,Palmyra Atoll,,Tagging sharks,female,F,37,Laceration to left hand,N,Blacktip Reef shark,U.S. Coast Guard
+2014.05.15,########,2014,Unprovoked,USA,Florida,"Juan Ponce de Le??n Landing, Melbourne Beach, Brevard County",Body boarding,Amy Tatsch,F,38,Calf bitten,N,,"M. Michaelson, Shark Research Institute"
+2014.05.13,########,2014,Unprovoked,USA,Florida,"Jacksonville Beach, Duval County",Wading,Mihaela Cosa,F,44,Lacerations and puncture wounds to right foot,N,,"M. Michaelson, Shark Research Institute"
+2014.05.11,########,2014,Unprovoked,USA,Georgia,"Tybee Island, Chatham County",Surfing,Ayden Meadows,M,12,Puncture wounds to right thigh,N,Shark involvement not confirmed,"Savannah Morning News, 5/12/2014"
+2014.05.10.R,Reported 10-May-2014,2014,Invalid,USA,Florida,"Bethel Shoals, Indian River County",Diving,Jimmy Roseman,M,,"No injury. No attack. 12' white shark appeared curious, not aggressive & departed when prodded by spear",N,No shark involvement,"Metro, 5/10/2014"
+2014.05.06,5/6/2014,2014,Unprovoked,USA,South Carolina,"Coligny Beach, Hilton Head, Beaufort County",Swimming,Kimberly Popp,F,40,Lacerations to left foot,N,4' to 5' shark,"The Island Packet, 5/7/2014"
+2014.05.01,5/1/2014,2014,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,Shane Nolet,M,23,Laceration to right hand and cuts on fingertips,N,3' shark,"Wesh.com, 5/2/2014"
+2014.04.22,########,2014,Unprovoked,USA,Florida,"Cocoa Beach, Brevard County",Swimming,male,M,42,Laceration & puncture wounds to right foot,N,,"R. Neale, Florida Today, 4/22/2014"
+2014.04.15,########,2014,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Wading,Justin Davidson,M,25,Minor lacerations to left foot,N,,"Daytona Beach News-Journal, 4/15/2014"
+2014.04.04.b,4/4/2014,2014,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,male,M,,Minor puncture wounds to lower left leg,N,,"News 13, 4/4/2014"
+2014.04.04.a,4/4/2014,2014,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,male,M,,Lacerations to foot,N,,"News 13, 4/4/2014"
+2014.03.22.a,########,2014,Unprovoked,USA,Florida,Delray Beach,Kite Surfing,Kurt Hoffman,M,,Lacerations to left forearm,N,4' to 5' shark,"TC Palm, 3/23/2014"
+2014.03.21,########,2014,Unprovoked,USA,Florida,Macarthur State Park,Surfing,Sebastian Cozzen,M,9,Lacerations to toes and heel of right foot,N,,"E. Guy, WPBF, 3/26/2014"
+2014.03.02,3/2/2014,2014,Unprovoked,USA,Florida,"Santa Lucea Beach, South Hutchinson Island, St. Lucie County",Surfing,Dylan Fugitt,M,21,Lacerations to toes,N,Blacktip or spinner shark?,"L.Gordon, CBS 12, 3/3/2014"
+2013.12.11,########,2013,Unprovoked,USA,Hawaii,"Ninole Bay, Hawaii County",Boogie boarding,male,M,29,Lacerations to right hand & knee,N,"Tiger shark, 10' to 12'","Big Island Now, 12/11/2013"
+2013.12.10,########,2013,Unprovoked,USA,Florida,"Cocoa Beach, Brevard County",Surfing,Bobby Baughman,M,30,Right foot bitten,N,4' to 6' shark,"Florida Today, 12/10/2103"
+2013.12.02,########,2013,Unprovoked,USA,Hawaii,"Between Makena & Molokini, Maui",Kayaking / Fishing,Patrick Briney,M,57,FATAL,Y,,"C. Sugidono, The Maui News, 12/2/2013"
+2013.11.29,########,2013,Unprovoked,USA,Hawaii,"Keawekapu Beach, Kihei, Maui",Snorkeling,female,F,58,Right calf bitten,N,,"L. Fujimoto, Maui News, 11/29/2013"
+2013.11.22,########,2013,Unprovoked,USA,Oregon,"Gleneden Beach, Lincoln County",Surfing,Andrew Gardiner,M,25,"No injury, board bitten",N,"White shark, 10 '",R. Collier
+2013.11.07.b,########,2013,Unprovoked,USA,New Jersey,"Bay Head, Ocean County",Body boarding,Quinn Gates,M,16,"No injury, swim fin bitten",N,,"S. Nagiewicz, SRI; Star Ledger, 11/9/2013"
+2013.11.07.a,########,2013,Unprovoked,USA,Florida,"Floridana Beach, Brevard County",Surfing,Sandor Melian,M,,Foot bitten,N,,"Space Coast Daily, 11/11/2013"
+2013.10.31,########,2013,Unprovoked,USA,Hawaii,"Kanaha Beach, Maui",Kiteboarding,Christian Brandon,M,46,Severe bite to right calf & anklel,N,Tiger shark,"Maui TV, 10/31/2013"
+2013.10.23,########,2013,Unprovoked,USA,Hawaii,"Waiehu, Maui",Diving,Shane Mills,M,45,3" laceration to left hip,N,"Whitetip reef shark, 4' to 6'","Maui News, 10/23/2013"
+2013.10.20,########,2013,Unprovoked,USA,Hawaii,"Pila'a Beach, Kaua'i",Surfing,Jeff Horton,M,25,"No injury, shark bit surfboard",N,Tiger shark,"B. Buley, The Garden Island, 10/22/2013"
+2013.10.19,########,2013,Unprovoked,USA,Florida,Miami Beach,Wading,Logan Hamby,M,6,Bitten on left calf & foot,N,Nurse shark?,K & D Hamby
+2013.10.05,########,2013,Unprovoked,USA,California,"Bunkers, Humboldt Bay, Eureka, Humboldt County",Surfing,Jay Scrivner,M,45,Laceration to thigh,N,"White shark, 8' to 10'","R. Collier, GSAF"
+2013.10.05,########,2013,Unprovoked,USA,Florida,"Destin, Okaloosa County",Wading,Zachary Tyke Standridge,M,12,Lacerations to right forearm,N,Small bull shark,"Monroe County Advocate, 10/9/2013"
+2013.09.29.b,########,2013,Unprovoked,USA,Florida,"Melbourne Beach, Brevard County",Surfing,male,M,50,Lacerations to hand,N,,"Florida Today, 9/30/2013"
+2013.09.25,########,2013,Unprovoked,USA,Florida,"Panama City, Bay County",Standing,Ethan Hand,M,7,Laceration and puncture wounds to ankle,N,,"C. Dobridnia, WMBB.com"
+2013.09.21.b,########,2013,Unprovoked,USA,Florida,"Ormond Beach, Volusia County",Swimming,female,M,45,Lacerations to right foot,N,,"M. I. Johnson, Daytona Beach News Journal"
+2013.09.21.a,########,2013,Unprovoked,USA,Florida,"Carlin Park, Jupiter, Palm Beach County",Surfing,Brandon Dugan,M,,Lacerations to left foream,N,,News Channel 5
+2013.09.14,########,2013,Unprovoked,USA,Florida,"Casino Beach, Pensacola, Escambia County",Swimming,Trevor Kalck,M,21,Lacerations to right foot,N,Bull shark,"E. Ritter, GSAF"
+2013.09.12,########,2013,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,Storm Portman,F,13,Heel bitten,N,3' shark,"Orlando Sentinel, 9/7/2013"
+2013.09.08,9/8/2013,2013,Unprovoked,USA,South Carolina,"St. Helena Island, Beaufort County",,female,F,,No details,UNKNOWN,,"WIS-TV, 9/9/2013"
+2013.09.07.b,7-Sep-13,2013,Provoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,John Graham,M,43,Foot bitten when he accidentally jumped onto the shark PROVOKED INCIDENT,N,3' shark,"Orlando Sentinel, 9/7/2013"
+2013.09.07.a,7-Sep-13,2013,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Standing,Marco Edmundo Cardiel,M,25,"Minor injury, shin bitten",N,3' shark,"Orlando Sentinel, 9/7/2013"
+2013.09.02,2-Sep-13,2013,Unprovoked,USA,Florida,"Ormond Beach, Volusia County",Swimming,Raushod Floyd,M,17,Shoulder bitten,N,,"WFTV, 9/2/2013"
+2013.09.01.c,1-Sep-13,2013,Provoked,USA,Florida,Key West Aquarium,,female,M,3,Arm bitten by captive shark PROVOKED INCIDENT,N,Nurse shark,"KeyNews, 8/4/2013"
+2013.09.01.a,1-Sep-13,2013,Unprovoked,USA,Florida,"St Augustine Beach, St Johns County",Casting a net,Connor Baker,M,9,Lacerations to left calf,N,4' shark,"WTEV 47, 9/1/2013"
+2013.08.31.a,########,2013,Unprovoked,USA,California,"Butterfly Beach, Montecito, Santa Barbara County",Swimming,Nick Kennedy,M,,Foot bitten,N,Salmon shark,R. Collier
+2013.08.29,########,2013,Invalid,USA,California,Catalina Channel,Marathon swimming,Charlotte Brynn,F,47,"Puncture wound to torso. Reported as a bite by a leopard shark, the tooth fragment appears to be that of a bony fish",N,No shark involvement,"Stowe Reporter, 9/5/2013"
+2013.08.25.b,########,2013,Unprovoked,USA,Florida,"Winterhaven Park, Ponce Inlet, Volusia County",Boogie boarding,Riley Breihan,F,11,Minor injury to left lower leg & heel,N,,"Daytona Beach News-Journal, 8/28/2013"
+2013.08.18,########,2013,Unprovoked,USA,Hawaii,Pohoiki,Surfing,Jimmy Napeahi,M,16,Lacerations to buttocks & thigh,N,,"T. Mori, KHON2, 8/18/2013"
+2013.08.17,########,2013,Unprovoked,USA,California,"Pillar Point, Half-Moon Bay, San Mateo County",Surfing,Wendi Zuccaro,F,,"No injury, shark bumped surfboard",N,White shark,R. Collier
+2013.08.14,########,2013,Unprovoked,USA,Hawaii,"Makenat, Maui",Snorkeling,Jana Lutteropp,F,20,FATAL,Y,Tiger shark?,"KHON2, 8/15/2013"
+2013.08.13,########,2013,Unprovoked,USA,Hawaii,"Ka'a Point, Maui",Kiteboarding,Morgan Flannery,F,19,No injury & not on board. Board adrift when bitten by shark,N,,"Maui News, 8/14/2013"
+2013.08.11,########,2013,Unprovoked,USA,South Carolina,Folly Beach,Surfing,Tyson Royston,M,10,"No injury, shark became entangled in his surfboard leash",N,"Bull shark, 8'","Post and Courier, 8/11/2013"
+2013.08.05,5-Aug-13,2013,Unprovoked,USA,Florida,"Sanibel Island, Lee County",Fishing,Christian Mercurio,M,17,Minor injury to foot & shin,N,"Bull shark, 6' to 8'","NBC2 News, 8/5/2013"
+2013.07.31,31-Jul-13,2013,Unprovoked,USA,Hawaii,"Ulua Beach, Maui",Snorkeling,Evonne Cashman,F,56,"Lacerations to hand, face and torso",N,,"Maui Now, 7/31/2013"
+2013.07.30,30-Jul-13,2013,Unprovoked,USA,South Carolina,"Isle of Palms, Charleston County",Swimming,Ty Bretz,M,32,Foot bitten,N,,"A. Brenneka, Shark Attack Survivors; C. Creswell, GSAF"
+2013.07.29.a,29-Jul-13,2013,Unprovoked,USA,Hawaii,"White Plains Beach, Oahu",Surfing,Kiowa Gatewood,M,18,Lower leg bitten,N,"Tiger shark, 8' to 10'","Hawaii News Now, 7/29/2013"
+2013.07.19,########,2013,Unprovoked,USA,Alabama,"Gulf Shores, Baldwin County",Walking in surf,Laura Havrylkoff,F,50,Lacerations and abrasions to foot and ankle,N,,"A. Brenneka, Shark Attack Survivors; L. Havrylkoff"
+2013.07.17.R,Reported 17-Jul-2013,2013,Unprovoked,USA,Florida,"Butler Beach, St Augustine, St. Johns County",Swimming,male,M,,4 cuts to posterior calf,N,,"Florida Today, 7/17/2013"
+2013.07.11,########,2013,Unprovoked,USA,North Carolina,Holden Beach. Brunswick County,Wading,Barbara Corey,F,63,Right foot bitten,N,,"C. Creswell, GSAF, WWAY-TV, 7/12/2013"
+2013.06.25.c,########,2013,Unprovoked,USA,California,"Pacific State , San Mateo County",Kayaking / Fishing,Micah Flanaburg,M,,"No injury, kayak scratched",N,White shark,R. Collier
+2013.06.25.b,########,2013,Unprovoked,USA,Florida,"Jacksonville, Duval County",Swimming,Colleen Malone,M,,Lacerations to left foot,N,"Possibly a Bull shark, 3'","Action News, 7/25/2013"
+2013.06.25.a,########,2013,Unprovoked,USA,South Carolina,"Kiawah Island, Charleston County",Swimming,Joshua Watson,M,14,"Bitten on lower right leg, reported as a minor injury",N,4' to 5' shark,"C. Creswell, GSAF"
+2013.06.18,########,2013,Unprovoked,USA,Hawaii,Kona Coast State Park,Swimming,James Kerrigan,M,28,Right thigh & calf bitten,N,"Tiger shark, 14'","Hawaii News Now, 6/18/2013"
+2013.06.17,########,2013,Unprovoked,USA,Texas,"Surfside Beach, Brazoria County",Swimming,Garrett Sebesta,M,15,Left leg & hand bitten,N,,"ABC News, 6/18/2013"
+2013.06.15,########,2013,Unprovoked,USA,Florida,"Atlantic Beach, Duval County",Surfing,female,F,,Lacerations to left ankle,N,,"ActionNewsJax.com, 6/15/2013"
+2013.06.14.R,Reported 14-Jun-2013,2013,Unprovoked,USA,South Carolina,"Myrtle Beach, Horry County",Boogie Boarding,Allison Foreman,F,10,Puncture marks to hand,N,4' to 5' shark,"WMBF News, 6/14/2013"
+2013.06.06.b,6/6/2013,2013,Provoked,USA,Florida,"Off Snipe Point, Florida Keys, Monroe County",Fishing for sharks,Walter Kefauver,M,58,Left hand bitten as he attempted to remove hook from shark PROVOKED INCIDENT,N,"Lemon shark, 4'","CBS Miami, 6/6/2013"
+2013.05.27.b,########,2013,Unprovoked,USA,Hawaii,"Halewia, Oahu",Diving,Tali Ena,M,32,Lacerations to right hand,N,Galapagos shark,"A. Brenneka, Shark Attack Survivors"
+2013.05.27.a,########,2013,Unprovoked,USA,Florida,"Ormond Beach, Volusia County",Swimming,Kyle Kirkpatrick,M,11,Right foot bitten,N,,"Fox News, 5/28/2013"
+2013.05.08.b,5/8/2013,2013,Invalid,USA,California,"Tourmaline Surf Park, San Diego County",Surfing,Brandon Beaver,M,42,Shark bites were post-mortem,Y,,"Sacramento Bee, 6/4/2013"
+2013.05.04.a,5/4/2013,2013,Unprovoked,USA,Florida,"Melbourne Beach, Brevard County",Surfing,Michael Adler,M,16,Lacerations to left foot and ankle,N,a small shark,"Local News 10, 5/5/2013"
+2013.04.17,########,2013,Unprovoked,USA,Florida,"Near Boynton Beach, Palm Beach County",Playing in the surf,Colten Cicarelli,M,9,Lacerations to right foot,N,3' shark,"News Channel 5, 4/18/2013"
+2013.04.13.b,########,2013,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,Joshua White,M,21,Minor lacerations to right hand,N,Bull shark,"News13, 4/14/2013"
+2013.04.04,4/4/2013,2013,Unprovoked,USA,Florida,"Jensen Beach, Martin County",Swimming,male,M,50,Lacerations to hand,N,,"A. Brenneka, Shark Attack Survivors; TC Palm, 4/7/2013"
+2013.04.02.a,4/2/2013,2013,Unprovoked,USA,Hawaii,Ka???anapali Shores,Surfing,male,M,58,Right thigh bitten,N,4' shark,"Maui Now, 4/2/2013"
+2013.02.21.b,########,2013,Unprovoked,USA,Hawaii,"Ka'anapali, Honokowai, Maui",Surfing,,,,Lacerations to right leg,N,reef shark?,Hawaiisharks.com
+2013.02.21.a,########,2013,Unprovoked,USA,Hawaii,"Paia Bay, Maui",Surfing,Jacob Lanskey,M,,"No injury, shark bit rail of foam board",N,reef shark?,Hawaiisharks.com
+2013.02.10,########,2013,Unprovoked,USA,Florida,""Stuart Rocks", Martin County",Surfing,Cole Taschman,M,16,Lacerations to right hand,N,"Blacktip shark, 4' to 5'","Palm Beach Post, 2/12/2013"
+2013.01.16,########,2013,Unprovoked,USA,Hawaii,Kiholo Bay,Surfing,Paul Santos,M,43,Left forearm bitten,N,"Tiger shark, 15'","Hawaii 24/7, 1/16/2013"
+2012.12.31,########,2012,Unprovoked,USA,Florida,"Jensen Beach, Martin County",Swimming,male,M,,Lower leg or ankle bitten,N,,"TC Palm, 12/31/2012"
+2012.12.05,########,2012,Unprovoked,USA,Hawaii,Kauai,Surfing,"Lorrin",M,60,Lacerations to left foot,N,10' shark,"Hawaii News Now, 11/5/2012"
+2012.11.30,########,2012,Unprovoked,USA,Hawaii,"Kihei, Maui",Snorkeling,Thomas Floyd Kennedy,M,61,Lacerations to thigh & lower left leg,N,"Tiger shark, 10'","KHON2, 11/30/2012"
+2012.11.19,########,2012,Unprovoked,USA,Florida,"Melbourne Beach, Brevard County",Surfing,Kai Rittgers,M,14,Minor lacerations to left foot & heel,N,2' to 3' shark,"Florida Today, 11/19/2012"
+2012.11.04.b,########,2012,Unprovoked,USA,Hawaii,"Makena Landing, Maui",Diving,Mark Riglos,M,30,Right lower leg and foot bitten,N,"Tiger shark, 15'","Hawaii News Now, 11/5/2012"
+2012.11.04.a,########,2012,Unprovoked,USA,Hawaii,"Davidson's Surf Break, Kekaha, Kaua'i",Surfing,male,M,43,"No injury, surfboard bitten",N,"Tiger shark, 8'",Kaua'i Police Department
+2012.10.30,########,2012,Unprovoked,USA,California,"Humboldt Bay, Eureka, Humboldt County",Surfing,Scott Stephens,M,25,Multiple lacerations to torso,N,White shark,"R. Collier; Redwood Times, 11/5/2012"
+2012.10.27,########,2012,Unprovoked,USA,Hawaii,"Makena Landing, Maui",Swimming,Mariko Haugen,F,51,"Puncture wounds to thigh, defense wounds to hand",N,"Tiger shark, 10' to 12'","MauiNow.com, 10/28/2012"
+2012.10.23,########,2012,Unprovoked,USA,California,"Surf Beach, Lompoc, Santa Barbara County",Surfing,Francisco Javier Solorio Jr,M,39,FATAL,Y,"White shark, 15' to 16'",R. Collier
+2012.10.19,########,2012,Unprovoked,USA,Florida,"Seaport, Brevard County",,female,F,35,Left calf bitten,N,,"Brevard Times, 10/19/2012"
+2012.10.18.b,########,2012,Unprovoked,USA,Florida,"Ponce Inlet, Volusia County",Surfing,male,M,24,Minor bite to ankle,N,,"WESH.com, 10/18/2012"
+2012.10.18.a,########,2012,Unprovoked,USA,Hawaii,"Kanaha Beach, Maui",Paddle boarding,David Peterson,M,55,"No injury, board bitten",N,6' to 8' shark,"Maui News, 10/18/2012"
+2012.10.16,########,2012,Invalid,USA,Florida,Hobe Sound,,male,M,,Laceration to toe,N,Shark involvement not confirmed,"WPTV, 10/16/2012"
+2012.10.07,########,2012,Unprovoked,USA,California,"Davenport Landing, Santa Cruz County",Windsurfing,Gunner Proppe,M,42,"No ijnury to boardrider, shark struck board breaking the mast",N,,R. Collier
+2012.09.25,########,2012,Unprovoked,USA,Florida,"Melbourne Beach, Brevard County",Surfing,Brandon Taylor,M,21,Lacerations to left forearm,N,5' shark,"The Examiner, 9/26/2012"
+2012.09.24,########,2012,Unprovoked,USA,Florida,"Spanish House Beach, Brevard County",Surfing,Brandon Murray,M,22,Left foot bitten,N,4' shark,"TC Palm, 9/26/2012"
+2012.09.16,########,2012,Unprovoked,USA,Florida,"Cocoa Beach, Brevard County",Surfing,male,M,52,Foot bitten,N,,"Florida Today, 9/16/2012"
+2012.09.09,9/9/2012,2012,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,teen,,19,Minor injury to elbow,N,,"Daytona Beach News Journal, 9/9/2012"
+2012.09.08.b,9/8/2012,2012,Unprovoked,USA,Florida,"Lori Wilson Park, Cocoa Beach, Brevard County",Surfing,Matthew Fowler,M,25,Right foot bitten,N,,Shark Attack Survivors
+2012.09.08.a,9/8/2012,2012,Unprovoked,USA,Florida,"South Beach, Miami-Dade County",Swimming,male,M,,Lacerations to right calf,N,,"Miami CBS Local, 9/8/2012"
+2012.09.06.b,9/6/2012,2012,Unprovoked,USA,Florida,"Neptune Beach, Duval County",Surfing,James Fyfe,M,,Right calf bitten,N,,"New4Jax, 9/7/2012"
+2012.09.06.a,9/6/2012,2012,Unprovoked,USA,Florida,"St. Augustine Beach, St. John's County",Surfing,Andrew Birchall,M,37,Lacerations to foot,N,,"WFTV, 9/4/2012"
+2012.09.04,9/4/2012,2012,Unprovoked,USA,Florida,"Melbourne Beach, Brevard County",Surfing,male,M,32,Puncture wounds to hand,N,,"WFTV, 9/4/2012"
+2012.09.02.b,9/2/2012,2012,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Boogie boarding,female,F,8,Puncture wounds to calf and hand,N,3.5' to 4' shark,"WYTV, 9/3/2012"
+2012.09.02.b,9/2/2012,2012,Provoked,USA,Hawaii,"Spreckelsville, Maui",Spearfishing,M. Malabon,,,Minor laceration to hand PROVOKED INCIDENT,N,"Tiger shark, 10' to 12'",HawaiiNow.com
+2012.09.02.a,9/2/2012,2012,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Swimming or boogie boarding,female,F,56,Puncture wound to left ankle,N,3.5' to 4' shark,"WYTV, 9/3/2012"
+2012.08.15,########,2012,Unprovoked,USA,Alabama,"Gulf Shores, Baldwin County",Wading or swimming,"male, a tourist from Germany",M,31,Lacerations to leg,N,,"Fox 10, 8/17/2012"
+2012.08.09,8/8/2012,2012,Unprovoked,USA,Florida,Key Largo,Free diving,"David Lowe, Sr.",M,56,Lacerations to little finger of left hand,N,"Lemon shark, 4' to 5'",D. Lowe
+2012.07.31.b,########,2012,Unprovoked,USA,California,"Topanga Beach, Los Angeles County",Surfing,Jared Tennison,M,17,"No injury, surfer knocked off board when shark struck surfboard",N,,R. Collier
+2012.07.30.b,########,2012,Unprovoked,USA,Hawaii,"Maha???ulepu Beach, Kauai",Surfing,Steve Stotts,M,44,Left foot bitten,N,,"T. LaVenture, The GardenIsland.com"
+2012.07.30.a,########,2012,Unprovoked,USA,Massachusetts,"Ballston Beach, Truro, Cape Cod",Body surfing,Chris Myers,M,50,Lacerations to both legs below the knees,N,Thought to involve a white shark,"A. Costellano, ABC News, 7/31/202"
+2012.07.24,########,2012,Invalid,USA,North Carolina,"Ocean Isle, Brunswick County",,male,M,12,Shark involvement unconfirmed,N,Shark involvement not confirmed,"C. Creswell, GSAF"
+2012.07.08,7/8/2012,2012,Unprovoked,USA,North Carolina,"North Topsail Beach, Onslow County",Swimming,Tracy Fasick,F,43,Lacerations to right ankle and calf,N,,"A. Brenneka, SharkAttackSurvivors.com; T.Fasick"
+2012.07.07.a,7/7/2012,2012,Unprovoked,USA,California,"Pleasure Point, Santa Cruz County",Kayaking,M.C.,M,52,"No injury, kayak bitten",N,14' to 18'shark,R. Collier
+2012.06.26.c,########,2012,Unprovoked,USA,Florida,"Juno Beach, Palm Beach County",Swimming,Nickolaus Bieber,M,6,Thigh bitten,N,possibly a bull shark,"WPTV.com, 6/26/2012"
+2012.06.26.b,########,2012,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,male,M,26,Nip to left foot,N,,"H. Frederick, Headline Surfer, 6/26/2012"
+2012.06.26.a,########,2012,Unprovoked,USA,Hawaii,"Kahana Beach, Maui",Sitting in the water,Sage St. Clair,F,16,Laceration to left calf,N,a small reef shark,"Hawaii News Now, 6/26/2012"
+2012.06.22.a,########,2012,Unprovoked,USA,Florida,"Bathtub Reef Beach, Stuart, Martin County",Swimming,Patrick McInerney,M,12,Minor injury,N,,WPTV.com
+2012.06.19,########,2012,Invalid,USA,South Carolina,"Myrtle Beach, Horry County",Standing,Matthew Breen,M,16,"Laceration to foot. Injured by a stingray, not a shark",N,No shark involvement,C. Creswell
+2012.06.18,########,2012,Unprovoked,USA,North Carolina,"Ocean Isle, Brunswick County",Wading,Brooklyn Daniel,F,6,Numerous puncture wounds to leg,N,,C. Creswell
+2012.06.15,########,2012,Provoked,USA,Florida,"Summerland Key, Monroe County",Fishing,male,M,23,Superficial injury to calf by hooked shark PROVOKED ACCIDENT,N,Nurse shark,WSVN-TV
+2012.06.14.d,########,2012,Unprovoked,USA,South Carolina,"Myrtle Beach, Horry County",Swimming,female,F,18,Foot & hand bitten,N,small blacktip shark?,C. Creswell
+2012.06.14.c,########,2012,Unprovoked,USA,South Carolina,"Myrtle Beach, Horry County",Swimming,male,M,,Minor injury,N,Shark involvement not confirmed,C. Creswell
+2012.06.14.b,########,2012,Unprovoked,USA,South Carolina,"Myrtle Beach, Horry County",Swimming,male,M,,Calf bitten,N,small blacktip shark?,C. Creswell
+2012.06.14.a,########,2012,Unprovoked,USA,South Carolina,"Myrtle Beach, Horry County",Swimming,Jordon Garosalo,M,16,Laceration to right foot,N,Blacktip shark,C. Creswell
+2012.06.02.b,6/2/2012,2012,Unprovoked,USA,Florida,"Bethune Beach, Volusia County",Surfing,Angelina DelRosso,F,12,Laceration to thigh,N,,"J. Horton, West Volusia Bulletin, 6/6/2012"
+2012.06.02.a,6/2/2012,2012,Unprovoked,USA,South Carolina,"Myrtle Beach, Horry County",Boogie Boarding,Ryan Orellana-Maczynski,M,25,Severe laceration to foot,N,,C. Creswell
+2012.05.31,########,2012,Unprovoked,USA,North Carolina,"Avon, Hatteras Island, Outer Banks, Dare County",Wading,Megan Konkler,F,33,Foot bitten,N,18" to 24" shark,C. Creswell
+2012.05.23,########,2012,Unprovoked,USA,Florida,"Jacksonville, Duval County",Surfing,Chad Refro,M,22,Lacerations to foot,N,4' to 5' shark,"First Coast News, 5/24/2012"
+2012.05.20,########,2012,Unprovoked,USA,Hawaii,"Iroquiois Point, Oahu",Kayak Fishing,Jerry Gallardo,M,,"No injury, teethmarks in kayak",N,"Tiger shark, 8' to 9'","Hawaii Now, 5/25/2012"
+2012.05.12,########,2012,Unprovoked,USA,California,"Leffingwell Landing, Cambria, San Luis Obispo County",Kayaking / Fishing,Joey Nocchi,M,30,"No injury, kayaker fell in the water when kayak bitten by a shark",N,White shark,R. Collier
+2012.05.09,5/9/2012,2012,Unprovoked,USA,Florida,"Vero Beach, Indian River County",Swimming,Karin Ulrike Stei,F,47,Upper left thigh bitten,N,,News Channel 5
+2012.05.06,5/6/2012,2012,Unprovoked,USA,California,Off Catalina Island,Paddle boarding,Rose McKereghan,F,15,"No injury, shark bit paddleboard",N,White shark,"R. Collier, A. Brenneka"
+2012.04.19.b,########,2012,Unprovoked,USA,Florida,"Indialantic, Brevard County",Surfing,Justin Ellingham,M,28,Lacerations to hand,N,5' shark,"MyFoxOrlando, 4/19/2012"
+2012.04.03,4/3/2012,2012,Unprovoked,USA,Hawaii,"Leftovers near Chun's Reef, Oahu",Surfing,Joshua Holley,M,28,Lacerations to left foot,N,"Tiger shark, 10'","Hawaii News Now, 4/3/2012"
+2012.04.00,########,2012,Unprovoked,USA,Florida,"Sanibel Island, Lee County",,Dylan Hapworth,M,,Right shin bitten,N,a small shark,"Morning Sentinel, 4/20/2012"
+2012.03.24,########,2012,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,Joey Coppola,M,21,Minor lacerations to foot,N,,"H. Frederick, NSB News, 3/24/2012"
+2012.03.15,########,2012,Unprovoked,USA,Florida,"Jensen Beach, Martin County",Surfing,Frank Wacha,M,61,Left forearm bitten,N,Possibly a 5' to 6' bull shark,"WPBF.com, 3/16/2012"
+2012.03.14.b,########,2012,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,Sydney Levy,F,15,Bitten on ankle,N,4' to 5' shark,"C. Graham, Daytona Beach News-Journal, 3/14/2012"
+2012.03.14.a,########,2012,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,Nick Romano,M,17,Bitten on calf,N,4' to 5' shark,"C. Graham, Daytona Beach News-Journal, 3/14/2012"
+2012.03.04,3/4/2012,2012,Unprovoked,USA,Florida,"Playalinda Beach, Brevard County",Kite Surfing,Justin Worral,M,19,Lacerations to left calf,N,4' shark,Brevard Times
+2012.02.26,########,2012,Provoked,USA,Florida,"Palm Beach Inlet, Palm Beach County",Kite Surfing,Jason Lasser,M,,Laceration to right foot when he struck a shark PROVOKED INCIDENT,N,Spinner shark,"Aspen Daily News, 2/29/2012"
+2012.01.27,########,2012,Unprovoked,USA,Hawaii,Lanai,Snorkeling,J. Graden,,,"No injury, shark bit swim fin",N,6' to 8' shark,HawaiiNow.com
+2012.01.13,########,2012,Unprovoked,USA,Oregon,"Lincoln City, Lincoln County",Surfing,Steve Harnack,M,53,"No injury, surfboard damaged",N,White shark,R. Collier
+2011.12.31,########,2011,Unprovoked,USA,Florida,"Jupiter, Palm Beach County",,male,M,,Hand injured,N,,"Palm Beach Post, 12/31/2011"
+2011.12.23,########,2011,Unprovoked,USA,Florida,New Smyrna Beach,Surfing,Will Futato,M,27,Laceration to ankle,N,,"Daytona Beach News-Journal, 12/24/2011"
+2011.12.21.b,########,2011,Provoked,USA,Hawaii,"Makahuena Point, Kauai",Canoeing,Keone Miyake,M,,"No injury, after kayak collided with the shark, it bit the rudder PROVOKED INCIDENT",N,7' to 8' shark,"A. Brenneka, SharkAttackSurvivors.com"
+2011.12.06,########,2011,Unprovoked,USA,Oregon,Seaside Cove,Surfing,female,F,,Minor injury to calf,N,,"Seaside Signal, 12/6/2011"
+2011.11.22,########,2011,Unprovoked,USA,California,Pigeon Point,Kayaking,Harry Pali,M,,"No injury, kayak bitten",N,"White shark, 15' to 16'",R. Collier
+2011.10.29.,########,2011,Unprovoked,USA,California,"Marina State Beach, Monterey County",Surfing,Eric Tarantino,M,27,"Lacerations to right wrist, foream & neck",N,White shark,R. Collier
+2011.10.20,########,2011,Unprovoked,USA,Oregon,"Newport, Lincoln County",Surfing,Bobby Gumm,M,41,"No injury, shark bit surfboard",N,"White shark, 15'",R. Collier
+2011.10.11,########,2011,Unprovoked,USA,Florida,Cape Canaveral,Surfing,Tim Riley,M,,Foot bitten,N,3' shark,T. Riley
+2011.10.10,########,2011,Unprovoked,USA,Oregon,Seaside,Surfing,Doug Niblack,M,,No injury,N,10' to 12' shark,"R.Collier; KATU News, 10/11/2011"
+2011.10.02,########,2011,Unprovoked,USA,Florida,"Santa Maria Island, Manatee County",Wade fishing,Javier Perez,M,,Minor injury to thigh,N,,"Herald Tribune, 10/2/2011"
+2011.10.01,########,2011,Unprovoked,USA,Alabama,"Gulf Shores, Baldwin County",,Victor Meade,M,29,Lacerations to right wrist and middle finger,N,,WKRG
+2011.09.30,########,2011,Invalid,USA,Puerto Rico,Hatillo Beach,Surfing,Rafael Col??n Casanova,M,27,Lacerations to lower right leg,N,No shark involvement,"El Nuevodia, 9/30/2011"
+2011.09.24.b,########,2011,Unprovoked,USA,Florida,"Santa Maria Island, Manatee County",Spearfishing,C.J. Wickersham,M,21,Laceration to left thigh,N,"Bull shark, 6'","Herald Tribune, 9/24/2011"
+2011.09.24.a,########,2011,Unprovoked,USA,South Carolina,"North Myrtle Beach, Horry County",Jumping in the waves,"Isaac O'Hara,",M,5,Laceration to left thigh,N,,"Sun News, 9/26/2011"
+2011.09.20,########,2011,Boat,USA,Hawaii,Kauai,Canoeing,Tom Bartlett,M,,"No injury, canoe bitten by shark",N,,"R. Mizutani, KHON2, 9/23/2011"
+2011.09.16,########,2011,Unprovoked,USA,Florida,New Smyrna Beach,Surfing,Daniel Jorgensen,M,25,Lacerations to arm,N,4' to 6' shark,"Daytona Beach News-Journal, 9/16/2011"
+2011.09.11.b,########,2011,Unprovoked,USA,California,"Samoa Beach, Humboldt County",Surfing,Benjie Rose,M,37,"No injury, board bitten",N,,R. Collier
+2011.09.04.b,9/4/2011,2011,Unprovoked,USA,Hawaii,"Nimitz State Beach, Oahu",Surfing,M. Filipe,,,"No injury, shark bit surfboard",N,,"KITV.com, 9/4/2011"
+2011.09.02,9/2/2011,2011,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,Daniel True,M,19,Lacerations to ankle & foot,N,"6' shark, possibly a blactip or spinner shark","WESH.com, 9/2/2011"
+2011.08.31,########,2011,Unprovoked,USA,Florida,Crescent Beach St. Johns County,Surfing,Shane Lancaster,M,19,Lacerations to lower leg,N,6' shark,"News4JAX, 9/1/2011"
+2011.08.28.a,########,2011,Unprovoked,USA,Texas,"Grass Island, Aransas County",Wade Fishing,Mary Locklear,F,39,"Lacerations to anterior left shin, abrasion to posteior right leg",N,,M. Locklear
+2011.08.24.b,########,2011,Unprovoked,USA,North Carolina,"Buxton Beach, Dare County",Surfing,Kevin Dinneen,M,21,Lacerations to foot,N,,Shark Times
+2011.08.24.a,########,2011,Unprovoked,USA,North Carolina,Holden Beach. Brunswick County,,male,M,10,Heel bitten,N,,"WECT.com, 8/24/2011"
+2011.08.17.c.,########,2011,Unprovoked,USA,North Carolina,"Kure Beach, New Hanover County",Wading,Trang Aronian,F,,Lacerations to foot,N,Possibly a 5' to 6' sandtiger shark,C. Creswell
+2011.08.17.b.,########,2011,Invalid,USA,North Carolina,"Wrightsville Beach, New Hanover County",,,M,12,Abrasions to left hand,N,Shark involvement not confirmed,"C. Creswell, GSAF; Wway, 8/17/2011"
+2011.08.16.b,16-Aug--2011,2011,Unprovoked,USA,Puerto Rico,Vieques,Floating,Lydia Strunk,M,27,Lacerations to lower right leg and foot,N,,"El Nuevodia, 7/17/2011"
+2011.08.15,########,2011,Invalid,USA,South Carolina,"Myrtle Beach, Horry County",Playing in the surf,Rudy Varney,M,7,Puncture wounds to foot,N,Shark involvement not confirmed,"C. Creswell; Carolina Live, 8/15/2011"
+2011.08.11,11-Aug--2011,2011,Unprovoked,USA,North Carolina,Beaufort Inlet,Swimming,Don White,M,54,Lower right leg bitten,N,,"Eyewitness News 9, 8/12/011"
+2011.07.25,########,2011,Unprovoked,USA,New Jersey,"Egg Harbor, Atlantic County",Wade Fishing,Eric Aubrey,M,,"No injury, shark bit boot",N,,"NBC, 7/28/2011"
+2011.07.19,########,2011,Unprovoked,USA,North Carolina,"Ocracoke Island, Hyde County",Boogie Boarding,Lucy Magnum,F,6,Lower right leg & foot bitten,N,,"C. Creswell, GSAF; WITN.com"
+2011.07.13.b,########,2011,Unprovoked,USA,Texas,"South Padre Island, Cameron County",Surf fishing,Eugenio Gonz??lez Paez,M,,Lacerations to left foot,N,,E.G. Paez
+2011.07.07.b,7/7/2011,2011,Unprovoked,USA,Texas,"Sunday Beach, Matagorda Island, Calhoun County",Swimming,Nicholas Vossler,M,12,Foot bitten,N,,"A. Acosta, Victoria Advocate, 7/9/2011"
+2011.07.07.a,7/7/2011,2011,Unprovoked,USA,Texas,"Mustang Island, Nueces County",Wade Fishing,Shawn Hamilton,M,14,Lacerations to right foot,N,,"J. Martinez, Corpus Christi Caller Times, 7/19/2011"
+2011.06.26,########,2011,Unprovoked,USA,North Carolina,"North Topsail Beach, Onslow County",Playing in the surf,Cassidy Cartwright,F,10,Ankle bitten,N,"Bull shark, 6'",C. Creswell & G. Hubbell
+2011.06.24,########,2011,Unprovoked,USA,California,"San Onofre State Beach, San Diego County",Surfing,Doug Green,M,,Shark leapt onto surfboard; surfer uninjured,N,"White shark, 5' k",R. Collier
+2011.06.21,########,2011,Unprovoked,USA,Florida,"Perdido Key, Escambia County",Jet skiing,Tyler McConnell,M,20,Lacerations to foot and ankle,N,,"B. Raines, Press-Register, 6/21/2011"
+2011.06.12,########,2011,Unprovoked,USA,Florida,"Off Jupiter Inlet, Palm Beach County",Scuba diving,Daniel Webb,M,28,Lacerations to right calf,N,"Blacktip shark, 4'","WPTV, 6/13/2011"
+2011.06.06.b,6/6/2011,2011,Unprovoked,USA,California,"La Jolla, San Diego County",Spearfishing,Justin Schlaefli,M,28,"No injury, minor damage to wetsuit",N,"Sevengill shark, 6' to 8'",R. Collier
+2011.06.06.a,6/6/2011,2011,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Wading,Alan McIntosh,M,19,Puncture wound to calf,N,3' to 4' shark,"L. Lelis, Orlando Sentinel, 6/7/2011"
+2011.05.30,########,2011,Unprovoked,USA,Texas,"Follett's Island, Brazoria County",Standing or boogie boardin,Kori Robertson,F,22,Lacerations & punctures to right thigh,N,,"KHOU.com, 5/31/2011"
+2011.05.25,########,2011,Unprovoked,USA,Hawaii,"Lyman Beach, Kailua-Kona",Surfing,Theresa Fernandez,F,,"No injury, board bitten",N,"Tiger shark, 10'","Star Advertiser, 5/26/2011"
+2011.05.22,########,2011,Unprovoked,USA,Hawaii,"Lyman Beach, Kailua-Kona",Paddle boarding,Alaina DeBina,F,,"No injury, board bitten",N,Tiger shark,"Hawaii News Now, 5/22/2011"
+2011.05.13.b,########,2011,Unprovoked,USA,Florida,"Ponte Vedra Beach, St Johns County",Body surfing,Bob Brown,M,86,Lacerations to left foot & ankle,N,,"News 4, 5/16/2011"
+2011.05.13.a,########,2011,Unprovoked,USA,Florida,"Ormond Beach, Volusia County",Surfing,Adrian Bronson,M,37,Minor injury; puncture wounds to calf,N,,"L. Lelis, Orlando Sentinel, 5/13/2011"
+2011.05.10,########,2011,Provoked,USA,Florida,Miami,Fishing,Brian Storch,M,,Laceration to arm by captive shark PROVOKED INCIDENT,N,"Sandbar shark ,8'","News 7, 5/11/2011"
+2011.04.26,########,2011,Unprovoked,USA,Florida,"Riviera Beach, Palm Beach County",Spearfishing,Anthony Segrich,M,32,Calf bitten,N,"Bull shark, 12'","J. Wigham III, Palm Beach Post, 4/27/2011"
+2011.04.22,########,2011,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,Ronald White,M,49,Minor puncture wounds,N,1' to 2' shark,S. Petersohn
+2011.03.29.R,Reported 29-Mar-2011,2011,Provoked,USA,Texas,Matagorda Beach,"Standing, holding shark pup",Orlando,M,,Minor laceration to shoulder from captive shark PROVOKED INCIDENT,N,Blacktip shark pup,"You Tube, Baby Blacktip Shark Attack - How NOT to hold a shark."
+2010.12.26,########,2010,Unprovoked,USA,Hawaii,"Kahului, Maui",Body boarding,Vaun Stover-French,M,16,"Lacerations to his lower left leg, calf, foot & ankle",N,6' shark,"J. Howard, Surfing, 12/27/2010"
+2010.12.11,########,2010,Unprovoked,USA,Hawaii,"Tavares Bay, Maui",Surfing,Andrew Wilson,M,46,Lacerations to right foot,N,,"Maui News, 12/14/2010"
+2010.11.19,########,2010,Provoked,USA,Palmyra Atoll,,Snorkeling,Kydd Pollock,M,33,Head bitten by netted shark PROVOKED INCIDENT,N,,"Sunday News, 12/12/2010"
+2010.10.28,########,2010,Unprovoked,USA,Oregon,Florence,Surfing,Seth Mead,M,,No injury to surfer,N,,R. Collier
+2010.10.23.b,########,2010,Unprovoked,USA,Maine,"Burnt Cove near Eastport, Washington County",Scuba diving,Scott MacNichol,M,30,"No injury to diver, shark bit his video camera",N,"Porbeagle shark, 8'","Bangor Daily News, 10/27/2010"
+2010.10.22,########,2010,Unprovoked,USA,California,"Surf Beach, Vandenberg AFB, Santa Barbara County",Body boarding,Lucas Ransom,M,19,FATAL,Y,"White shark, 14' to 18'",R. Collier
+2010.09.27,########,2010,Unprovoked,USA,Oregon,Winchester Bay,Surfing,David Lowden,M,29,"No injury, surfboard rammed",N,White shark,R. Collier
+2010.09.24,########,2010,Unprovoked,USA,Virginia,Sandridge Beach,Surfing,Caleb Kauchak,M,18,Bite to left ankle and knee,N,,"K.Adams, The Virginian Pilot, 9/24/2010"
+2010.09.07,9/7/2010,2010,Unprovoked,USA,Florida,"St. Augustine, St. John's County",Swimming,Jason Whitworth,M,27,Lacerations to left wrist,N,3' shark,"St. Augustine Record, 9/9/2010"
+2010.09.04,4-Sep-10,2010,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,Kris Kerr,M,,"No injury, shark charged surfboard",N,,"CBS News, 9/10/2010"
+2010.09.03.b,9/3/2010,2010,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,Jason Coffman,M,24,Lacerations to right hand,N,,"S. Petersohn; Daytona Beach News-Journal, 9/3/2010"
+2010.09.03.a,9/3/2010,2010,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,Andrew Heald,M,24,Left thigh bitten,N,,"S. Petersohn; M. Johnson, Daytona Beach News-Journal, 9/3/2010"
+2010.08.18,########,2010,Unprovoked,USA,Florida,Crescent Beach St. Johns County,Boogie Boarding,Seth Shorten,M,10,Minor injuries to foot,N,,"Gainesville Sun, 8/18/2010"
+2010.08.14,########,2010,Unprovoked,USA,California,"Pigeon Point, San Mateo County",Kayak Fishing,Adam Coca,M,45,"No injury, kayak bitten",N,White shark,"Mercury News, 8/15/2010"
+2010.08.07.b,8/7/2010,2010,Unprovoked,USA,North Carolina,"Figure Eight Island, Wilmington, New Hanover County",Surfing,Josh Clement,M,25,Left foot bitten,N,,"C. Creswell, GSAF"
+2010.08.05,8/5/2010,2010,Invalid,USA,Florida,"Bethune Beach, Volusia County",Swimming,Judy Fischman,F,,Minor abrasions to legs when she was lifted on the back of a large marine animal,N,Shark involvement not confirmed,"Daytona Beach News-Journal, 8/7/2010"
+2010.08.02.b,8/2/2010,2010,Unprovoked,USA,California,"Near oil rig Hondo, 5 nm from Gaviota, Santa Barbara County",Kayaking,Duane Strosaker,M,,"No injury, kayak bitten",N,"White shark, 15'","R. Collier, GSAF"
+2010.08.02.a,8/2/2010,2010,Unprovoked,USA,Florida,"Micklers Landing, St. Johns County",Standing,Kimberly Presser,F,37,Lacerations to forearm,N,3' to 4' shark,"News4JAX, 8/2/2010"
+2010.07.25,########,2010,Unprovoked,USA,South Carolina,"Isle of Palms, Charleston County",Standing,Alex Stamm,M,16,Lacerations to right lower leg,N,4' shark,"C. Creswell, GSAF"
+2010.07.23,########,2010,Unprovoked,USA,Florida,"Jacksonville Beach, Duval County",Surfing,Clayton Schulz,M,20,Left foot bitten,N,,"C. Creswell, GSAF"
+2010.07.19,########,2010,Unprovoked,USA,South Carolina,Myrtle Beach,Swimming,Josh Myers,M,10,Minor lacerations to left calf,N,Possibly a small blacktip shark,"C. Creswell, GSAF"
+2010.07.17.b,########,2010,Unprovoked,USA,North Carolina,"Wrightsville Beach, New Hanover County",Swimming,Kendall Parker,F,13,Lacerations to right forearm,N,"Sandtiger shark, 4' to 5'","C. Creswell, GSAF"
+2010.07.17.a,########,2010,Unprovoked,USA,Florida,New Smyrna Beach,Surfing,Jimmy Johnston,M,55,Minor lacerations to right foot,N,A small spinner shark,S. Petersohn
+2010.07.16.a,########,2010,Unprovoked,USA,Texas,Galveston,Fishing,Charlie Gauzer,M,,Leg bitten,N,,"NY Post, 7/16/2010"
+2010.07.11,########,2010,Provoked,USA,Florida,"Lauderdale-by-the-Sea, Broward County",Fishing,male,M,,Small laceration to forearm from netted shark PROVOKED INCIDENT,N,"Nurse shark, juvenile","News 7, 7/13/2010"
+2010.07.03,7/3/2010,2010,Provoked,USA,New York,Off Long Island,Fishing,Frank Joseph,M,20,Laceration to right bicep by hooked shark PROVOKED INCIDENT,N,"Blue shark, 7'",NBC
+2010.07.02.b,7/2/2010,2010,Unprovoked,USA,California,"Pismo Beach, San Luis Obispo County",Surfing,Derek Crane,M,19,Laceration to left foot,N,4' shark,R. Collier
+2010.07.02.a,7/2/2010,2010,Unprovoked,USA,California,"Dog Patch, San Onofre",Stand-Up Paddleboarding,David Bull,M,48,"No injury, board bumped by shark",N,8' shark,R. Collier
+2010.06.27,########,2010,Unprovoked,USA,Texas,"Eight Mile Beach, Galveston",Surfing,Chad Rogers,M,20,Lacerations to right foot,N,"Bull shark, 5'",KMBC
+2010.06.25.b,########,2010,Unprovoked,USA,South Carolina,Fripp Island,Boogie Boarding,Ella Morris,F,6,Laceration to leg,N,,"C. Creswell, GSAF"
+2010.06.25.a,########,2010,Unprovoked,USA,North Carolina,"Topsail Island, Pender County",Swimming,Carley Schlentz,F,13,Laceration to left foot,N,,"C. Creswell, GSAF"
+2010.06.10,########,2010,Unprovoked,USA,Florida,Jacksonville,Boogie Boarding,Hannah Mayo-Foster,F,18,Lacerations to left calf and foot,N,4' shark,"Gwinnett Daily Post, 6/10/2010"
+2010.06.00,########,2010,Unprovoked,USA,Florida,"Ponte Vedra Beach, St Johns County",Surfing,Matt Searcy,M,20,Lacerations to left foot,N,,"Florida Times-Union, 7/28/2010"
+2010.05.30,########,2010,Provoked,USA,Florida,Off Tarpon Springs,Fishing,Mike Seymore,M,49,Laceration to left calf by hooked shark PROVOKED INCIDENT,N,"Lemon shark, 4'",tbo.com
+2010.05.01,5/1/2010,2010,Unprovoked,USA,Florida,New Smyrna Beach,Wading,Caitlin Dubois,F,10,Minor puncture wounds to right ankle,N,4' shark,"S. Petersohn;J. Wheeler, 13 News, 5/4/2010"
+2010.04.28,########,2010,Provoked,USA,Florida,Hanalei Bay,Measuring sharks,Kirk Gastrich,M,29,Arm bitten PROVOKED INCIDENT,N,"Lemon shark, 6'","D. Guevara, WSVN-TV, 4/28/2010"
+2010.04.19,########,2010,Unprovoked,USA,Hawaii,"Hanalei Bay, Kauai",Surfing,Jim Rawlinson,M,68,"No injury, surfboard bitten",N,14' shark,"R. Collier, Honolulu Advertiser, 4/23/2010"
+2010.02.06.a,2/6/2010,2010,Provoked,USA,Florida,Riviera Beach,Surf fishing / wading,male,M,,Leg bitten while trying to free a hooked shark PROVOKED INCIDENT,N,"Spinner shark, 6'","WPTV.com, 2/7/2010"
+2010.02.03,2/3/2010,2010,Unprovoked,USA,Florida,"Stuart, Martin County",Kite Boarding,Stephen Howard Schafer,M,38,FATAL,Y,,"TC Palm, 2/3/2010"
+2010.01.06,1/6/2010,2010,Unprovoked,USA,Florida,Elliot Key,Spearfishing,Dreice Chirino,M,32,Lacerations to arm,N,,"WSVN-TV, 1/7/2010"
+2009.12.06,########,2009,Provoked,USA,New Jersey,"Adventure Aquarium, Camden",Diving,Robert Large,M,58,Lacerations & puncture wounds to right calf & ankle when diver accidentally backed into the shark PROVOKED INCIDENT,N,"Sandtiger shark, 8'","R. Large; Philadelphia Daily News, 4/22/2010"
+2009.11.25,########,2009,Invalid,USA,California,"Huntington Beach, Orange County",Surfing,Kenneth Hall,M,49,Puncture wounds to right foot,N,Shark involvement not confirmed,"R. Collier, GSAF"
+2009.11.24,########,2009,Unprovoked,USA,Florida,"Lori Wilson Park, Cocoa Beach, Brevard County",Wading,Garrett Gollihugh,M,10,Left foot bitten,N,6' shark,My Fox Orlando
+2009.11.16.b,########,2009,Unprovoked,USA,California,"Loch Lomond, Marin County",Fishing,James White,M,31,Puncture wounds and minor lacerations to dorsal surface of his left hand,N,Thresher shark,"R. Collier, GSAF"
+2009.11.16.a,########,2009,Unprovoked,USA,Florida,"Jupiter, Palm Beach County",Surfing,Steven Burdelski,M,22,Foot bitten,N,,"A. Pefley, Channel 12 News"
+2009.11.13,########,2009,Unprovoked,USA,Florida,"Jupiter, Palm Beach County",Surfing,Melissa Hardcastle,F,27,Foot bitten,N,,"C. Scofield, WPTV.com"
+2009.11.11,########,2009,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,male,M,18,Foot bitten,N,4' shark,Captain S. Petersohn
+2009.11.05,########,2009,Unprovoked,USA,California,"Davenport, Santa Cruz County",Surfing,Eric Geiselman,M,21,"No injury, board broken in half",N,,R. Collier
+2009.10.24,########,2009,Unprovoked,USA,California,"San Onofre, San Diego County",Surfing,Scott Barton,M,,"3 puncture wounds to big toe of left foot, and laceration on arch of foot",N,,R. Collier
+2009.10.19,########,2009,Unprovoked,USA,Hawaii,"Kalama Park, Maui",Surfing,Scott Henrich,M,54,Bitten on upper right thigh & right ankle,N,6' to 8' shark,"Star Bulletin, 10/19/2009"
+2009.10.09,########,2009,Unprovoked,USA,California,"San Onofre State Beach, San Diego County",Surfing,Bernard Wagor,M,,Laceration to shin of left leg,N,,R. Collier
+2009.09.26,########,2009,Unprovoked,USA,Florida,"Key Colony Beach, Monroe County",Swimming,Daniel Callahan,M,,Laceration to right foot,N,"Bull shark, 8'",keysnet.com
+2009.09.12,########,2009,Invalid,USA,North Carolina,"Corolla, Currituck County",Swimming,Richard A Snead,M,60,FATAL,Y,Shark involvement prior to death not confirmed,"C. Creswell, GSAF"
+2009.08.30,########,2009,Unprovoked,USA,California,"Huntington Beach, Orange County",Surfing,Cory Hedgepeth,M,,No injury,N,4' shark,"R. Collier, GSAF"
+2009.08.25,########,2009,Unprovoked,USA,California,"Terramar Beach, Carlsbad, San Diego County",Swimming,Bethany Edmund,F,22,Puncture wounds to left foot & calf,N,"White shark, 5' to 6' juvenile","R. Collier, GSAF"
+2009.08.10,########,2009,Unprovoked,USA,Florida,"Ponce, Volusia County",Swimming,A visitor from Spain,M,26,Puncture marks on left foot,N,,S. Petersohn
+2009.08.06,8/6/2009,2009,Unprovoked,USA,Hawaii,Kawa'a,Surfing,Dylan Crawford,M,,"No injury, surfboard bitten",N,"Tiger shark, 12","Big Island Weekly, 8/19/2009"
+2009.08.01,8/1/2009,2009,Unprovoked,USA,Louisiana,"Curlew Island, Breton Sound",Wade Fishing,"Chris Haynes, Jr.",M,56,Right ankle & foot bitten,N,Bull shark?,Clarion Ledger
+2009.07.24.b,########,2009,Unprovoked,USA,Texas,South Padre Island,Wading,Deidre Casas,F,14,Lacerations to anterior left lower leg,N,,KRGV.com
+2009.07.22.b,########,2009,Unprovoked,USA,North Carolina,Holden Beach. Brunswick County,Swimming,Julia Anne Mittleberg,F,26,Laceration to left foot,N,,"C. Creswell, GSAF"
+2009.07.22.a,########,2009,Unprovoked,USA,Florida,"Intracoastal Waterway, St. Petersburg",Swimming,Jenna James,F,19,Laceration to lower right leg,N,,"J. Eager; R. Reyes, Tampa Tribune, 7/22/2009"
+2009.07.11.a,########,2009,Unprovoked,USA,California,"San Onofre, San Diego County",Paddle-surfing,Brian Hovnanian,M,,"No injury, shark collided with surfer & board",N,5' shark,R. Collier
+2009.07.05,7/5/2009,2009,Unprovoked,USA,Florida,"Daytona Beach, Volusia County",Boogie Boarding,female,F,12,Right ankle bitten,N,,S. Petersohn
+2009.07.04,7/4/2009,2009,Provoked,USA,Florida,"Biscayne National Park, Miami",Swimming,Carmen Dominguez,F,43,Thigh injured by hooked shark PROVOKED INCIDENT,N,"Nurse shark, 6'","Miami Herald, 7//4/2009"
+2009.06.21,########,2009,Invalid,USA,California,"Shell Beach, San Luis Obispo County",Surfing,male,M,26,Puncture wounds to foot,N,Shark involvement not confirmed,"San Luis Obispo Tribune, 6/24/2009"
+2009.06.16,########,2009,Invalid,USA,Florida,"Melbourne Beach, Brevard County",Crawling,Kevin Crowley,M,14,2-inch laceration to upper left arm,N,"Shark involvement probable, but not confirmed","Florida Today, 1/17/2009"
+2009.05.25,########,2009,Provoked,USA,Florida,"Clearwater Beach, Pinellas County",Swimming,Dana Joseph,M,,Right foot bitten,N,5' to 8' shark,"Tampa Bay online, 5/26/2009"
+2009.05.17,########,2009,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,Nolan Provido,M,31,Lacerations to left leg & foot,N,blacktip or spinner shark,"S. Petersohn, GSAF"
+2009.05.16.b,########,2009,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,Bryan Heath,M,49,Lacerations to right foot,N,blacktip or spinner shark,"S. Petersohn, GSAF"
+2009.05.16.a,########,2009,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,David Bryant,M,55,Lacerations to right hand,N,blacktip or spinner shark,"S. Petersohn, GSAF"
+2009.04.28,########,2009,Unprovoked,USA,Florida,"St. Augustine, St. John's County",,Alicia,F,,Multiple lacerations to right foot & ankle,N,,
+2009.04.25.R,Reported 25-Apr-2009,2009,Unprovoked,USA,California,"San Onofre State Beach, San Diego County",Surfing,Drew Senner,M,,No injury,N,,"R. Collier, GSAF"
+2009.04.21,########,2009,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,male,M,20,3 puncture wounds to posterior right ankle,N,,"S. Petersohn, GSAF"
+2009.04.19,########,2009,Unprovoked,USA,Florida,"Carlin Park, Jupiter Inlet",Surfing,Bruce Klinker,M,52,Left foot bitten,N,,"UPI, 4/20/2009"
+2009.04.17.,########,2009,Unprovoked,USA,Florida,"Walton Rocks, St Lucie County",Surfing,Alexander Wagner,M,31,Laceration to forearm,N,2' to 3' shark,"TC Palm, 4/17/09"
+2009.04.11,########,2009,Invalid,USA,Hawaii,Kona,Spearfishing,Paolo Dominici,M,49,Missing,N,Shark involvement not confirmed,"CBS, 4/14/2009"
+2009.04.06.a,4/6/2009,2009,Unprovoked,USA,California,San Diego County,Spearfishing,"Raymundo Ayus, Jr.",M,,Shark struck him but the diver was not injured,N,"White shark, 12' to 15' female",R. Collier
+2009.04.03,4/3/2009,2009,Unprovoked,USA,Florida,"Sanibel Island, Lee County",Wading,Jack May,M,15,Lacerations to right foot and ankle,N,,"Cape Coral News, 4/3/2009"
+2009.03.18.a,########,2009,Unprovoked,USA,Florida,"Ponce Inlet, Volusia County",Surfing,female,F,17,Minor bite to ankle,N,3' to 4' shark,"S. Petersohn, GSAF"
+2009.03.17,########,2009,Unprovoked,USA,Hawaii,Alenuihaha Channel,Swimming,Mike Spaulding,M,61,"Minor injury, bite chest and left calf",N,Thought to involve a cookie cutter shark,"B. Perry, Maui News, 3/18/2009"
+2009.02.08,2/8/2009,2009,Sea Disaster,USA,Puerto Rico,Quebradillas,Air Disaster,occupant of a Cessna 206,M,,It is probable that all 5 passengers died on impact. The body of one was scavenged by a shark,Y,,"C. Ekstander, GSAF"
+2008.12.20,########,2008,Unprovoked,USA,California,"Dillon Beach, Marin County",Kayaking,Tony Johnson,M,,"No injury, shark struck paddle",N,White shark,R. Collier
+2008.10.08,########,2008,Unprovoked,USA,Florida,"Santa Rosa Beach, Walton County",Fishing,Hudson Anthony,M,11,Lacerations,N,,"L. Garlngton, Memphis Commercial Appeal, 10/9/2008"
+2008.09.28.b,########,2008,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,David Logan,M,44,Small puncture wounds to the heel of left foot,N,,S. Petersohn
+2008.09.28.a,########,2008,Unprovoked,USA,Florida,Bethune Beach,Surfing,David Carr,M,40,Right foot bitten,N,#ERROR!,S. Petersohn
+2008.09.14,########,2008,Unprovoked,USA,Florida,"Ormond-by-the-Sea, Volusia County",Swimming,,M,32,Lacerations to foot,N,2' to 3' juvenile shark,S. Petersohn
+2008.09.09,9/9/2008,2008,Unprovoked,USA,Hawaii,"Ka'a'awa, Oahu",Surfing,Todd Murashige,M,40,Bitten on right thigh & calf,N,Tiger shark,"Honolulu Advertiser, 9/10/08"
+2008.09.08,9/8/2008,2008,Unprovoked,USA,California,"Surf Beach, Lompoc, Santa Barbara County",Surfing,Kyle K.,M,,"No injury to surfer, board bitten",N,"White shark, 14' to 16'",R. Collier
+2008.09.06.b,9/6/2008,2008,Unprovoked,USA,Florida,"Ponce Inlet, New Smyrna Beach, Volusia County",Surfing,male,M,43,Minor injury to foot,N,,"S. Petersohn, GSAF"
+2008.09.06.a,9/6/2008,2008,Unprovoked,USA,Florida,"Ponce Inlet, New Smyrna Beach, Volusia County",Surfing,male,M,15,Minor injury to foot,N,,"S. Petersohn, GSAF"
+2008.09.01,9/1/2008,2008,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,Joe McGauley,M,52,Shark bumped right ankle,N,4' shark,J. McGauley
+2008.09.00,9/8/2020,2008,Unprovoked,USA,Florida,Hutchinson Island,Surfing,Daryl Zbar,M,,Right hand bitten,N,,"C. Johannson, GSAF"
+2008.08.30.b,########,2008,Invalid,USA,Hawaii,"McKenzie Beach Park in Pahoa, Hawai'i",Swimming,Kameron Brown,M,27,Death was probably due to drowning,Y,Shark involvement not confirmed,"D. Nakaso, Honolulu Advertiser, 8/31/2008"
+2008.08.28,########,2008,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,Thomas Gold,M,19,Superfical cut to left ankle,N,,"S. Petersohn, GSAF"
+2008.08.27,########,2008,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,Alexander Zgura,M,26,Lacerations to lower left leg,N,6' shark,"S. Petersohn, GSAF"
+2008.08.24,########,2008,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County","Swimming, towing surfboard",Jacob Shoup,M,20,Minor injury to left foot,N,,"S. Petersohn, GSAF"
+2008.08.22,########,2008,Invalid,USA,North Carolina,"Surf City, Topsail Island, Pender County",Surfing,Jessica Brothers,F,20,Calf bitten,N,Shark involvement not confirmed,"C. Creswell, GSAF"
+2008.08.20,########,2008,Unprovoked,USA,Florida,"Sanibel Island, Lee County",Swimming,Jack Miller,M,47,3 lacerations to forearm,N,,News-Press.com
+2008.08.18,########,2008,Invalid,USA,South Carolina,"North Myrtle Beach, Horry County",,male,M,7,Minor injuries,N,Shark involvement not confirmed,C. Creswell
+2008.08.16,########,2008,Unprovoked,USA,US Virgin Islands,Buck Island,Treading water,Elizabeth Riggs,F,38,Severe lacerations to left foot,N,8' bull shark or Caribbean reef shark,"M. Levne, GSAF"
+2008.08.12,########,2008,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Wading,Emma Klopchin,F,13,Puncture wounds & 3-inch laceration to right calf,N,,"S. Petersohn, GSAF"
+2008.08.11,########,2008,Unprovoked,USA,Hawaii,"Ala Moana Beach Park, Oah'u",Diving,male,M,,"No injury, shark grabbed his bag of fish",N,"Tiger shark, 12'","Honolulu Advertiser, 8/13/2008"
+2008.07.26.a,########,2008,Unprovoked,USA,Hawaii,"Honokowai, Maui",Swimming,U. Mataafa,M,,Minor injury,N,2' to 3' reef shark,"Maui News, 7/27/2008"
+2008.07.25.b,########,2008,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,Ethan Fulton,M,17,Right foot bitten,N,,"S. Petersohn, GSAF"
+2008.07.25.a,########,2008,Unprovoked,USA,Hawaii,"Lahilahi Point, Oahu",Snorkeling,Kaori Fiack,F,44,Forearm bitten,N,,"Honolulu Star Bulletin, 7/26/2008"
+2008.07.24.b,########,2008,Unprovoked,USA,North Carolina,"Surf City, Topsail Island, Pender County",Wading,Jake Martin,M,9,Minor lacerations to toe,N,3' shark,"C. Creswell, GSAF"
+2008.07.24.a,########,2008,Unprovoked,USA,North Carolina,"Topsail Island, Pender County",Wading,Madeline Sinsley,F,8,Lacerations to dorsum of right foot,N,3' to 4' shark,"C. Creswell, GSAF"
+2008.07.23,########,2008,Provoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,Troy Zettle,M,15,Foot bitten after he stepped on the shark PROVOKED INCIDENT,N,,"S. Petersohn, GSAF"
+2008.07.19,########,2008,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Wading,S.A.,M,16,Lacerations to lower left leg,N,4' shark,"S. Petersohn, GSAF"
+2008.07.13,########,2008,Invalid,USA,North Carolina,"Carolina Beach, New Hanover County",Body surfing,Donald Griffin,M,52,"Bruises, abrasions and some spinal and nerve damage when collided with marine animal, possibly a shark or dolphin.",N,Shark involvement not confirmed,"C. Creswell, GSAF"
+2008.07.11,########,2008,Unprovoked,USA,South Carolina,"Isle of Palms, Charleston County",Surfing,male,M,24,Laceration to foream,N,,"C. Creswell, GSAF"
+2008.07.09,7/9/2008,2008,Unprovoked,USA,North Carolina,"Emerald Isle, Carteret County",Swimming,Bailleigh Foster,F,14,Lacerations to right foot,N,,"C. Creswell, GSAF"
+2008.07.05,7/5/2008,2008,Unprovoked,USA,South Carolina,"Litchfield Beach, Georgetown County",,J.L.,F,17,Lacerations to right foot,N,,"C. Creswell, GSAF"
+2008.06.28.c,########,2008,Invalid,USA,Hawaii,"Kamilo Point, Hawai'i",Wading,Nathan Labarios,M,53,Probable drowning with post-mortem bites,Y,Shark involvement prior to death not confirmed,"Honolulu Star Bulletin, 6/30/2008"
+2008.06.26.b,########,2008,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,male,M,29,Minor laceration to foot,N,,S. Petersohn
+2008.06.26.a,########,2008,Unprovoked,USA,South Carolina,"Isle of Palms, Charleston County",Swimming,Preston Pearman,M,37,Lacerations to hand,N,4.5 to 5' shark,"P. Pearman; C. Creswell, GSAF"
+2008.06.21,########,2008,Unprovoked,USA,California,"West Cove, Catalina Island",Kayaking,Bettina Pereira,F,40,"No injury. Shark bumped kayak, flinging her into the water.",N,"White shark, 15'","R. Collier, GSAF"
+2008.06.20,########,2008,Unprovoked,USA,Florida,"Fernandina Beach, Nassau County",Wading,Jennifer Cation,F,35,Lacerations to lower right calf,N,,"News-Leader, 6/21/2008"
+2008.06.07,6/7/2008,2008,Unprovoked,USA,Florida,"Cocoa Beach, Brevard County",Body surfing,John Vasbinder,M,40,Lacerations & abrasions to right hand,N,,"TC Palm, 6/20/08"
+2008.06.01.b,6/1/2008,2008,Unprovoked,USA,South Carolina,Cherry Grove,Body surfing,Madi Taff,F,15,Foot bitten,N,5' shark,"C. Creswell, GSAF"
+2008.05.26,########,2008,Unprovoked,USA,North Carolina,"Hammocks Beach State Park, Bear Island, Onslow County",Surfing,William Early,M,9,Biceps & lower arm bitten,N,,"C. Creswell, GSAF"
+2008.05.07.a,5/7/2008,2008,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Wading,Zane Atcha,M,6,2 inch laceration to left lower calf.,N,,"M. Johnson, Daytona News-Journal, 5/8/2008; S. Petersohn"
+2008.04.28.a,########,2008,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,David Alger,M,18,3-inch laceration to dorsal surface of left foot,N,4' shark,S. Petersohn
+2008.04.27,########,2008,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,Adam Tobin,M,24,Calf bitten,N,,S. Petersohn
+2008.04.26.a,########,2008,Provoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,Mark Pattison,M,21,Puncture wounds to right foot PROVOKED INCIDENT,N,,S. Petersohn
+2008.04.25,########,2008,Unprovoked,USA,California,"Solana Beach, San Diego County",Swimming,Dave Martin,M,66,FATAL,Y,"White shark, 12' to 15'",R. Collier
+2008.04.20.b,########,2008,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,female,M,14,Cuts & punctures to right foot,N,,"S. Petersohn, GSAF"
+2008.04.15,########,2008,Unprovoked,USA,Florida,"Playalinda Beach, Canaveral National Seashore, Brevard County",Surfing,Bobby Phillips,M,30,Puncture wounds to right foot,N,1.5' to 2' shark,B. Phillips
+2008.03.25,########,2008,Unprovoked,USA,Florida,"Palm Beach Shores, Palm Beach County",Wading,Nick Canganelli,M,15,Shin bitten,N,6' shark,"The Plain Dealer, 4/1/2008"
+2008.04.08.R,Reported 08-Apr-2008,2008,Unprovoked,USA,Florida,"1.4 miles south of Ponce de Leon Jetty, New Smyrna Beach, Volusia County",Surfing,,,,Foot bitten,N,,"News 13,4/8/2008"
+2008.04.03,4/3/2008,2008,Unprovoked,USA,Florida,"South of Ponce de Leon Jetty, New Smyrna Beach, Volusia County",Walking out of the water after surfing,Joey Giangrasso,M,18,Right foot & ankle bitten,N,,"S. Petersohn, GSAF"
+2008.03.28.b,########,2008,Unprovoked,USA,Florida,"New Smyrna Beach / Ponce Inlet, Volusia County",Surfing,Mark Lemelin,M,52,Foot bitten,N,4' to 5' shark,"S. Petersohn, GSAF"
+2008.03.28.a,########,2008,Unprovoked,USA,Florida,"Near Cocoa Beach, Brevard County",Boogie Boarding,Teresa Holloway,M,,Right foot bitten,N,a small shark,"D. MacAnnally, Eyewitness News"
+2008.03.23,########,2008,Unprovoked,USA,Florida,"South of Ponce de Leon Jetty, New Smyrna Beach, Volusia County",Walking out of the water after surfing,male,M,13,Three small lacerations/ punctures to right foot,N,2.5' shark,"S. Petersohn, GSAF"
+2008.03.21,########,2008,Unprovoked,USA,Florida,"Beachway Avenue Approach, New Smyrna Beach, Volusia County",Wading,male,M,14,Two 3-inch lacerations to right ankle,N,,"S. Petersohn, GSAF"
+2008.03.15,########,2008,Unprovoked,USA,Florida,"Lovers Key State Park, Bonita Springs, Lee County",Jet skiing,male,M,8,Minor injury,N,Shark involvement not confirmed,News-Press.com
+2008.03.07,3/7/2008,2008,Unprovoked,USA,California,"Huntington Beach, Orange County",Surfing,Thomas Larkin,M,27,"No injury to surfer, surfboard bitten by the shark",N,White shark,R. Collier
+2008.02.15,########,2008,Unprovoked,USA,Florida,"Ponce Inlet, Volusia County",Surfing,Harold Bradner,M,25,Lacerations to foot,N,,"S. Petersohn, GSAF"
+2008.02.06,2/6/2008,2008,Unprovoked,USA,Florida,"Opposite Patrick Air Force Base, Brevard County",Surf-skiing,Unidentified,M,,Lacerations to foot,N,3' shark,"Vero Beach Press Journal, 2/7/2008"
+2008.01.10,########,2008,Unprovoked,USA,Florida,"Playalinda Beach, Canaveral National Seashore, Brevard County",Surfing,Jordan Marsden,M,20,Left foot bitten,N,a small shark,"Forida Today, 1/18/2008; Channel 9 News"
+2008.00.00.b,Fall 2008,2008,Provoked,USA,Florida,"Off Fort Pierce, St. Lucie County",Fishing for snapper,Johnny Silva,M,,Minor injury to hand by hooked shark PROVOKED INCIDENT,N,"Nurse shark, 10'",Extremecoast.com/ 1/30/2009
+2007.12.10,########,2007,Unprovoked,USA,Hawaii,"Waialua Bay, O'ahu",Surfing,Valentino Ramirez,M,52,"No injury, shark bit surfboard",N,Tiger shark,"Honolulu Advertiser, 12/12/2007"
+2007.11.06,########,2007,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,Joseph Fox,M,21,Cut to right knee,N,4' to 5' shark,"S. Petersohn; GSAF' Central Florida News, 11/7/2006"
+2007.11.04,########,2007,Unprovoked,USA,Florida,"Round Island Park, Indian River County",Surfing,Jeffrey Nolan,M,42,Lacerations to right leg,N,5' shark,"T.C. Palm, 11/4/2007 & 11/5/2007"
+2007.10.29,########,2007,Unprovoked,USA,Hawaii,"Wailea, Maui",Floating,Aaron Finley,M,32,Lacerations to left lower leg,N,Tiger shark,KHNL8.com
+2007.10.07,########,2007,Unprovoked,USA,California,"Venice Pier, Venice, Los Angeles County",Surfing,Sam Bendall,M,22,4 scratches on left hand,N,3' to 4' shark,R. Collier
+2007.10.06,########,2007,Unprovoked,USA,Florida,"Playalinda Beach, Canaveral National Seashore, Brevard County",Surfing,E.H.,M,16,Severe lacerations to right hand,N,"Blacktip shark, 5'",E. H.
+2007.09.30.c,########,2007,Unprovoked,USA,California,"Santa Monica, Los Angeles County",Surfing,Andrew Sinagra,M,,Puncture wound to foot,N,,R. Collier
+2007.09.27.b,########,2007,Unprovoked,USA,California,"Moonstone Beach, Humboldt County",Surfing,Sue Snyder,F,,"No injury to surfer, surfboard bitten",N,White shark,R. Collier
+2007.09.22.b,########,2007,Invalid,USA,Florida,Jupiter Inlet,Scuba diving,Nikki Cuomo,F,,Shark involvement prior to death unconfirmed,Y,,"Florida Today, 12/14/2007"
+2007.09.22.a,########,2007,Unprovoked,USA,Florida,Huguenot Park,Surfing,,F,,Laceration to foot,N,4' shark,"R.Duffy, First Coast News. 9/23/2007"
+2007.09.20,########,2007,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,Tyler Robertson,M,23,Small lacerations to bottom of right big toe,N,3' shark,"S. Petersohn, GSAF"
+2007.09.16.b,########,2007,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Wading?,Jack Calogero,M,56,Laceration to right heel,N,,"S. Petersohn, GSAF"
+2007.09.16.a,########,2007,Unprovoked,USA,Florida,"Flagler Beach, Flagler County",Surfing,Jessica Riley,F,,"No injury, surfboard bitten",N,9.5' shark?,wsbtv.com
+2007.09.13,########,2007,Unprovoked,USA,Florida,"Lauderdale-by-the-Sea, Broward County",Snorkeling,Brandon Chapman,M,14,"Minor injury, shark latched onto his abdomen",N,"Nurse shark, 2' to 3'","Miami Herald, 9/13/2007; Sun-Sentinel, 9/14/2007"
+2007.09.08,9/8/2007,2007,Unprovoked,USA,Florida,"Pepper Park Beach, St. Lucie County",Wading,Carolyn Griffin,F,58,Puncture wounds & 2-inch laceration to calf,N,,"First Coast News, 9/11/2007"
+2007.09.05,9/5/2007,2007,Unprovoked,USA,Florida,"Daytona Beach, Volusia County",Wading,Colette Wilson,F,36,Laceration to right big toe,N,,"S. Petersohn, GSAF"
+2007.09.04,9/4/2007,2007,Unprovoked,USA,South Carolina,Sullivan's Island,Standing,Rory Corr,M,15,Lacerations to left calf and both feet,N,,"C. Creswell, GSAF; J. Johnson, Post and Courier, 9/26/2007"
+2007.09.03.b,9/3/2007,2007,Unprovoked,USA,Florida,"Daytona Beach, Volusia County",Jumping,female,F,12,Tiny punctures to arm,N,18" to 24" shark,"S. Petersohn, GSAF"
+2007.09.03.a,9/3/2007,2007,Unprovoked,USA,Florida,"Fort Lauderdale, Broward County",Swimming,Dominco Iaciofano,M,58,3" laceration to left forearm,N,Possibly a spinner shark,"S. Wyman, Sun-Sentinel, 9/3/2007; Local10.com"
+2007.08.28.b,########,2007,Unprovoked,USA,Hawaii,"Ka'a'awa, Oahu",Body boarding,Joshua Sumait,M,15,Laceration to right heel,N,"Tiger shark, 10' to 12'","Honolulu Advertiser, 8/29/2007"
+2007.08.28.a,########,2007,Unprovoked,USA,California,"Marina State Beach, Monterey County",Surfing,Todd Endris,M,24,Lacerations to thigh & torso,N,"White shark, 12'",R. Collier
+2007.08.26,########,2007,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,Joseph Coursey,M,54,Left hand bitten,N,3' shark,"S. Petersohn, GSAF"
+2007.08.25,########,2007,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,Taylor Smith,M,27,6 lacerations to left hand,N,3' shark,"S. Petersohn, GSAF; WESH 2 News"
+2007.08.22,########,2007,Provoked,USA,North Carolina,North Carolina Aquarium at Fort Fisher,Diving,Bruce Pennington,M,,Minor injury from captive shark PROVOKED INCIDENT,N,Sand shark,"Clay Creswell, GSAF; WECT TV6"
+2007.08.20,########,2007,Provoked,USA,Delaware,"Indian River Inlet, Rehoboth Beach",Fishing,male,M,,Forearm bitten by hooked shark PROVOKED INCIDENT,N,Sandtiger shark,"Delaware Coast Press, 8/24/2007"
+2007.08.19.c,########,2007,Unprovoked,USA,Florida,"Islamorada Founder's Park, Plantation Key, Monroe County",Swimming,Chris Olstad,M,52,Torso bitten,N,,"Miami Herald, 8/20/2007"
+2007.08.19.b,########,2007,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,male,M,16,Foot bitten,N,4' to 5' shark,"S. Petersohn, GSAF"
+2007.08.19.a.,########,2007,Unprovoked,USA,South Carolina,"Lakewood Campground, Grand Strand, Horry County",Playing,male,M,7,Right calf bitten,N,,"C. Creswell, GSAF"
+2007.08.15,########,2007,Unprovoked,USA,Florida,Sarasota Bay,Floating near boat & observing bioluminesce,Andrea Lynch,M,20,Puncture wounds to torso,N,Possibly a 6' bull shark,"Charlotte Observer, 8/18/2007"
+2007.08.12,########,2007,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Swimming,female,F,15,"Minor injury, small lacerations to right foot",N,,"S. Petersohn, GSAF"
+2007.08.11,########,2007,Unprovoked,USA,Florida,"Ponce Inlet, New Smyrna Beach, Volusia County",Walking out of the water after surfing,Matthew Barton,M,19,"Minor injury, lacerations to left ankle & foot",N,,"S. Petersohn, GSAF"
+2007.08.09.b,8/9/2007,2007,Unprovoked,USA,South Carolina,"Isle of Palms, Charleston County",Swimming,Noah Green,M,30,Lacerations to right foot,N,,"C. Creswell, GSAF"
+2007.08.09.a,8/9/2007,2007,Unprovoked,USA,South Carolina,"Isle of Palms, Charleston County",Boogie Boarding,Chase Crawford,M,9,Lacerations to lower leg & ankle,N,,"C. Creswell, GSAF"
+2007.08.07,8/7/2007,2007,Unprovoked,USA,Florida,"Islamorada, Monroe County",Jumped into the water,Ashley Silverman,F,19,Lacerations to arm,N,Possibly a 10' bull shark,"Miami Herald, 8/8/2007"
+2007.07.29,########,2007,Unprovoked,USA,Florida,"Ponce Inlet, Volusia County",Surfing,Jeffrey Clark,M,51,Minor injury to shoulder,N,,"S. Petersohn, GSAF"
+2007.07.28,########,2007,Unprovoked,USA,California,"Imperial Beach, San Diego County",Surfing,Jordan Springer,M,20,"No injury, shark bit surfboard",N,,R. Collier
+2007.07.22,########,2007,Unprovoked,USA,California,"Malibu, Los Angeles County",Surf paddling,Vic Calandra,M,,"No injury, surfboard bumped by shark for 20 minutes",N,"White shark, 12'",R. Collier
+2007.07.21,########,2007,Boat,USA,California,"Bean Hollow State Beach, San Mateo County",Kayak Fishing,Dan Prather,M,,"No injury, kayak bitten",N,White shark,"R. Collier; San Francisco Chronicle, 7/23/2007; NorCal Kayak Anglers"
+2007.07.19.b,19-Jul-2007.b,2007,Unprovoked,USA,Hawaii,"Bellows Beach near Wailea Point, O???ahu",Snorkeling,Harvey Miller,M,36,Left calf severely bitten,N,,"Honolulu Advertiser, 7/20/2007; Honolulu Star Bulletin, 7/20/2007"
+2007.07.18.b,########,2007,Unprovoked,USA,North Carolina,"North Topsail Beach, Onslow County",Swimming,Matt Baker,M,14,Right calf bitten,N,2' to 3' shark,"C. Creswell, GSAF"
+2007.07.17.b,########,2007,Invalid,USA,California,"Faria Beach, Ventura County",Swimming,Susan Levy,F,43,Foot injured. Shark involvment uncomfirmed,N,Shark involvement not confirmed,R. Collier
+2007.07.17.a,########,2007,Unprovoked,USA,North Carolina,"Atlantic Beach, Carteret County",Wading,female,F,30,Lacerations to right thigh & left foot,N,5' shark,"C. Creswell, GSAF"
+2007.07.05,7/5/2007,2007,Unprovoked,USA,Florida,"Ponce Inlet, Volusia County",Surfing,Chaz Cecil,M,18,Right foot bitten,N,,"S. Petersohn, GSAF"
+2007.06.30.b,########,2007,Provoked,USA,Florida,Marques Island,Removing hook from shark,Samuel Gruber,M,,Lacerations to right hand by hooked shark PROVOKED INCIDENT,N,"Lemon shark, 6' female",S. Gruber; SharkAttackSurvivors.com
+2007.06.30.a,########,2007,Unprovoked,USA,California,"Will Rogers State Beach, Los Angeles County",Swimming,Katina Zinner,F,,Hand bitten,N,,R. Collier
+2007.06.25,########,2007,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,Justin Lewis,M,20,6 to 8 puncture wounds to right hand,N,4' shark,"S. Petersohn, GSAF"
+2007.06.24,########,2007,Unprovoked,USA,Hawaii,"Silva's Channel, Mokuleia, O'ahu",Surfing,E. Yamada,M,,"No injury, board damaged",N,Tiger shark,"G. Lee, KGMB9.com"
+2007.06.17,########,2007,Invalid,USA,Florida,"Vilano Beach, St. Johns County",Surfing,Kasey Schmidt,F,9,Superficial injuries to upper leg may have been caused by surfboard fin,N,Shark involvement not confirmed,"St Augustine Record, 6/19/2007"
+2007.06.12,########,2007,Unprovoked,USA,Florida,"Turtle Beach, Siesta Key, Sarasota County",Swimming,Jeanne Schaefer,F,,Right foot bitten,N,3' to 4' shark,"R.B. Hackney, Sun-Sentinel, 7/13/2007"
+2007.05.26,########,2007,Unprovoked,USA,South Carolina,Garden City,Wading,Susan Dornquast,F,,Lacerations to lower leg,N,,"C. Creswell, GSAF; Hilton Head Island Packet, 5/27/2007"
+2007.05.24,########,2007,Provoked,USA,Virginia,"Virginia Aquarium & Marine Science Center, Virginia Beach",Reviving a sedated shark,Beth Firchau,F,40,Left shin bitten by captive shark PROVOKED INCIDENT,N,A 10-year-old 94-pound pregnant blacktip reef shark,WAVY-TV10-News
+2007.05.10,########,2007,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,Jennifer Manis,F,21,Knee bitten,N,4' to 5' shark,J. Manis
+2007.05.07.b,5/7/2007,2007,Unprovoked,USA,Hawaii,"Keawakapu Beach, Maui",Snorkeling,Peller Marion,F,63,Right foot bitten,N,"Tiger shark, 14'","G. Kubota, Honolulu Star Bulletin, 5/8/2007"
+2007.05.07.a,5/7/2007,2007,Unprovoked,USA,Florida,Naples,Swimming,Hans Pruss,M,68,Circular bite on left thigh,N,6' to 8' shark,"Naples News, 5/10/2007"
+2007.04.22,########,2007,Unprovoked,USA,Florida,"Hutchinson Island, St. Lucie County",Body boarding,Matthew Honyak,M,12,Left foot bitten,N,blacktip or spinner shark,"Sun-Sentinel, 4/23/2007"
+2007.04.20,########,2007,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,Chad Guthrie,M,24,Lacerations to left index finger & thumb,N,3' to 4' shark,"Florida Today, 4/21/2007"
+2007.04.13.R,Reported 13-Apr-2007,2007,Boat,USA,Florida,"Florida Keys, Monroe County",Fishing,boat: 48' charter boat GonFishin V,,,"No injury to occupants, shark holed the transom-mounted livewell",N,"Bull shark, 10'","Florida Today, 4/13/2007; A. Brenneka"
+2007.04.01,4/1/2007,2007,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Playing on a sandbar,Jack LoMedico,M,7,Lacerations & puncture wounds to right calf,N,,"S. Petersohn, GSAF; WESH 2, 4/1/2007; Local6news.com, 4/3/2007"
+2007.03.31.b,########,2007,Unprovoked,USA,Florida,"Normandy Beach, Hutchinson Island, St. Lucie County",Surfing,Larry Olson,M,27,Lacerations to right ankle,N,3' shark,"Palm Beach Post, 3/31/2007; Sun Sentinel, 4/3/2007"
+2007.03.31.a,########,2007,Unprovoked,USA,Florida,"Waveland Beach, Hutchinson Island, St. Lucie County",,male,M,9,Minor cuts to right buttock & thigh,N,,"Palm Beach Post, 3/31/2007"
+2007.03.21,########,2007,Unprovoked,USA,Florida,Jupiter Inlet,Surfing,Sam Chief,M,11,Punctures & lacerations to right calf & calf,N,4' to 5' shark,"TCPalm, 3/23/2007"
+2007.03.14.R,Reported 14-Mar-2007,2007,Provoked,USA,Florida,Delray Beach,Shark fishing,Gregory Kuehlewind,M,,Right hand bitten by hooked shark PROVOKED INCIDENT,N,5' shark,Associated Press
+2007.03.11,########,2007,Unprovoked,USA,Florida,"Tiger Shores Beach, Martin County",Surfing,Adam McMichael,M,29,Lacerations to right forearm & hand,N,,"J. Ashton, T.C. Palm, 3/12/2007"
+2007.01.25.a,########,2007,Boat,USA,Florida,100 miles off Ft. Myers Beach,Shrimping,boat: 69.5' trawler Christy Nichole,,,"A large shark rammed boat, breaking prop shaft. No injury to occupants but boat sank several hours later",N,14' shark,"P. Morales, News-Press, 2/5/2007"
+2007.01.07,1/7/2007,2007,Invalid,USA,New York,"Smith Point, Long Island",Surfing,Wayne Brodsky,M,54,No injury,N,24" to 30" shark,W. Brodsky
+2007.01.05,1/1/2007,2007,Unprovoked,USA,Hawaii,"Majors Bay, Kaua'i",Surfing,Rich Reed,M,24,"No injury, shark removed piece of surfboard",N,"6' to 8' shark, possibly a tiger shark","P. Immerz, SharkProject.org; J. TenBruggencate, Honolulu Advertiser, 1/5/2007"
+2006.12.10,########,2006,Unprovoked,USA,California,"Dillon Beach, Marin County",Surfing,Royce Fraley,M,43,"Minor injuries, surfboard bitten",N,"White shark, 12' to 15'","P. Immerz; R. Collier; San Francisco Chronicle, 12/11/2006"
+2006.11.11,########,2006,Unprovoked,USA,Hawaii,"Kihei, Maui",Swimming,Kyle Gruen,M,29,Laceration to left thigh & left hand,N,2 m to 3 m shark,"Honolulu Advertiser, 11/12/2006; B. Nicholson"
+2006.10.31,########,2006,Unprovoked,USA,Oregon,"Siletz River mouth, Lincoln County",Surfing,Tony Perez,M,22,"No injury, surfboard bitten",N,"White shark, 16'",R. Collier
+2006.10.16,########,2006,Unprovoked,USA,Florida,Sebastian Inlet,Fishing,"Blaise Castellano, Jr.",M,15,Lower right leg and foot bitten,N,,"K. Kridel, Herald Tribune, 10/21/2006"
+2006.10.10,########,2006,Unprovoked,USA,Florida,"Daytona Beach, Volusia County",Surfing,Kyle Cody,M,20,Left ankle bitten,N,,"S. Petersohn, GSAF"
+2006.10.07,########,2006,Unprovoked,USA,Texas,"Isla Blanca Park, South Padre Island",Surfing,Freddy Torres,M,,Lacerations to lower left leg,N,1' to 4' shark,"M. Martinez, KGBT4"
+2006.10.05,########,2006,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Playing soccer in the water,Stephen M??noz,M,18,Lacerations to foot,N,3' to 3.5' shark,"S. Petersohn, GSAF"
+2006.09.29,########,2006,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,Chris Andrews,M,19,Big toe bitten,N,,"S. Petersohn, GSAF"
+2006.09.18.R,Reported 18-Sep-2006,2006,Provoked,USA,Florida,"Off Key Largo, Monroe County",Diving / Kissing the shark,Dave Marcel,M,,Lacerations to upper lip PROVOKED INCIDENT,N,Nurse shark,"CBS-4, 9/18/2006"
+2006.09.16,########,2006,Unprovoked,USA,North Carolina,Onslow Beach,Surfing,Jake Poland,M,16,Laceration to left thigh,N,,"C. Creswell, GSAF"
+2006.09.14,########,2006,Unprovoked,USA,Florida,"Singer Island, Riviera Beach",Swimming,William Carol,M,55,Minor injury to left hand,N,Spinner shark,WFTV.com
+2006.09.11,########,2006,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,Dennis Macy,M,52,Left torso grazed,N,5' shark,"S. Petersohn, GSAF"
+2006.09.03.a,9/3/2006,2006,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Standing,Christopher Duncan,M,33,Puncture wounds and cuts to right thigh,N,3' shark,"S. Petersohn, GSAF"
+2006.09.02,9/2/2006,2006,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Swimming,male,M,,Arm bitten,N,,"S. Petersohn, GSAF"
+2006.08.29.b,########,2006,Unprovoked,USA,Oregon,"Florence, Lane County",Surfing,Tom Larson,M,23,Laceration & puncture wounds to foot,N,,"R. Collier, GSAF; Register-Guard, 8/31/2006"
+2006.08.00.b,8/6/2020,2006,Unprovoked,USA,North Carolina,"Masonboro Island, New Hanover County",Wading,Miriam Picklesimer,F,59,Lacerations & punctures to left foot,N,,"C. Creswell, GSAF"
+2006.07.31.R,########,2006,Provoked,USA,Kentucky,"Newport Aquarium, Newport",Touching sharks,12 people,,,"Minor injuries, similar to paper cuts from the captive sharks PROVOKED INCIDENTS",N,small catsharks,"Cincinatti News, 7/31/2006"
+2006.07.31.a,########,2006,Unprovoked,USA,Oregon,Oswald State Park,Surfing,Robert Martin,M,41,Minor injury,N,White shark?,"R. Collier, GSAF"
+2006.07.29.b,########,2006,Invalid,USA,California,"Broad Beach, Malibu, Los Angeles County",Boogie Boarding,Bruce Lurie,M,,"Bruises, laceration to head, spinal cord injury & neck broken at C5/C6",N,"Thought to involve a mako shark, but possibly a sea lion","R. Colier, GSAF"
+2006.07.29.a,########,2006,Unprovoked,USA,Florida,"Playalinda Beach, Canaveral National Seashore, Brevard County",Surfing,Matt Wishengrad,M,15,Foot bitten,N,,WFTV.com
+2006.07.25,########,2006,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,male,M,14,Minor lacerations to right foot,N,,"S. Petersohn, GSAF"
+2006.07.23,########,2006,Unprovoked,USA,Texas,"Sargent Beach, Matagorda County",Surf fishing,R.K. Halbert,M,,Right foot bitten,N,"Bull shark, 4' to 5'",KHOU.com
+2006.07.17,########,2006,Unprovoked,USA,South Carolina,"Singleton Beach, Hilton Head Island, Beaufort County",Standing,Dallas Jackson,M,49,Left ankle & foot bitten,N,"Angel shark, 1.2m","C. Creswell, GSAF"
+2006.07.12,########,2006,Unprovoked,USA,South Carolina,"Kiawah Island, Charleston County",Swimming,female,F,21,Ankle & foot bitten,N,,"C. Creswell, GSAF"
+2006.07.09.b,7/9/2006,2006,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Wading,male,M,40,Dorsum of left foot bitten,N,,"S. Petersohn, GSAF"
+2006.07.09.a,09-Jul-2006.,2006,Unprovoked,USA,Florida,"Ponte Vedra Beach, St Johns County",Walking,male,M,11,Lower leg & ankle bitten,N,,"Orlando Sentinel, 7/9/2006"
+2006.07.08.b,7/8/2006,2006,Unprovoked,USA,South Carolina,"Debordieu Beach, Georgetown County",Body boarding,Caelin Lacy,F,14,Foot bitten,N,5' to 6' spinner or bull shark,"C. Creswell, GSAF"
+2006.07.08.a,7/8/2006,2006,Unprovoked,USA,Florida,"Playalinda Beach, Canaveral National Seashore, Brevard County",Swimming,male,M,13,Right calf bitten,N,,Orlando Sentinel
+2006.06.30.b,7/6/2020,2006,Unprovoked,USA,Florida,"Florida Keys, Monroe County",Spearfishing,Bebe Hall,F,28,Lacerations & puncture wound to arm,N,1.8 m blacktip "reef" shark,"Swimming World Magazine, 2 July 2006"
+2006.06.30.a,7/6/2020,2006,Unprovoked,USA,Florida,"Florida Keys, Monroe County",Spearfishing,Gary Hall,M,35,Minor injuries,N,1.8 m blacktip "reef" shark,"Swimming World Magazine, 2 July 2006"
+2006.06.27,########,2006,Unprovoked,USA,Florida,"Hutchinson Island, St. Lucie County",Body boarding,Juliette Shipp,F,9,Right calf bitten,N,,P. Immerz
+2006.06.26,########,2006,Provoked,USA,Florida,Fort Myers,Fishing,male,M,,Non-swimmer pulled off pier& into the water by a hooked shark PROVOKED INCIDENT,N,,"News Press, 6/27/2006"
+2006.06.20,########,2006,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,Elizabeth Schelk,F,22,2-inch puncture wounds on right foot,N,Possibly a 1' to 3' blacktip or spinner shark,"S. Petersohn, GSAF; P. Immerz"
+2006.06.17,########,2006,Unprovoked,USA,California,"Monterey, Monterey County",Scuba diving,Jon Piatt,M,43,"No injury, shark bit scuba tank boot",N,,R. Collier
+2006.06.15,########,2006,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,Mike Milea,M,24,Four 1-inch puncture wounds on left foot,N,2' to 3' shark,"S. Petersohn, GSAF"
+2006.06.07,6/7/2006,2006,Unprovoked,USA,South Carolina,"Coligny Beach, Hilton Head, Beaufort County",Playing,Megan Wallis,F,7,Lacerations & puncture wounds to left foot & buttocks,N,3' to 4' shark,"C. Creswell, GSAF; Islandpacket.com, 6/7/2006"
+2006.05.31,########,2006,Unprovoked,USA,Hawaii,O'ahu,Spearfishing,Ron Deguilmo,M,26,4" laceration to left forearm,N,"Tiger shark, 8' to 12'","P. Immerz; Honolulu Advertiser, 6/1/2006"
+2006.05.28,########,2006,Provoked,USA,Hawaii,French Frigate Shoals,Tagging sharks,"25' rigid-hulled inflatable boat, HI-2",,,"No injury to occupants, boat damaged by hooked shark PROVOKED INCIDENT",N,"Tiger shark, 15' female","Honolulu Advertiser, 5/29/2006"
+2006.05.27,########,2006,Unprovoked,USA,Hawaii,"North Shore, O'ahu",Surfing,Bret Desmond,M,31,"No injury, shark bumped surfboard",N,,R. Collier
+2006.05.24,########,2006,Provoked,USA,Hawaii,Lanai,Spearfishing,Andres Balmacda,M,15,Knee bitten after diver poked shark PROVOKED INCIDENT,N,"Grey reef shark, 5' to 8'","Maui News, 5/26/2006"
+2006.05.19,########,2006,Unprovoked,USA,Guam,Gun Beach,Scuba diving,Japanese female,F,,Laceration to leg,N,"Tiger shark, 10' to 12'",R. Segal
+2006.05.10,5/5/2006,2006,Unprovoked,USA,Florida,"Cocoa Beach, Brevard County",,male,M,,Small lacerations to arm,N,,"Florida Today, 5/10/2006"
+2006.05.04,5/4/2006,2006,Unprovoked,USA,Florida,"Hutchinson Island, St. Lucie County",Swimming,Rachel King,F,,2 lacerations on lower right leg,N,,"TCPalm.com, 5/4/2006"
+2006.04.23.R,Reported 23-Apr-2006,2006,Invalid,USA,Florida,"Alligator Reef off Islamorada, Monroe County",,male,M,,Shark bites post mortem,Y,,"KRT Wire, 4/24/2006"
+2006.04.21,########,2006,Unprovoked,USA,Florida,"Sebastian Inlet, Brevard County",Surfing,T. Davis Bunn,M,54,Feet bitten,N,,Local 6 News
+2006.04.19,########,2006,Unprovoked,USA,Florida,"Daytona Beach, Volusia County",Standing,Megan Prescott,F,13,3 tiny punctures & small lacerations on right ankle,N,,"Orlando Sentinel, 4/20/2006; Yahoo News; S. Petersohn"
+2006.04.13,########,2006,Provoked,USA,Florida,"Port of the Islands, Collier County",Fishing,a sport fisherman,M,35,3 to 4 cm laceration on foot from hooked shark brought on board PROVOKED INCIDENT,N,"Bull shark, 4' to bull shark","Naples News, 4/13/2006"
+2006.04.03,4/3/2006,2006,Unprovoked,USA,Florida,"Marco Island, Collier County",Wading,Paul Ausum,M,11,Minor injury to right hand & thigh,N,,CBS Broadcasting
+2006.03.23,########,2006,Unprovoked,USA,Hawaii,"Leftovers, near Waimea Bay, O'ahu",Surfing,Elizabeth Dunn,F,28,5 puncture wounds in left calf,N,"Tiger shark, 10'",Honolulu Advertiser
+2006.02.27,########,2006,Unprovoked,USA,Hawaii,"Makena, Maui",Standing,Nikky Raleigh,F,15,Deep laceration to right calf,N,5' to 7' shark,"G.T. Kubota, Star Bulletin, 2/28/2006"
+2006.02.23,########,2006,Invalid,USA,Hawaii,"Makena, Maui",Free diving,Anthony Moore,M,45,Forensic examination suggested diver drowned & afterwards his body was bitten by a shark/s,Y,,http://www.kesq.com
+2006.02.01.a,2/1/2006,2006,Boat,USA,Hawaii,"Off Pu'u Ola'l, Makena, Maui",Kayaking,Dan Lankheit,M,57,No injury to occupant; shark bumped the kayak repeatedly for 15 minutes,N,12' to 18' shark,"R. Collier, GSAF; Honolulu Advertiser, 2/1/2006"
+2006.01.18,########,2006,Unprovoked,USA,California,"Santa Cruz, Santa Cruz County",Night Surfing,Mario Lari,M,,"No injury, but 2 small nicks on wetsuit",N,,R. Collier
+2006.01.04,1/4/2006,2006,Unprovoked,USA,Florida,"Round Island Park, Indian River County",Surfing,male,M,21,3 puncture wounds in right wrist & hand,N,4' shark,"A. Neal, scripps.com"
+2005.12.24,########,2005,Unprovoked,USA,Oregon,"Tillamook Head, Clatsop County",Surfing,Brian Anderson,M,30,Lacerations to ankle & calf,N,White shark,"R. Collier, GSAF; L.A. Times, 12/25/2005"
+2005.12.21,########,2005,Unprovoked,USA,Hawaii,"Keawakapu Beach, Maui",Swimming,Jonathan Genant,M,29,Left hand bitten,N,Tiger shark,San Francisco Gate 2/21/2005
+2005.11.29.R,Reported 29-Nov-2005,2005,Unprovoked,USA,Florida,"Cape San Blas, Gulf County",Surfing,John Larsen,M,,Left foot bitten,N,,wpmi.com
+2005.11.27,########,2005,Unprovoked,USA,Florida,"Ponce Inlet, New Smyrna Beach, Volusia County",Surfing,Blake Perry,M,23,Right thumb & palm lacerated,N,4' shark,"S. Petersohn, GSAF"
+2005.11.21,########,2005,Unprovoked,USA,Florida,"Jensen Beach, Martin County",Surfing,a male from Miami,M,,Left foot bitten,N,4' shark,Stuart News
+2005.11.20,########,2005,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,Kevin Spradlin,M,17,Lacerations to right thigh,N,,"S. Petersohn, GSAF"
+2005.11.12,########,2005,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,Lance Cameron,M,18,Puncture wounds to right foot,N,6' shark,"S. Petersohn, GSAF"
+2005.11.02.b,########,2005,Unprovoked,USA,California,"Mavericks, Half Moon Bay, San Mateo County",Surfing,Tim West,M,25,"No injury, board bitten",N,,"R. Collier, GSAF"
+2005.11.02.a,########,2005,Unprovoked,USA,California,"Ocean Beach, San Francisco, San Francisco County",Surfing,Jake Daneman,M,26,"No injury, board bumped",N,12' to 14' white shark,"R. Collier, GSAF"
+2005.10.29,########,2005,Unprovoked,USA,Florida,"Ponce de Leon Inlet, Volusia County",Wading,male,M,15,Puncture wounds to foot,N,2' to 3' shark,"Sentinel, 1-/30/2005"
+2005.10.21,########,2005,Unprovoked,USA,California,"Klamath River mouth, Del Norte County",Surfing,Chad Reiker,M,36,No injury,N,White shark,"R. Collier, GSAF"
+2005.10.19,########,2005,Unprovoked,USA,California,"Salmon Beach, Sonoma County",Surfing,Megan Halavais,F,20,Leg bitten,N,18' white shark,"R. Collier, GSAF; Bay City Newswire"
+2005.10.15,########,2005,Provoked,USA,Florida,"Ponce Inlet, Volusia County",Wading,N.W.,M,15,Minor cuts to dorsum & sole of left foot when he stepped on shark PROVOKED INCIDENT,N,,"S. Petersohn, GSAF; Florida Today, 10/16/2005"
+2005.10.13,########,2005,Unprovoked,USA,Hawaii,"Honokowai, Maui",Surfing,Clayton Sado,M,22,"No injury, surfboard bitten",N,"Tiger shark, less than 10'",Hawaii Department of Land and Natural Resources
+2005.10.06,########,2005,Unprovoked,USA,Florida,"Ponce Inlet, Volusia County",Treading water/ Surfing,Charles Hutson,M,48,Five 1-inch lacerations to left foot,N,,"S. Petersohn, GSAF"
+2005.09.22,########,2005,Invalid,USA,Florida,"Tigertail Beach, Collier County",Surfing,Charlie Corrado,M,,Lacerations to dorsum of left foot,N,Shark involvement not confirmed,"A. Galabinski, Marco Island Sun Times, 9/22/2005"
+2005.09.20,########,2005,Unprovoked,USA,South Carolina,"Myrtle Beach, Horry County",Body surfing,Clair Parrett,F,68,"Injuries to fingers, calf & heel",N,3' to 4' shark,"C. Creswell, GSAF; K. Galliard, Sun News, 9/21/2005"
+2005.09.11,########,2005,Unprovoked,USA,South Carolina,Folly Beach,Surfing,"Greg Norton, Jr.",M,18,FATAL,Y,,"Post & Courier, 9/12/2005"
+2005.09.05,9/5/2005,2005,Unprovoked,USA,North Carolina,"North Topsail Beach, Onslow County",Wading,Elizabeth Gardner,F,18,Calf severely lacerated,N,Bull shark,"Clay Creswell, GSAF"
+2005.09.02.b,9/2/2005,2005,Unprovoked,USA,Florida,"Ponce Inlet, Volusia County",Standing / Surfing,Frances Grause,M,62,Right foot bitten,N,,"S. Petersohn, GSAF"
+2005.08.24.a,########,2005,Unprovoked,USA,California,"Scripps, LaJolla, San Diego County",Surfing,Tony Simmonson,M,37,Lower right leg lacerated,N,juvenile white shark,"R. Collier, GSAF"
+2005.08.22,########,2005,Invalid,USA,South Carolina,"6th Avenue North, Myrtle Beach, Horry County","Boogie boarding, kicked at object in the water",Nicholas House,M,17,Laceration to knee,N,possibly a small blacktip shark,"Clay Creswell, GSAF"
+2005.08.21,########,2005,Unprovoked,USA,South Carolina,"34th Avenue North, Myrtle Beach, Horry County",Swimming,Jacob Kolessar,M,8,Bitten underneath left arm,N,Possibly a sandbar shark or small blacktip shark,"Clay Creswell, GSAF"
+2005.08.19,########,2005,Unprovoked,USA,Texas,Crystal Beach (east of Galveston),Walking,Julian Elizondo,M,12,Left foot bitten,N,,"Clay Creswell, GSAF; Houston Chronicle, 8/20/2005"
+2005.08.12,########,2005,Unprovoked,USA,North Carolina,"Carolina Beach off Texas Avenue, New Hanover County",Surfing,Chris O'Connor,M,16,Laceration on right wrist & crescent of puncture wounds on forearm,N,1.8 m [6'] shark,"C. Creswell, GSAF"
+2005.08.06,8/6/2005,2005,Unprovoked,USA,South Carolina,"Isle of Palms, Charleston County",Swimming,Michael Lamb,M,14,Puncture wounds on left foot,N,,"C. Creswell, GSAF"
+2005.07.27,########,2005,Unprovoked,USA,Florida,"Off Zelda Boulevard, Daytona Beach, Volusia Countyy",Wading,Nicole Carlos,F,13,Laceration on the back of left hand & toothmarks on wrist,N,,"D. Salamone, GSAF"
+2005.07.23,########,2005,Unprovoked,USA,Florida,"Ormond Beach, Volusia County",Surfing,Bob Thompson,M,61,"Right foot: Toes and back of foot, minor injury",N,,"D. Salamone, GSAF"
+2005.07.22,########,2005,Invalid,USA,Florida,"Quarter mile south of Ponce de Leon Inlet, Volusia County",Surfing,Matthew Pearce,M,25,Straight 2.5" laceration on top of left ankle,N,Shark involvement not confirmed,"D. Salamone, GSAF"
+2005.07.15,########,2005,Unprovoked,USA,North Carolina,"Holden Beach, Brunswick County",Swimming,Chris Humphrey,M,22,Lacerations of left forearm,N,[4.5' to 5'] shark,"C. Creswell, GSAF"
+2005.07.13,########,2005,Unprovoked,USA,Texas,"Port Bolivar, Galveston County",Holding onto an inflatable boat,Lydia Paulk,F,14,Left foot bitten,N,[4' to 5'],"C. Creswell, GSAF"
+2005.07.01,7/1/2005,2005,Unprovoked,USA,Florida,"Boca Grande, Lee County",Standing,Armin Trojer,M,19,Ankle bitten,N,,"E. Ritter, GSAF"
+2005.06.27,########,2005,Unprovoked,USA,Florida,"Cape San Blas, Gulf County",Fishing,Craig Adam Hutto,M,16,"Leg severely bitten, surgically amputated",N,Bull shark,"E. Ritter, GSAF"
+2005.06.25,########,2005,Unprovoked,USA,Florida,"Destin, Walton County",Swimming with boogie board,Jamie Marie Daigle,F,14,"FATAL, leg bitten",Y,1.8 m [6'] bull shark,"E. Ritter, GSAF"
+2005.06.18,########,2005,Invalid,USA,Hawaii,Maui,Swimming,Brad Grissom,M,49,"No injury, 2.1m [7'] tiger shark approached swimmer who repelled it with his fist",N,,www.mauinews.com
+2005.06.16,########,2005,Unprovoked,USA,Florida,"Howard E. Futch Memorial Park at Paradise Beach, Brevard County",Swimming,male,M,20,Foot bitten,N,"Unknown, but it was reported that a shark tooth was recovered from the wound",Local6.com
+2005.06.07,6/7/2005,2005,Unprovoked,USA,South Carolina,"Kiawah Island, Charleston County",Boogie boarding,Catherine Cochrane,F,11,Foot lacerated,N,,"C. Creswell, GSAF; N. Kenney, NewsChannel 19"
+2005.06.05,6/5/2005,2005,Invalid,USA,New Jersey,"Surf City, Long Beach Island, Ocean County",Surfing,Ryan Horton,M,17,Dorsum of foot/ankle injured by surfboard skeg or other inanimate object.,N,"Mr. Burgess of ISAF announced the injury was the bite of a 1.8 m [6'], 2- to 3-year old white shark. Subsequent investigation revealed there was no shark involvement in this incident","Mr. Horton; R. Collier, R. Fernicola; M. Levine, E. Ritter, GSAF"
+2005.06.02,6/2/2005,2005,Unprovoked,USA,Texas,"Mustang Island, Corpus Christi",Wading,male,M,6,Two 2-inch lacerations on right foot,N,,KRIS6 News
+2005.05.28,########,2005,Unprovoked,USA,Florida,Daytona Beach Shores,Swimming,Alfonso Garcia,M,33,Left foot bitten,N,"small shark","Daytona Beach News Journal, 5/29/2005; Orlando Sentinel, 5/30/2005, p.B3"
+2005.05.27,########,2005,Unprovoked,USA,Florida,"Sand Key Beach, Clearwater, Pinellas County",Crouching in 2' of water,Michelle Smith,F,,Right arm & torso bitten,N,18" to 36" shark,"D.Wilhoit, The Ledger, 5/29/ 2005"
+2005.05.14,########,2005,Unprovoked,USA,Hawaii,"North Kihei, Maui",Kayaking,J. Bailey,,,"No injury, shark bit kayak",N,"Tiger shark, 8' to 9'",Hawaii Department of Land and Natural Resources
+2005.05.02.R,5/2/2005,2005,Sea Disaster,USA,South Carolina,Off Sullivans Island,Sea Disaster,Boat: 14' Sunfish. Occupants Josh Long & Troy Driscoll,M,,No injury,N,,"Gaffney Ledger, 5/2/2005"
+2005.05.02,5/2/2005,2005,Unprovoked,USA,Hawaii,"Noreiga's, Maui",Surfing,Scott Hoyt,M,47,"No injury, board damaged",N,"Tiger shark, 3 m [10']","T. Hurley, Honolulu Advertiser; L. Fujimoto, Maui News, 5/3/2005"
+2005.04.13,########,2005,Unprovoked,USA,Florida,"Crescent Beach, Sarasota County",Wading,Jessica Lynch,F,70,Right lower leg bitten,N,1.8 m [6'] blacktip shark,Herald Tribune.com
+2005.04.09,4/9/2005,2005,Invalid,USA,Florida,"Central Gulf Coast, St. John County",Surfing,Glenn Henderson,M,52,Foot injured,N,Shark involvement not confirmed,"WTSP TampaBays10.com; First Coast News, April 10, 2005"
+2005.04.07,4/7/2005,2005,Unprovoked,USA,Texas,"Isla Blanca Park, South Padre Island, Cameron County",Surfing,Gianluca Ferrario,M,37,Left foot bitten,N,,"G. Ferrario; J. Mendoza, Cameron County Parks; The Herald (Brownsville), 4/11/2005"
+2005.04.06,4/6/2005,2005,Unprovoked,USA,Florida,"Jacksonville Beach, Duval County",,Jessica Abe,F,,Left calf injured,N,small hammerhead shark,WJXT News4Jax.com
+2005.03.12,########,2005,Provoked,USA,New Mexico,"Albuquerue Aquarium, Albuquerue",Diving in aquarium display tank,Ken Pitts,M,45,2 punctures on forearm as captive shark collided with diver PROVOKED INCIDENT,N,"Sandtiger shark, 2.1 m [7']","H. Casman; T. Dukart, KOBTV"
+2005.02.22,########,2005,Provoked,USA,Florida,"Long Key, Monroe County",Spearfishing,Alex Mumzhiu,M,,Speared shark bit his chest PROVOKED INCIDENT,N,"Nurse shark, 3'",http://www.foldabikes.com/CurrentEvents/Story/Florida.html
+2005.02.16,########,2005,Unprovoked,USA,Hawaii,"Rocky Point, north shore of O'ahu",Surfing,Greg Long,M,,"No injury, knocked off board, shark bit board",N,"Tiger shark, 2.4 m [8']","R. Collier, GSAF; T. Winters, Honolulu Advertiser, 2/17/2005"
+2005.02.13,########,2005,Unprovoked,USA,Florida,Fort Lauderdale,Spearfishing,male,M,,Hand bitten,N,1.8 m [6'] Caribbean reef shark,J. Herrera
+2004.11.11.b,########,2004,Unprovoked,USA,California,"Bunkers, Humboldt Bay, Eureka, Humboldt County",Surfing,Brian Kang,lli,38,"Lacerations to hand, knee & thigh",N,5.5 m [18'] white shark,"R. Collier, GSAF"
+2004.10.10,########,2004,Unprovoked,USA,California,"Limantour Beach, Point Reyes National Seashore",Surfing,Paul de Jung,M,,Lower leg bitten,N,1.8 m to 2.4 m [6' to 8'] white shark,"R. Collier, GSAF"
+2004.10.09.b,########,2004,Unprovoked,USA,Hawaii,Moloka'i,Spearfishing,Davy Sanada,M,34,Left shoulder bitten,N,"Tiger shark, 2.4 m to 3.7 m [8' to 12']","The Maui News, 10/10/2004"
+2004.10.02,########,2004,Unprovoked,USA,California,"Pismo Beach, San Luis Obispo County",Surfing,Ben Ikola,M,16,"No injury, knocked off surfboard",N,,"R. Collier, GSAF"
+2004.10.01,########,2004,Unprovoked,USA,California,"Lifeguard Tower 16, Huntington Beach, Orange County",Surfing,Chuck Wilson,M,40,"No injury, shark struck board & spun it around",N,,"R. Collier, GSAF"
+2004.09.20,########,2004,Unprovoked,USA,Oregon,Gold Beach,Surfing,Seth Mead,M,26,Leg bitten,N,White shark,"S. Mead, R. Collier, J. Eager, B. Middleton"
+2004.09.10,########,2004,Invalid,USA,Texas,South Padre Island,Surf fishing,male,M,,Minor scratch on calf,N,Shark involvement questionable,M. Shields
+2004.09.04,9/4/2004,2004,Unprovoked,USA,South Carolina,"North of Apache Pier, Myrtle Beach, Horry County",Jumping,Megan Durham,F,17,Left knee & leg bitten,N,2.4 m [8'] shark,"C. Creswell, GSAF"
+2004.08.29,########,2004,Unprovoked,USA,Florida,"New Smyrna Beach / Cape Canaveral National Seashore, Brevard County",Walking,Debbie Salamone,F,38,Heel bitten,N,,"T. Jerome, GSAF; Daytona Beach News Journal, 8/31/2004"
+2004.08.20,########,2004,Unprovoked,USA,California,"204s, San Clemente, Orange County",Surfing,Shannon Lehman,M,,Foot bitten,N,0.9 m to 1.2 m [3' to 4'] white shark,"R. Collier, GSAF"
+2004.08.15,########,2004,Unprovoked,USA,California,"Kibesillah, Mendocino County",Diving,Randy Fry,M,50,FATAL,Y,4.9 m to 5.5 m [16' to 18'] white shark,"R. Collier & L. Levine, GSAF"
+2004.08.06,8/6/2004,2004,Unprovoked,USA,Florida,"Big Bayou, St. Petersburg, Pinellas County",Swimming,James Tiffee,M,47,"Back, buttocks, left hand & left side of face bitten",N,1.2 m [4'] shark,"T. Jerome, GSAF"
+2004.07.31,########,2004,Unprovoked,USA,Florida,"Cocoa Beach, Brevard County",Surfing,Kelly Getzfread,F,20,Right foot bitten,N,,"C. Creswell, GSAF"
+2004.07.28,########,2004,Unprovoked,USA,North Carolina,"Rodanthe, Dare County",Surfing,Catherine Delneo,F,28,Right calf bitten,N,,"C.Delneo, C. Creswell, M. Levine, R. Collier, GSAF"
+2004.07.27.b,########,2004,Unprovoked,USA,North Carolina,"Carolina Beach, New Hanover County",Swimming,Alexis Huesgen,F,13,Right forearm & wrist lacerated,N,1.8 m [6'] shark,"C. Creswell, GSAF"
+2004.07.27.a,########,2004,Unprovoked,USA,Texas,Galveston Island,Swimming,Erika Hailey,F,19,Right foot bitten,N,1.2 m to 1.5 m [4' to 5'] shark,KETK56 News
+2004.07.25,########,2004,Unprovoked,USA,Texas,"Bryan Beach, Brazoria County",Wading / fishing & carrying a bag of fish,Aaron Perez,M,11,Right forearm nearly severed and bites above & below the right knee,N,Bull shark,KRISTV.com
+2004.07.02.a,7/2/2004,2004,Unprovoked,USA,Alabama,"Gulf Shores Beach, Baldwin County",Wading,Trenton Martin,M,7,Right foot lacerated,N,4' to 5' shark,"C. Creswell, GSAF"
+2004.06.26.b,########,2004,Unprovoked,USA,California,"San Onofre State Beach, San Diego County",Surfing,Kelly French,M,45,"No injury, shark struck his board",N,9'2" white shark,R. Collier; GSAF
+2004.06.14,########,2004,Unprovoked,USA,Florida,"Disney / Vero Beach, Indian River County",In water with diving seabirds,girl,F,,Foot bitten,N,,Global Lifeguards
+2004.06.10.a,########,2004,Unprovoked,USA,Florida,"Daytona Beach Shores, Volusia County",Swimming,Mitchell Anderson,M,8,Right wrist & left arm lacerated,N,1.2 m [4'] shark,"T. Jerome, GSAF; Daytona Beach News Journal,, 6/11/2004, p.1C"
+2004.05.29,########,2004,Unprovoked,USA,Texas,"Pirate's Beach, Galveston Island",Wading,Ryan Eckstrum,M,16,Puncture wounds on shin,N,0.9 m to 1.5 m [3' to 5'] shark,J. David
+2004.05.28,########,2004,Unprovoked,USA,California,"Salmon Creek, Sonoma County",Surfing,"Bernard 'Butch' Connor, Jr.",M,44,No injury,N,2.4 m to 3.7 m [8' to 12'] shark,"R. Collier, GSAF; B. Connor, Jr."
+2004.05.23.a,########,2004,Unprovoked,USA,Florida,"St. Augustine, St. John's County",Boogie-boarding / swimming,male,M,9,Calf & foot lacerated,N,,News4Jax
+2004.05.22.c,########,2004,Invalid,USA,Florida,St. Augustine St. Johns County,Swimming,male,M,9,Single puncture wound on the foot,N,Shark involvement not confirmed,"T. Jerome, GSAF"
+2004.05.22.b,########,2004,Unprovoked,USA,Florida,"Jacksonville Beach, Duval County",,Michaela Grogan,F,9,Foot bitten,N,,First Coast News
+2004.05.04,5/4/2004,2004,Unprovoked,USA,Texas,Channel between South Padre Island & Padre Island National Seashore,Tandem surfing,Rachel Gore,M,28,"No injury, board bitten",N,"Mako shark, 1.8 m [6']",G. Gore & M. Sturdevant
+2004.04.07,4/7/2004,2004,Unprovoked,USA,Hawaii,"Kahana Beach, Maui",Surfing,Willis McInnis,M,57,FATAL Severe wound to right thigh & calf,Y,Tiger shark,"L. Fujimoto, B. Perry & M. Tanji, Maui News"
+2004.04.04,4/4/2004,2004,Invalid,USA,Hawaii,Velzyland,Surfing,Courtney Marcher,F,22,"Disappeared, surfboard washed ashore, marks on leash suggested shark involvement",Y,,"R. Antone, Honolulu Star Bulletin"
+2004.03.31.b,########,2004,Unprovoked,USA,Florida,"Ocean Reef Park, Singer Island, Palm Beach County",,Todd Rapp,M,26,Right foot bitten,N,,"D. Davies, Palm Beach Post, 6/3/2004"
+2004.03.31.a,########,2004,Unprovoked,USA,Florida,"Stuart Rocks, Martin County",Surfing,Chance Dean,M,20,15 puncture wounds on foot,N,1.2 m [4'] bull shark,"T. Jerome, GSAF; Palm Beach Post, 4/1/2004"
+2004.03.28,########,2004,Unprovoked,USA,Florida,"Pelican Beach Park, Satellite Beach, Brevard County",Surfing,male,M,,Heel bitten,N,bull shark,"J.D. Gallop, Florida Today"
+2004.03.27.a,########,2004,Unprovoked,USA,Florida,"Sanibel Island, Lee County",Swimming,Peter G. Hoffman,M,61,Minor lacerations & abrasions on forearm,N,,"T. Jerome, GSAF"
+2004.03.24,########,2004,Unprovoked,USA,Hawaii,Punaluu,Snorkeling,C. Mooney,F,,Lacerations to left foot,N,1.8 m [6'] shark,Hawaii Department of Land and Natural Resources
+2004.03.16,########,2004,Unprovoked,USA,Hawaii,"Kalihiwai Beach, Kauai",Surfing,Bruce Orth,M,51,"No injury, board bitten",N,"Tiger shark, 2.4 m to 3 m [8' to 10']",The Hawaii Channel
+2003.12.26,########,2003,Invalid,USA,Florida,"Miami, Dade County",Swimming,Richard Hansell,M,28,Knee lacerated,N,Questionable Incident,"The Times (London), 12/27/2003, p.4"
+2003.12.13.b,########,2003,Unprovoked,USA,Florida,"Melbourne Beach, Brevard County",Swimming,male,M,13,Foot bitten,N,,"Florida Today (Melbourne), 12/14/2003"
+2003.11.22,########,2003,Unprovoked,USA,Florida,"Daytona Beach, Volusia County",Surfing,Taylor Trumbauer,F,35,Severe abrasion to left lateral calf,N,4' shark,T. Trumbauer
+2003.11.12.a,########,2003,Unprovoked,USA,Florida,"South Jetty, New Smyrna Beach, Volusia County",Surfing,Josh Crawford,M,24,Lacerations to hand,N,,"S. Petersohn, GSAF"
+2003.10.31.c,########,2003,Unprovoked,USA,Florida,"Ponte Vedra Beach, St. Johns County",Surfing,Adam Gray,M,18,Left foot (sole) bitten,N,1.2 m to 1.5 m [4' to 5'] shark,"D. Dixon, Florida Times-Union, 11/8/2003"
+2003.10.31.a,########,2003,Unprovoked,USA,Hawaii,"Tunnels surf break off Makua Beach, Kaua'i",Surfing,Bethany Hamilton,F,13,Left arm severed below shoulder,N,"Tiger shark, 14'","E. Ritter, GSAF"
+2003.10.27,########,2003,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,Jeffrey Hauser,M,46,Laceration on right ankle & heel,N,,"S. Petersohn, GSAF"
+2003.10.24,########,2003,Invalid,USA,Hawaii,Honolua Bay,Snorkeling,Don Keener,M,56,Left forearm lacerated,N,Shark involvement not confirmed,"Timothy Hurley, Advertiser Maui County Bureau"
+2003.10.14,########,2003,Unprovoked,USA,Florida,Near Patrick Air Force Base Brevard County,Surfing,male,M,19,Foot bitten,N,1.2 m [4'] shark,WFTV.com
+2003.10.06,########,2003,Invalid,USA,Florida,Palm Beach?,Swimming to shore from boat or kayak,male,M,,"Fatal, drowning or scavenging. Two hours later his body, with bite marks, washed ashore.",Y,,"E. Pace, FSAF"
+2003.10.05.e,########,2003,Unprovoked,USA,Florida,"Ocean Reef Park, Singer Island, Palm Beach County",Surfing,female,F,,Minor puncture wounds in hand,N,,"J. Eager, scubaradio.com"
+2003.10.05.d,########,2003,Unprovoked,USA,Florida,"Stuart Park Beach, Martin County",Surfing,male,M,18,5 to 6 lacerations on right foot & ankle,N,,"Vero Beach Press Journal (FL) 10/6/2003; Stuart News, 10/6/2003"
+2003.10.05.c,########,2003,Provoked,USA,Florida,"South Jetty, New Smyrna Beach, Volusia County",Surfing,Rick Eckstein,M,30,Left ankle bitten when he stepped on the shark PROVOKED INCIDENT,N,,"S. Petersohn, GSAF"
+2003.10.05.b,########,2003,Unprovoked,USA,Florida,"Crawford Road beach approach at New Smyrna Beach, Volusia County",Sitting on surfboard,John Demartino,M,50,Left foot bitten,N,,"S. Petersohn, GSAF; J. Eager, scubaradio.com"
+2003.10.05.a,########,2003,Unprovoked,USA,Hawaii,"Cove Beach / Kalama Beach, Kihei, Maui",Wading near a fishing net,Clara Alo,F,41,"Left thigh abraded, right knee and right index finger injured",N,1.2 m [4'] "grey-colored shark","G. Kubota, Star Bulletin"
+2003.09.28,########,2003,Unprovoked,USA,Florida,"North Hutchinson Island, St. Lucie Couny",Surfing,Stephen Johnson,M,16,Arm lacerated,N,,"7News Online; Vero Beach Press Journal, Fort Pierce Tribune, Stuart News, 10/1/2003"
+2003.09.21,########,2003,Unprovoked,USA,Florida,"Ponce Inlet, New Smyrna Beach, Volusia County",Surfing,Jimmy Arnold,M,21,Left foot bitten,N,,"S. Petersohn, GSAF; Daytona Beach News Journal, 9/22/2003, p.1C"
+2003.09.19,########,2003,Unprovoked,USA,Florida,"Ponce Inlet, New Smyrna Beach, Volusia County",Surfing,David Cales,M,19,Left heel lacerated,N,,"S. Petersohn, GSAF"
+2003.09.17,########,2003,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,A.B.,M,17,3 puncture wounds on left foot,N,,"S. Petersohn, GSAF"
+2003.09.14.c,########,2003,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,Jason Williams,M,30,Left foot: lacerations on heel and sole,N,3' shark,"S. Petersohn, GSAF"
+2003.09.14.a,########,2003,Invalid,USA,Florida,"Bathtub Reef Beach, Martin County",Swimming,female,F,,Puncture wounds on inner thigh,N,Shark involvement doubtful,"Fort Pierce Tribune, 9/15/2003"
+2003.09.13.b,########,2003,Unprovoked,USA,Florida,"Daytona Beach, Volusia County",Body boarding,Aaron Edelson,M,18,Left calf avulsion,N,6' shark,"S. Petersohn, GSAF; News Journal Online; Orlando Sentinel, 9/15/2003, p.B2; R. Weiss, Daytona Beach News Journal, 9/15/2001, p.3C"
+2003.09.13.a,########,2003,Unprovoked,USA,South Carolina,"Isle of Palms, Charleston County","Standing, stepped on shark",Joe Davis,M,15,Ankle lacerated,N,7' shark,"P. Caston, Post & Courier"
+2003.09.00,9/3/2020,2003,Unprovoked,USA,Florida,"Boca Grande, Lee County",Wade-fishing,male,M,,2 lacerations on each side of Achilles tendon,N,,"B. Stout, News-Press, 9/24/2003"
+2003.08.29,########,2003,Provoked,USA,Texas,1.5 miles off Surfside,Fishing,Saul Gonzalez,M,,PROVOKED INCIDENT Hooked shark pulled onboard bit his arm,N,1.2 m [4'] bull shark,http://www.dfw.com/mld/startelegram/news/state/6656592.htm?1c
+2003.08.19,########,2003,Unprovoked,USA,California,"Avila Beach, San Luis Obispo County","Swimming, wearing black wetsuit & swim fins",Deborah Franzman,F,50,"FATAL Hip & upper thigh bitten, femoral artery severed",Y,4.5 m to 5.5 m [15' to 18'] white shark,"R. Collier, GSAF"
+2003.08.12,########,2003,Invalid,USA,California,"Venice Beach, Los Angeles County",Swimming,male,M,31,Left ankle lacerated,N,Shark involvement not confirmed,ABC News
+2003.07.20,########,2003,Unprovoked,USA,Florida,"Ponce Inlet, New Smyrna Beach, Volusia County",Surfing,John McGovern,M,18,Laceration to little finger of right hand,N,,"S. Petersohn, GSAF"
+2003.07.15,########,2003,Unprovoked,USA,Florida,"Daytona Beach, Volusia County",Wading,C.K.,F,15,Heel & sole of left foot,N,,"S. Petersohn, GSAF"
+2003.07.05.b,7/5/2003,2003,Provoked,USA,Florida,"Near New Smyrna Jetty, Volusia County","Walking, carrying surfboard & stepped on shark",P.L.,M,10,3 puncture wounds on right lateral ankle PROVOKED INCIDENT,N,2' shark,"S. Petersohn, GSAF"
+2003.07.05.a,7/5/2003,2003,Unprovoked,USA,Florida,"Canova Beach, Brevard County",Surfing,James Ingram,M,21,Left foot bitten,N,1.5 m to 1.8 m [5' to 6'] shark,Vero Beach Press Journal (FL) 7/9/2003
+2003.07.00.c,7/3/2020,2003,Unprovoked,USA,Florida,"Fort Lauderdale, Broward County",Spearfishing,Mark Marks,M,,Laceration to toe,N,8' great hammerhead shark,M. Marks
+2003.06.30,########,2003,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,E.W.,M,17,Right foot & toes lacerated,N,Unidentified species,"S. Petersohn, GSAF"
+2003.06.26,########,2003,Unprovoked,USA,Florida,St Augustine Beach. St. Johns County,Surfing,Shelby Tostevin,M,15,Ankle lacerated,N,106 cm [3.5'] shark,Local6.com
+2003.06.24.b,########,2003,Unprovoked,USA,Florida,"Cocoa Beach, Brevard County",Standing,Hannah Hathaway,F,12,2 lacerations to the thigh,N,???small brown shark???,"Florida Today, 6/26/ 2003; WKMG Local 6"
+2003.06.24.a,########,2003,Unprovoked,USA,Hawaii,"Makua Beach, Oahu",Swimming with pod of dolphins,John Marrack,M,60,Right foot bitten,N,3.7 m to 4.3 m [12' to 14'] shark,Honolulu Advertiser
+2003.06.22,########,2003,Unprovoked,USA,Johnston Atoll,,Swimming,George Fahey,M,51,Left leg bitten,N,Unidentified species,"H. Edwards, GSAF; The Hawaai Channel"
+2003.06.19,########,2003,Unprovoked,USA,North Carolina,"Masonboro Island, New Hanover County",Surfing,Chris White,M,33,Hand bitten,N,"sand shark","C. Creswell, GSAF"
+2003.06.08,6/8/2003,2003,Unprovoked,USA,Florida,"Ponce Inlet, Volusia County",Surfing,J.D.,,15,6 puncture wounds to left ankle,N,,"S. Petersohn, GSAF"
+2003.06.00,6/3/2020,2003,Invalid,USA,South Carolina,"Pawleys Island, Georgetown County",Swimming,female,F,22,Foot lacerated,N,Shark involvement not confirmed,J. Eager
+2003.05.25,########,2003,Unprovoked,USA,Florida,"Coral Cove Park, Jupiter Inlet, Palm Beach County",Surfing,Kris "Cutty" Kildosher,M,18,Left foot lacerated,N,,Local 6 News
+2003.05.14,########,2003,Unprovoked,USA,Florida,"Ponce de Leon Inlet, Volusia County",Wading,Joshua Brust,M,22,Left foot bitten,N,3' to 5' shark,"S. Petersohn, GSAF; Orlando Sentinel, 5/16;2003, p.C3"
+2003.05.10,########,2003,Unprovoked,USA,Hawaii,Between Magic Sands Beach and Kahaluu Beach on the Kona coast,Swimming,Koa Paulo,M,20,Right calf & heel bitten,N,1.8 m [6'] reef shark - or a 2.1 m to 2.4 m [7' to 8'] grey-colored shark,WestHawaiiToday.com
+2003.05.07,5/7/2003,2003,Provoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,Gerald Gaskins,M,34,Multiple bites to foot after jumping off surfboard onto shark PROVOKED INCIDENT,N,4' to 5' shark,"S. Petersohn, GSAF; M. I. Johnson, Daytona Beach News Journal. 5/8/2003, p.1C; Tampa Tribune, 5/8/2003"
+2003.05.03,5/3/2003,2003,Unprovoked,USA,Florida,"Daytona Beach Shores, Volusia County",Walking,A.J.,F,9,Laceration to right lower leg,N,,"S. Petersohn, GSAF"
+2003.04.21.b,########,2003,Unprovoked,USA,Florida,"Melbourne Beach, Brevard County",Surfing,Ralph Sammis,M,36,Right leg bitten,N,Unidentified species,"Local 6 News; St. Petersburg Times, 4/22/2003; The Eagle, 4/24/2003"
+2003.04.21.a,########,2003,Unprovoked,USA,Florida,"Shepard Park, Cocoa Beach, Brevard County",Surfing,male,M,17,Survived,N,Unidentified species,"Orlando Sentinel, 4/22/2003, B3"
+2003.04.20.c,########,2003,Unprovoked,USA,Florida,"Playalinda Beach, Brevard County",Surfing,Tommy Ryan,M,30,Left foot bitten,N,Unidentified species,"Orlando Sentinel, 4/22/2003, B3"
+2003.04.20.b,########,2003,Unprovoked,USA,Florida,"Sunglow Pier, Daytona Beach Shores, Volusia County",Surfing,Jeff Albright,M,23,Small lacerations to foot,N,0.9 m to 1.2 m [3' to 4'] shark,"S. Petersohn, GSAF; Local6.com; Daytona Beach News-Journal . 4/21/2003, p.1C"
+2003.04.20.a,########,2003,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,Stephen Flowers,M,18,Left ankle bitten or right foot,N,Unidentified species,"S. Petersohn, GSAF; Local 6 News; S. Frederick, Daytona Beach News Journal, 4/28/2003, p.1C; Orlando Sentinel, 4/22/2003, p.B3"
+2003.04.19,########,2003,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Jumping,S.D.,M,11,Left foot bitten,N,A ???small??? shark,"S. Petersohn, GSAF; S. Frederick, Daytona Beach News Journal, 4/21/2003, p.1C; J. Waymer, Florida Today (Melbourne), 4/19/2003"
+2003.04.18,########,2003,Unprovoked,USA,Florida,"North Beach, Patrick AFB, Brevard County",Surfing,male,M,12,2 lacerations on left thigh,N,Unidentified species,"Local 6 News; Tallahassee Democrat (FL) 4/19/2003; J. Waymer, Florida Today (Melbourne), 4/19/2003"
+2003.04.15,########,2003,Unprovoked,USA,Florida,"Cocoa Beach, Brevard County",Swimming (using a float),"male, a tourist from Venezuela",M,20,Left calf lacerated,N,15 cm to 20 cm [6" to 8"] bite diameter just below left knee,"Florida Today (Melbourne), 4/16/2003; Orlando Sentinel, 4/16/2003, p.B3"
+2003.04.09,4/9/2003,2003,Unprovoked,USA,Florida,"Melbourne Beach, Brevard County",Surfing,Damien Share,M,,Arm lacerated,N,,D. Share
+2003.04.04,4/4/2003,2003,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,"Frederick Jordan, Jr.",M,50,Left hand and wrist bitten,N,4' to 5' shark,"S. Petersohn, GSAF"
+2003.03.10,########,2003,Provoked,USA,Florida,"Petting Tank, Florida Aquarium, Tampa, Hillsborough County",Petting captive sharks,Julie Menke,F,,Hand nipped PROVOKED INCIDENT,N,60 cm [2'] captive shark,"Florida Aquarium; Miami Herald, 3/13/2002"
+2003.02.15.a,########,2003,Unprovoked,USA,Florida,"Jupiter, Palm Beach County",Swimming,James Bailey,M,54,Left hand bitten,N,Species unidentified,"J. Eager, scubaradio.com"
+2002.11.28.a,########,2002,Unprovoked,USA,California,"Salmon Creek, Sonoma County",Body boarding,Michael Casey,M,48,Both legs severely lacerated,N,3 m to 4.5 m [10' to 15'] white shark,"R. Collier, GSAF; Press Report: Santa Rosa Press Democrat"
+2002.11.17,########,2002,Unprovoked,USA,Hawaii,Ka'anapali,Swimming,Julie Glance,F,34,Right shoulder forarm & wrist bitten,N,2.4 m to 3 m [8' to 10'] grey colored shark,San Francisco Gate
+2002.11.11,########,2002,Unprovoked,USA,Florida,"Ponce Inlet, New Smyrna Beach, Volusia County",Surfing,Joshua Johnson,M,21,1.5-inch laceration,N,6' shark,"S. Petersohn, GSAF"
+2002.11.02,########,2002,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Boogie boarding,A.H.,M,16,Puncture wounds on right foot,N,3' to 4' shark,"S. Petersohn, GSAF"
+2002.10.30,########,2002,Unprovoked,USA,Hawaii,"Kama'ole Beach Park I, Kihei, Maui",Swimming,Karen Miller,F,60,Left foot bitten,N,A ???small??? shark,J. Crites
+2002.10.11,########,2002,Unprovoked,USA,Florida,"Opposite main gate at Patrick Air Force Base, Cape Canaveral, Brevard County",Surfing,male,M,21,Left foot bitten,N,,"Florida Today, 10/12/2002"
+2002.10.05.b,########,2002,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,Darren Harrity,M,14,Abrasions on right hand & deep laceration on middle finger,N,Blacktip or spinner shark,"D. Harrity; S. Petersohn, GSAF; L. Lelis, Orlando Sentinel"
+2002.10.05.a,########,2002,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,Ivan Rios,M,35,Heel & back of right knee lacerated,N,3.5' to 4.5' shark,"S. Petersohn, GSAF; Daytona Beach News Journal, 9/22/2003, p.1C"
+2002.10.03,########,2002,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,Cheyne Kehoe,M,18,Left hand lacerated and abraded,N,3.5' to 4' shark,"S. Petersohn, GSAF; Local 6 News; Orlando Sentinel, 10/4/2002, p.B3"
+2002.09.30,########,2002,Unprovoked,USA,Florida,"Ormond Beach, Volusia County",Surfing,Matt Crawford,M,47,Right hand severely lacerated,N,4' to 5' shark,"S. Petersohn, GSAF; J. Eager, scubaradio.com; P.Balona, Vero Beach Press Journal, 5/10/2003, p.1C"
+2002.09.29,########,2002,Unprovoked,USA,Florida,"Sebastian Inlet, Brevard County",Surfing,Dave Fogelberg,M,32,Left hand bitten,N,,"Local 6 News; P. Balona, Vero Beach Press Journal, 10/2/2002"
+2002.09.27.c,########,2002,Unprovoked,USA,Hawaii,"Kahala, O'ahu",Fishing from Surfboard,Arnold Lum,M,55,"No injury, surfboard bitten",N,1.2 m [4'] blacktip shark,"C. Lum & J. Widner, Honolulu Advertiser"
+2002.09.27.b,########,2002,Provoked,USA,Florida,"Key Largo, Monroe County",Fishing,Jose Diaz,M,,Left thumb lacerated PROVOKED INCIDENT,N,1.8 m [6'] blacktip shark,"J. Eager, scubaradio.com"
+2002.09.21.b,########,2002,Unprovoked,USA,Oregon,Cape Kiwanda,Boogie boarding or Surfing,Garry Turner,M,24,Ankle lacerated,N,2.4 m [8'] shark,"R. Collier, GSAF"
+2002.09.21.a,########,2002,Unprovoked,USA,California,"Moonstone Beach, Humboldt County",Surfing,Reed Richards,M,35,No injury,N,3 m to 3.7 m [10' to 12'] shark,"R. Collier , GSAF"
+2002.09.16.a,########,2002,Unprovoked,USA,Hawaii,"Hideaways Beach, Princeville, Kaua'i",Body boarding,,,,"No injury, shark fin seen just before board ripped away & dragged out to sea",N,,Hawaii Department of Land and Natural Resources
+2002.09.09,9/9/2002,2002,Unprovoked,USA,Florida,"Ponce Inlet, New Smyrna Beach, Volusia County",Boogie boarding,Sean M. Erwin,M,20,Bitten above & below right knee,N,4' to 6' shark,"S. Petersohn, GSAF; Orlando Sentinel, 9/10/2002, p.B3; Daytona Beach News Journal, 9/10/2002, p.1C"
+2002.09.05,9/5/2002,2002,Provoked,USA,Florida,"Daytona Beach Shores, Volusia County","Wading, when he stepped on the shark",Alex Lancaster,M,36,2 small puncture wounds on left foot PROVOKED INCIDENT,N,1' to 2' hammerhead or bonnethed shark,"S. Petersohn, GSAF"
+2002.08.28,########,2002,Unprovoked,USA,Hawaii,"Kewalo Basin Channel, O'ahu",Surfing,Shawn Farden,M,16,Left foot lacerated,N,"Tiger shark, 2.4 m to 3 m [8' to 10']","G. Kubota, Honolulu Star Bulletin"
+2002.08.17,########,2002,Unprovoked,USA,Alabama,"Gulf of Mexico, 65 miles offshore from Mobile",Swimming,Kimberly McClain,F,29,Both arms & leg bitten,N,,"J. Eager, scubaradio.com"
+2002.08.14,########,2002,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,Paxton Vinyard,M,27,Big toe bitten,N,0.9 m to 1.2 m [3' to 4'] shark,"S. Petersohn, GSAF; Orlando Sentinel, 8/15/2002, p.B3"
+2002.08.11,########,2002,Unprovoked,USA,Florida,"Vero Beach, Indian River County",Surfing,Brad Milliken,M,15,Lacerations on heel & dorsum of right foot,N,"Nurse shark, 1.5 m [5']","Stuart News, 8/12/2002"
+2002.08.07,8/7/2002,2002,Unprovoked,USA,Florida,"Ponce De Leon Inlet, Volusia County",Standing,David Brennen Smith,M,15,Ankle & leg lacerated,N,,"S. Petersohn, GSAF; J. Eager; A. Caldwell, Orlando Sentinel, 8/8/2002, p.B1"
+2002.08.05,8/5/2002,2002,Unprovoked,USA,North Carolina,"Topsail Beach, Pender County",Standing,Robert Pollan,M,14,Leg lacerated,N,1.2 m to 1.5 m [4' to 5'] shark,"Wisconsin State Journal; C. Creswell, GSAF"
+2002.07.26,########,2002,Unprovoked,USA,South Carolina,"Myrtle Beach, Horry County",Surfing,T.J. Nimmons,M,13,Heel bitten,N,1.2 m [4'] blacktip or sandbar shark,"C. Creswell, GSAF; The State (Columbia, SC) 7/28/2002 ; Sun News (Myrtle Beach), 7/28/2002"
+2002.07.20,########,2002,Unprovoked,USA,North Carolina,"Emerald Isle, Carteret County",Swimming,Mary Katherine Strong,F,15,Calf bitten,N,"Bull shark, 1.8 m to 2.1 m [6' to 7']","C. Creswell, GSAF"
+2002.07.10,########,2002,Provoked,USA,Florida,"Ponce Inlet, New Smyrna Beach, Volusia County",Surfing,Josh Nichtro,M,19,2 small lacerations on left lower leg when he jumped off board and landed on the shark PROVOKED INCIDENT,N,,"S. Petersohn, GSAF"
+2002.07.09.b,7/9/2002,2002,Provoked,USA,Maryland,"100 miles off Ocean City, Maryland, in 7000' of water",Shark Fishing,Captain Billy Verbanas,M,41,Drowned when caught in line and pulled overboard by hooked shark PROVOKED INCIDENT,Y,"Mako shark, 400-lb",Life in Legacy
+2002.07.04,7/4/2002,2002,Unprovoked,USA,North Carolina,"Wrightsville Beach, New Hanover County",Standing,Avery Olearczyk,F,9,"Calf, foot & hand bitten",N,"1.2 m to 1.5 m [4' to 5'] shark, possibly a bull shark","Miami Herald, 7/7/2002"
+2002.06.20.a,########,2002,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Swimming,female,F,11,Small lacerations on right lower leg,N,,"S. Petersohn, GSAF"
+2002.06.11.b,########,2002,Unprovoked,USA,Hawaii,"Anini Beach, Kaua'i",Sitting on surfboard,C. Levin,,,"No injury, shark bit side of surfboard",N,"Tiger shark, 2.4 m to 2.7 m [8' to 9']",Hawaii Department of Land and Natural Resources
+2002.06.11.a,########,2002,Unprovoked,USA,Florida,"St Augustine Beach, St Johns County",Surfing,Jason Smith,M,28,Right hand lacerated,N,0.9 m to 1.2 m [3' to 4'] shark; Tooth fragment recovered from hand,"Orlando Sentinel, 6/12/2002, pp. B2 & B5; Florida Times-Union, 6/10/2002"
+2002.06.09.b,6/9/2002,2002,Unprovoked,USA,Florida,"South of Ponce Inlet, New Smyrna Beach, Volusia County",Surfing,Craig Taylor,M,50,6-inch gash on right foot,N,?,"S. Petersohn, GSAF; S. Pedicini, Orlando Sentinel, 6/13/2002., p.B1 & 6/12/2002, p.B2"
+2002.06.09.a,6/9/2002,2002,Unprovoked,USA,Florida,"Jensen Beach, Martin County",Swimming,Corey Brooks,M,10,Right calf lacerated,N,,"ESPN; Orlando Sentinel, 6/12/2002, p.B2"
+2002.05.31.b,########,2002,Unprovoked,USA,California,"Stinson Beach, Marin County",Surfing,Lee Fontan,M,24,Lacerated leg & back,N,3.7 m to 4.3 m [12' to 14'] white shark,San Francisco Gate
+2002.05.31.a,########,2002,Unprovoked,USA,Florida,"St. George Island (near Apachicola), Franklin County",Floating on a raft,Matt Tichenor,M,16,Lacerated foot,N,1 m shark,"South Florida Sun-Sentinel; Orlando Sentinel, 6/3/2002, p.B.2; Miami Herald, 6/3/2002"
+2002.05.22.b,########,2002,Provoked,USA,Florida,"a pier at the end of Caxambas Drive, Marco Island","Fishing, removing the shark from his line",male,M,55,Leg bitten by hooked shark PROVOKED INCIDENT,N,3' blacktip shark,"News-Press, 5/23/2002"
+2002.05.22.a,########,2002,Unprovoked,USA,Florida,"Atlantic Avenue, Palm Beach County",Playing in the surf with his 2 dogs,Sean Oliver,M,35,"2-inch wound on dorsum of right foot, 1-inch wound on sole",N,,"Palm Beach Post, 5/24 & 26/2002"
+2002.05.13,########,2002,Unprovoked,USA,Florida,"Ten Thousand Islands National Wildlife Refuge, Collier County",Fishing,Fermin Gallegos,M,31,Laceration to arm.,N,2.1 m to 2.4 m [7' to 8'] shark,South Florida Sun-Sentinel; Southwest Florida Digest
+2002.04.20,########,2002,Unprovoked,USA,Florida,"St. Augustine Beach, St. Johns County","Surfing, but standing in water alongside board",Robert Stinson,M,34,Left foot bitten,N,1.2 m [4'] shark,"Miami Herald, 4/25/2002; Florida Times-Union, 4/23/2002"
+2002.04.18,########,2002,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,Nolan Sutliff,M,28,Left foot bitten,N,,"S. Petersohn, GSAF; Orlando Sentinel, 4/19/2002, p.G1; Daytona Beach News Journal, 4/19/2002, p.1C"
+2002.04.02,4/2/2002,2002,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Wading,male,M,41,Two half-inch lacerations on right heel and one near small toe,N,3' shark,"S. Petersohn, GSAF"
+2002.04.01,4/1/2002,2002,Unprovoked,USA,Florida,"Lauderdale-By-The-Sea, Broward County",Swimming / Wading,Matthew May,M,29,Upper left arm bitten,N,0.9 m [3'] shark,"Orlando Sentinel, 4/2/2002, p.B3; Miami Herald, 4/2/2002"
+2002.03.25.b,########,2002,Unprovoked,USA,Hawaii,"Brenecke Beach, Po'ipu, Kaua'i",Body-boarding,Hoku Aki,M,17,Left leg severed below knee,N,Tiger shark,"G. Kubota, Honolulu Star Bulletin"
+2002.03.25.a,########,2002,Unprovoked,USA,Florida,"Cocoa Beach, Brevard County",Wading,Ms Tori Lawrence,F,11,Foot bitten,N,?,"Orlando Sentinel, 3/26/2002, p.B2; Miami Herald, 3/26/2002"
+2002.03.19,########,2002,Unprovoked,USA,Florida,"Daytona Beach Shores, Volusia County",Swimming / boogie boarding,John Sadler,M,20,Punctures on left foot and foot,N,4' shark,"S. Petersohn, GSAF; Orlando Sentinel, 3/20/2002, p.B2"
+2002.03.15.b,########,2002,Unprovoked,USA,Florida,"Deerfield Beach (near Boca Raton), Broward County",Snorkeling,Robert Land,M,39,Arm bitten,N,"Nurse shark, 1m",ezboard.com
+2002.03.15.a,########,2002,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,male,M,31,Several puncture wounds on lower right leg,N,"Spinner shark, 3' to 4'","S. Petersohn, GSAF; Orlando Sentinel, 3/16/2002, p.C.2"
+2002.01.01.a,1/1/2002,2002,Unprovoked,USA,Hawaii,"Olowalu, Maui",Snorkeling,Thomas Holmes,M,35,Lacerations to buttocks & thigh,N,"Tiger shark, 1.8 m [6']","G. Kubota, Star Bulletin"
+2001.11.14,########,2001,Unprovoked,USA,Hawaii,"Kapalua, Maui",Surfing,M. Schweitzer,,,"No injury, portion of board's lower surface removed",N,,Hawaii Department of Land and Natural Resources
+2001.09.24,########,2001,Provoked,USA,Florida,"Ponce Inlet, Volusia County","Surfing, fell off surfboard & stepped on the shark.",male,M,21,PROVOKED INCIDENT Several small lacerations on left foot,N,4' shark,"S. Petersohn, GSAF"
+2001.09.18,########,2001,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,Blaise Mosler,M,14,1" to 2" cuts on right ankle & foot,N,,"Orlando Sentinel, 9/20/2001, p.D2; S. Frederick, Daytona Beach News Journal, 9/19/2001, p.1C"
+2001.09.16,########,2001,Invalid,USA,Florida,"2 miles off Pompano Beach, Broward County",Wreck / Technical diving,Eric Reichardt,M,42,FATAL or drowning & scavenging,Y,Questionable incident - shark bite may have precipitated drowning,D. Fleshler
+2001.09.15.b,########,2001,Unprovoked,USA,Florida,A quarter mile north of Fort Pierce Inlet,Boogie boarding,Cory Hock,M,,"2 lacerations on lower back, punctures on buttock",N,2' to 3.5' shark,"G. Hock, M. Levine, GSAF; Orlando Sentinel, 9/18/2001, p.D2"
+2001.09.15.a,########,2001,Unprovoked,USA,North Carolina,"North Topsail Beach, Onslow County",Surfing,"Dale Fulcher, Jr.",M,16,Foot bitten,N,,"Clay Creswell, GSAF; Topsail Voice, 9/19/2001"
+2001.09.08,9/8/2001,2001,Provoked,USA,Florida,"Everglades National Park, Monroe County",Fishing,male,M,44,Fingers & leg lacerated by hooked shark PROVOKED INCIDENT,N,,"Orlando Sentinel, 9/9/2001"
+2001.09.07.b,9/7/2001,2001,Unprovoked,USA,Florida,"Key Biscayne, Dade County",Walking in shallows,Patrick Homer,M,13,Minor injury to left leg,N,,"Miami Herald, 9/8/2001"
+2001.09.07.a,9/7/2001,2001,Invalid,USA,South Carolina,"Waites Island, Horry County",Swimming,Jackie Boyce,F,,Left hand injured,N,Shark involvement not confirmed,"Sun News (Myrtle Beach, SC) , 9/11/2001; The State (Columbia, SC), 9/12/2001"
+2001.09.03.b,9/3/2001,2001,Unprovoked,USA,North Carolina,"Avon, Hatteras Island, Outer Banks, Dare County",Swimming,Sergi Zaloukaev,M,28,FATAL,Y,A large white shark was filmed by divers on a local wreck 2 days prior to the incident.,"M. Levine, GSAF"
+2001.09.03.a,9/3/2001,2001,Unprovoked,USA,North Carolina,"Avon, Hatteras Island, Outer Banks, Dare County",Swimming,Natalia (Natasha) Slobonskaya,F,23,Left buttock & foot severed,N,A large white shark was filmed by divers on a local wreck 2 days prior to the incident.,"M. Levine, GSAF"
+2001.09.02,9/2/2001,2001,Unprovoked,USA,Florida,"Mayport Naval Station, Jacksonville, Duval Country",Wading,William Moseley,M,20,Right calf lacerated,N,1.5 m [5'] shark,"Orlando Sentinel, 9/4/2001, p.B2; Florida Times-Union, 9/5/2001"
+2001.09.01,9/1/2001,2001,Unprovoked,USA,Virginia,"Sandbridge Beach, Princess Anne County",Swimming,David Peltier,M,10,"FATAL, thigh bitten",Y,bull shark,"M. Levine, GSAF"
+2001.08.29,########,2001,Unprovoked,USA,Florida,"Coquina Beach, Anna Maria Island, Manatee County",Standing,Kristi Herzberg,F,29,Punctures & lacerations on elbow & forearm,N,,"Sarasota Herald-Tribune, 8/31/2001"
+2001.08.27,########,2001,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Wading,William Goettel,M,69,Heel lacerated,N,,"S. Petersohn, GSAF; CNN; M.I. Johnson, Daytona Beach News Journal, 8/28/2001, p.1A"
+2001.08.26,########,2001,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Boogie Boarding,Ben Gibbs,M,18,Thigh & foot bitten,N,,"Miami Herald, 8/26/2001; S. Mussenden, Orlando Sentinel, 8/26/2002, p.B1"
+2001.08.25,########,2001,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Boogie Boarding,male,M,18,Upper left thigh & right foot bitten,N,,"S. Petersohn, Miami Herald, 8/26/2001"
+2001.08.22,########,2001,Unprovoked,USA,Florida,"Daytona, Volusia County",Surfing,Lowell Lutz,M,17,Foot lacerated,N,a small shark,"M. Giusti, Daytona Beach News Journal, 8/23/2001, p.1A"
+2001.08.21,########,2001,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,Omar Oyarce,M,27,Thigh lacerated,N,,"S. Petersohn, GSAF; L.Lelis, Orlando Sentinel, 8/22/2001, p.D.1"
+2001.08.19.c,########,2001,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,Robert Kurrek,M,32,Cuts on right foot,N,,"S. Petersohn, GSAF; Orlando Sentinel, 8/20/2001, p.B1; Daytona Beach News Journal, 8/20/2001, p.1A"
+2001.08.19.b,########,2001,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,Becky Chapman,F,17,Lacerations to lower leg,N,,"E. Ritter & S. Petersohn, GSAF; Orlando Sentinel, 8/20/2001, p.B1; L.Lelis, Orlando Sentinel, 8/22/2001, p.D.1"
+2001.08.19.a,########,2001,Unprovoked,USA,Florida,"Wilbur-by-the-Sea, Volusia County",Surfing,female,F,17,Left foot lacerated,N,,"S. Petersohn, GSAF; Orlando Sentinel, 8/20/2001, p.B1; Daytona Beach News Journal, 8/20/2001, p.1A"
+2001.08.18.c,########,2001,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,Jeff White,M,20,Cuts on right foot,N,Possibly a blacktip or spinner shark,"S. Petersohn, GSAF; Orlando Sentinel, 8/20/2001, p.B1; Daytona Beach News Journal, 8/20/2001, p.1A"
+2001.08.18.b,########,2001,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,Jaison Valentin,M,19,Back of left hand gashed,N,"3' shark, possibly a blacktip or spinner shark","S. Petersohn, GSAF; Orlando Sentinel, 8/20/2001, p.B1; Daytona Beach News Journal, 8/20/2001, p.1A"
+2001.08.18.a,########,2001,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,Dylan Feindt,M,19,Left ankle bitten,N,"Blacktip shark, 5' to 6'","S. Petersohn, GSAF; Orlando Sentinel, 8/20/2001, p.B1; Daytona Beach News Journal, 8/20/2001, p.1A"
+2001.08.05,8/5/2001,2001,Unprovoked,USA,South Carolina,"Near 70th Avenue, Myrtle Beach, Horry County",,female,F,,Toe bitten,N,,"C. Creswell, GSAF"
+2001.07.26,########,2001,Unprovoked,USA,South Carolina,"Myrtle Beach, Horry County",,female,F,,Survived,N,,SAF
+2001.07.25,########,2001,Unprovoked,USA,Florida,"Taverniier, Monroe County",,male,M,,Minor injury,N,,"Key West Citizen, 7/26/2001"
+2001.07.24,########,2001,Unprovoked,USA,Florida,"Marathon , Monroe County",,female,F,,2 bites behind knee,N,Nurse shark,"Key West Citizen, 7/26/2001"
+2001.07.21,########,2001,Boat,USA,Massachusetts,Chatham Island,Fishing,"boat, occupants: Joseph Fitzback & 6 passengers",,,No Injury to occupants; shark bumped the boat,N,"Mako shark, 14'",GSAF
+2001.07.15.b,########,2001,Unprovoked,USA,Florida,"Santa Rosa Island, Escambia County",Surfing,Michael Waters,M,48,Left foot & heel lacerated,N,,"CNN; Pensacola News Journal; R. Suriano, Otlando Sentinel, 7/17/2001, p.D.1"
+2001.07.15.a,########,2001,Unprovoked,USA,Florida,"Amelia Island, Nassau County",Boogie boarding,Tim Flanigan,M,18,Foot lacerated,N,0.9 m [3'] shark,"The Enquirer (Cincinnati), 7/17/2001"
+2001.07.06.a,7/6/2001,2001,Unprovoked,USA,Florida,Gulf Islands National Seashore,Swimming,Jesse Arbogast,M,8,"Arm severed, surgically reattached",N,"Bull shark, 2.3 m [7.5']","E. Ritter, GSAF"
+2001.07.03,7/3/2001,2001,Unprovoked,USA,South Carolina,"Isle of Palms, Charleston County",,,,,Hand bitten,N,,"C. Creswell, GSAF"
+2001.07.00,7/1/2020,2001,Unprovoked,USA,Georgia,"Jekyll Island, Glynn County",Floating face-down in knee-deep water,John Davis,M,35,2-inch cut on dorsum of left foot,N,,"Atlanta Journal-Constitution, 9/5/2001; Florida Times-Union, 9/5/2001"
+2001.06.12,########,2001,Unprovoked,USA,Texas,Padre Island National Seashore,Swimming,Jared Black,M,14,Leg lacerated,N,1.5 m [5'] shark,"Houston Chronicle, 6/17/2001"
+2001.06.10,########,2001,Provoked,USA,California,Catalina Island,Spearfishing,Bill McNair,M,52,"No injury. Shark made threat display, then diver shot the shark PROVOKED INCIDENT",N,"White shark, 2.4 m to 3 m [8' to 10']","R. Collier, GSAF"
+2001.06.03,6/3/2001,2001,Unprovoked,USA,South Carolina,"Off 21st Avenue, Isle of Palms, Charleston County",Wading,Mary Pound,F,29,3 puncture wounds on each side of her left hand,N,2' shark,"C. Creswell, GSAF, Charleston Post & Courier, 6/4/2001"
+2001.05.29,########,2001,Unprovoked,USA,Texas,Galveston Island,,male,M,16,Survived,N,,sharkattacks.com
+2001.05.23,########,2001,Unprovoked,USA,South Carolina,"Coligny Beach, Hilton Head, Beaufort County",Swimming,Tripp Choate,M,11,Shin lacerated,N,1.2 m to 1.5 m [4.5' to 5'] shark,"C. Creswell, GSAF"
+2001.05.20,########,2001,Unprovoked,USA,South Carolina,"Fripp Island, Beaufort County",Swimming,Michael Heidenreich,M,,5.5-inch laceration on calf,N,,"Charlotte Observer, 5/23/2001, p.5B; Greenville News, 5/26/2001"
+2001.05.03,5/3/2001,2001,Unprovoked,USA,Florida,"Jacksonville, Duval County",Surfing,John McCall,M,45,Foot lacerated,N,1.2 m to 1.5 m [4' to 5'] shark,"J. Eager, scubaradio.com; J. Gaudin, GSAF"
+2001.04.28,########,2001,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Boogie boarding,male,M,14,4 small lacerations on lower right leg,N,,"S. Petersohn, GSAF"
+2001.04.13.b,########,2001,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,Jonathan Bush,M,16,Foot & ankle lacerated,N,,"J. Eager, scubaradio.com; Orlando Sentinel, April 14, 2001, p.A1"
+2001.04.13.a,########,2001,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,Andrew Barron,M,12,Right foot & ankle lacerated,N,Possibly a juvenile blacktip or spinner shark,"S. Petersohn, GSAF; Orlando Sentinel, 4/14/2001, p.A1"
+2001.04.12.e,########,2001,Unprovoked,USA,Florida,"Waveland Beach, Hutchinson Island, St Lucie County",,male,M,,Right ankle & lower leg lacerated,N,,"M. Large, Stuart News, 4/13/2001"
+2001.04.12.d,########,2001,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,Richard Spence,M,38,Foot & ankle lacerated,N,,"S. Petersohn, GSAF; Orlando Sentinel, 4/14/2001, p.A1"
+2001.04.12.c,########,2001,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,Emmet Browning,M,21,Small cuts on big & pinky toes of left foot,N,Possibly a juvenile blacktip or spinner shark,"S. Petersohn, GSAF; Orlando Sentinel, 4/14/2001, p.A1"
+2001.04.12.b,########,2001,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Body boarding,"John Fasio, Jr",M,12,Foot & ankle lacerated,N,Possibly a juvenile blacktip or spinner shark,"S. Petersohn, GSAF; Orlando Sentinel, 4/14/2001, p.A1"
+2001.04.12.a,########,2001,Unprovoked,USA,Florida,"New Smyrna Beach / Waveland, Volusia County",Surfing,Richard Lloyd,M,22,Foot lacerated,N,Possibly a 1.5 m [5'] blacktip or spinner shark,"S. Petersohn, GSAF; Orlando Sentinel, 4/14/2001, p.A1"
+2001.04.11.d,########,2001,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,Elren Thresher,M,19,Minor cuts on right heel & foot,N,Possibly a juvenile blacktip or spinner shark,"S. Petersohn, GSAF; scubaradio.com; Orlando Sentinel, 4/14/2001, p.A1"
+2001.04.11.c,########,2001,Unprovoked,USA,Florida,"New Smyrna Beach / Waveland, Volusia County",Surfing,Jordan Carter,M,22,Lacerations to top & bottom of left foot,N,,"S. Petersohn, GSAF"
+2001.04.11.a,########,2001,Unprovoked,USA,Hawaii,"Ewa Beach, O'ahu",Surfing,Gilbert Dano,M,,Minor punctures & lacerations on left hand,N,"1 m shark, possibly whitetip reef shark",Honolulu Star Bulletin
+2001.04.10,########,2001,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,a surfer from Port Orange,,16,Foot lacerated,N,Possibly a juvenile blacktip or spinner shark,"Orlando Sentinel, 4/14/2001, p.A1"
+2001.04.05,4/5/2001,2001,Unprovoked,USA,Florida,"Bethune Beach, south of New Smyrna Beach, Volusia County",Standing alongside surfboard,Jason Bartholem,M,26,Minor lacerations to dorsum of left foot,N,"small shark","S. Petersohn, GSAF"
+2001.03.23,########,2001,Unprovoked,USA,Hawaii,"Sandy Beach, Oahu",Body-boarding,Michael Mendez,M,,"Minor cuts on left hand, body board bitten",N,,Hawaii Department of Land and Natural Resources
+2001.03.09,3/9/2001,2001,Unprovoked,USA,Florida,"Coral Cove Park, Jupiter Island, Martin County",Surfing,Chad Hooker,M,,Fingers & hand lacerated,N,"Spinner shark, 1.2 m to 1.5 m [4' to 5']",Shark Survivor. Inc.
+2001.01.09,1/9/2001,2001,Unprovoked,USA,California,"Sunset Cliffs, San Diego",Surfing,Larry McCash,M,,"Foot bruised, board dinged",N,1.8 m to 2.4 m [6' to 8'] "black finned shark",M. Sanders
+2000.11.18,########,2000,Unprovoked,USA,Florida,"Bonita Springs, Lee County",Swimming,Colin Shadforth,M,73,Right calf lacerated,N,1.2 m to 1.8 m [4' to 6'] shark,"South Florida Sun Sentinel, 11/19/2000, p.6B"
+2000.11.10,########,2000,Invalid,USA,Florida,"Vaughn Beach, Flagler County",Walking,Eileen Skeie,F,27,No injury,N,"Bull shark, 1.5 m to 1.8 m [5' to 6']",E. Skeie
+2000.11.04,########,2000,Unprovoked,USA,California,"1/4 to 1/2 m north of the jetty at Bunkers, Eureka, Humboldt County",Surfing,Casey Stewman,M,27,Both thighs bitten,N,"White shark, 2.4 m to 3 m [8' to 10']","J. Ramsay, California Fish & Game; R. Collier"
+2000.10.20,########,2000,Unprovoked,USA,Florida,"Fort Pierce Inlet State Park, St Lucie County",Surfing,Jason Licamele,M,23,Leg lacerated,N,,"Stuart News, 10/21/2000"
+2000.10.18,########,2000,Unprovoked,USA,Hawaii,Olowalu,Swimming / snorkeling,Henrietta Musselwhite,F,56,Right side of back / torso lacerated,N,"Tiger shark, 1.8 m to 2.4 m [6' to 8']",GSAF
+2000.10.14,########,2000,Unprovoked,USA,Florida,"South Beach, Sebastian, Indian River County",Swimming,Norman Payne,M,69,Right hand lacerated,N,,"D. Robinson, Vero Beach Press Journal, 10/17/2000, p.A4"
+2000.10.09,########,2000,Unprovoked,USA,Florida,"Lake Worth Inlet/West Palm Beach, Palm Beach County",Surfing,Matt Kraskiewicz,M,17,Foot lacerated,N,2.1 to 2.4 m [7' to 8'] shark,"South Florida Sun-Sentinel, 10/11/2000"
+2000.10.06.b,########,2000,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,Austin White,M,23,Fingers lacerated,N,"Blacktip shark, 2'","SharkSurvivor.com; M.I.Johnson, Daytona Beach News Journal, 10/7/2000, p.1A; Daytona News Journal, 10/8/2000, p.4B"
+2000.10.06.a,########,2000,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Body surfing,Taylor Holley,M,11,Right foot & heel lacerated,N,,"S. Petersohn, GSAF; M.I.Johnson, Daytona Beach News Journal, 10/7/2000, p.1A; Bradenton Herald 10/8/2000,"
+2000.10.02,########,2000,Unprovoked,USA,North Carolina,"Wrightsville Beach, New Hanover County",Surfing,Mark Taylor,M,24,Upper left arm lacerated,N,,"The State (Columbia), 10/6/2000, p.A6"
+2000.09.29,########,2000,Unprovoked,USA,California,"Mavericks, Half Moon Bay, San Mateo County",Sitting on surfboard,Peck Euwer,M,,No injury,N,"White shark, 4.3 m [14']","P. Euwer, Ocean.com; D.W. Cole & M. DesJardins, Santa Cruz Sentinel"
+2000.09.16.a,########,2000,Unprovoked,USA,South Carolina,"Isle of Palms, Charleston County",,,,,Non-fatal,N,,"C. Creswell, GSAF"
+2000.09.15,########,2000,Unprovoked,USA,Florida,"Fort Pierce Inlet, St Lucie County",Standing / surfing,Gary Smith,M,49,Right lower leg & ankle lacerated,N,,"SharkSurvivor.com.; The Stuart (FL) News, 9/19/2000"
+2000.09.12,########,2000,Unprovoked,USA,Florida,"Sebastian Inlet, Indian River or Brevard County",Surfing,Brenda Fried,F,26,Puncture wounds on knee,N,,"SharkSurvivor.com; Florida Today, 9/13/2000"
+2000.09.11,########,2000,Unprovoked,USA,Florida,"Daytona Beach Shores, Volusia County",Swimming / Body surfing,Jason Armstrong,M,25,Finger lacerated,N,60 cm to 90 cm [2' to 3'] shark,"S. Petersohn, GSAF; Daytona Beach News Journal, 9/12/2000, p.1.A; Orlando Sentinel, 9/12/2000, p.D2"
+2000.09.10.b,########,2000,Unprovoked,USA,Florida,"Vero Beach, Indian River County",Swimming,male,M,8,Minor injury to arm and hand,N,,"Fort Pierce Tribune, 9/12/2000"
+2000.09.08.b,9/8/2000,2000,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Wading,Terrill Crane,M,40,Left foot lacerated,N,1.5 m [5'] shark,"S. Petersohn, GSAF; M. I. Johnson, Daytona Beach News Journal, 9/19/2000, p.1A; Orlando Sentinel, 9/9/2000 , p.D2"
+2000.08.31,########,2000,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Swimming,Rickey Johnson,M,47,Punctures & lacerations on right foot,N,A 2' shark was seen in the area by witnesses,"S. Petersohn, GSAF"
+2000.08.30,########,2000,Unprovoked,USA,Florida,"Boca Ciega Bay, Tampa, Pinellas County",Jumped into the water,Thaddeus Kubinski,M,69,FATAL,Y,"Thought to involve a 2.7 m [9'], 400-lb bull shark","E. Ritter, GSAF; Charlotte Observer, 9/1/2000, p.4A; Orlando Sentinel, 8/31/2000, p.A19"
+2000.08.27.R,Reported 27-Aug-2000,2000,Provoked,USA,Alaska,Prince William Sound,Conducting research,Bruce Wright,M,,Leg bitten by netted shark PROVOKED INCIDENT,N,Salmon shark,B.A. Wright
+2000.08.21,########,2000,Unprovoked,USA,North Carolina,"Bouges Bank, Emerald Isle, Carteret County",Swimming out to porpoises,male,M,,"Severe gash to left hand above wrist, almost severing hand",N,,"C. Creswell, GSAF; Wilmington Morning Star; Charlotte Observer, 8/23/2000, p.2B"
+2000.08.15,########,2000,Unprovoked,USA,Hawaii,"Kanaha Beach, Maui","Windsurfing, but sitting on his board",Jean Alain Goenvec,M,53,Left calf lacerated,N,"Tiger shark, 3.7 m to 4.5 m [12' to 14'9"]",Maui.net
+2000.08.13,########,2000,Unprovoked,USA,Florida,"South Jacksonville Beach, Duval County",Surfing / Wading,Jason Wuss,M,27,Minor lacerations to the dorsum of the right foot,N,juvenile shark,"Florida Times-Union, 8/14/2000; Orlando Sentinel, 8/15/2000, p.D3"
+2000.08.12,########,2000,Unprovoked,USA,Florida,"St. Augustine, St. Johns County",Standing,Margaret White,F,44,Severely bitten on lower leg,N,"Blacktip shark, 2.4 m to 3 m [8' to 10']",M. White
+2000.08.11,########,2000,Invalid,USA,North Carolina,"Emerald Isle, Carteret County",Swimming,Daniel Macatee,M,,Non-fatal,N,Shark involvement not confirmed,F. Schwartz
+2000.08.10,########,2000,Invalid,USA,Florida,Florida Keys,Attempting to illegally enter the USA,Juan & Alex Bueno,M,,Shark involvement probably post-mortem,Y,,Press clippings
+2000.07.25,########,2000,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",,male,M,5,Minor laceration on left leg,N,,"M. Johnson, Daytona Beach News Journal"
+2000.07.22,########,2000,Unprovoked,USA,Florida,"Big Pine Key, Monroe County",Snorkeling,Andrea Nani,F,45,Leg pinched,N,"Nurse shark, 1.5 m [5']","E. Ritter, GSAF"
+2000.07.17,########,2000,Unprovoked,USA,North Carolina,"Oceanic Pier, Wrightsville Beach, New Hanover County",Surfing,Patrick G. Bruff,M,16,Foot lacerated,N,,"C. Creswell, GSAF; Charlotte Observer, 7/20/2000, p.1A & 8/23/2000, p.2B; F. Schwartz, p.23"
+2000.07.16.b,########,2000,Unprovoked,USA,North Carolina,"Holden Beach, Brunswick County",Surfing,Tim Poynter,M,14,Minor lacerations on foot,N,1.8 m [6'] grey-colored shark,"C. Creswell, GSAF; Charlotte Observer, 7/20/2000, p.1A"
+2000.07.10,########,2000,Unprovoked,USA,Florida,"Daytona Beach, Volusia County",Wading,M.A.,M,13,Minor laceration & 3 punctures to right foot,N,,"S. Petersohn, GSAF; M. I. Johnson; H. Frederick, Daytona Beach News Journal, 7/11/2000, p.1A"
+2000.07.09,7/9/2000,2000,Unprovoked,USA,Florida,"Neptune Avenue, Ormond Beach, Volusia County",Swimming,Anthony Zent,M,41,Knee & calf lacerated,N,,"S. Petersohn, GSAF: H. Frederick, Daytona Beach News Journal, 7/11/2000, p.1A; Orlando Sentinel, 7/10/2000, p.C3; A. Givens, Orlando Sentinel, 7/11/2000, p.D1"
+2000.07.07,7/7/2000,2000,Unprovoked,USA,Texas,"Mustang Island, Corpus Christi",Jumping,Robby Doolittle,M,5,Ankle & foot lacerated,N,"Lemon shark, 2.1 m to 2.4 m [7' to 8']","K. Hastings, Dallas Morning News"
+2000.07.06,7/6/2000,2000,Unprovoked,USA,North Carolina,"Pine Island, Corolla, Currituck County",Playing,Ashley Walker,F,12,Calf lacerated,N,"Tiger shark, 0.9 m to 1.5 m [3' to 5'] ?","Charlotte Observer, 7/20/2000, p.1A"
+2000.07.04.b,7/4/2000,2000,Unprovoked,USA,Florida,"Daytona Beach, Volusia County",Wading,Niesha Peterson,F,20,Left inner thigh,N,,"S. Petersohn, GSAF"
+2000.07.04.a,7/4/2000,2000,Unprovoked,USA,Florida,"Artifical reef 3 miles off Manatee Beach, Manatee County","Spearfishing, holding mesh bag with speared fish",Beverly Comstock,F,55,Lower right calf lacerated,N,"Nurse shark, 1.2 m [4']","V. Mannix, Bradenton Herald, 8/3/2000, p.1"
+2000.07.02.b,7/2/2000,2000,Unprovoked,USA,Florida,"Smyrna Dunes Park, New Smyrna Beach, Volusia County",Wading,Amber Benningfield,F,13,Left calf & hand lacerated,N,0.9 m [3'] shark,"S. Petersohn, GSAF; M.Guisti, Daytona Beach News Journal, 7/3/2000, p.6C; Orlando Sentinel, 7/3/2000,p.C3"
+2000.07.02.a,7/2/2000,2000,Unprovoked,USA,Florida,"Smyrna Dunes Park, New Smyrna Beach, Volusia County",Standing,Danielle Shidemantle,F,19,Left thigh lacerated,N,"0.9 m [3'] shark, probably a blacktip or spinner shark","S. Petersohn; M.Guisti, Daytona Beach News Journal, 7/3/2000, p.6C; Orlando Sentinel, 7/3/2000,p.C3"
+2000.06.19,########,2000,Unprovoked,USA,Florida,"Seminole Avenue, Ormond Beach, Volusia County",Standing,Jacob Alegood,M,52,Right ankle lacerated,N,,"S. Petersohn, GSAF; M. I. Johnson, Daytona Beach News Journal; Orlando Sentinel, 6/20/2000, p.D3"
+2000.06.13,########,2000,Boat,USA,Florida,"Pensacola Bay, Escambia County",Sailing,22' pleasure boat,,,"No injury to occupants, boat's rear platform bitten",N,"Bull shark, 2.4 m [8']","Mobile Register 6/14/2000; Charlotte Observer, 6/15/2000, p.8A"
+2000.06.10,########,2000,Unprovoked,USA,Texas,"J.P. Luby Surf Park, Corpus Christi",Surfing,Kenny Alexander,M,17,Foot lacerated,N,"Blacktip shark, 1.2 m to 1.8 m [4' to 6']",GSAF
+2000.06.09.b,6/9/2000,2000,Unprovoked,USA,Alabama,"Gulf Shores, Baldwin County",Swimming,Richard Whatley,M,55,Puncture wounds on right hip and arm,N,Bull shark?,"Orlando Sentinel, 6/10/2000, p.A20 & 6/11/2000, p.A22; T. Allen, pp.74-75Jun 10, 2000. pg. A.20"
+2000.06.09.a,6/9/2000,2000,Unprovoked,USA,Alabama,"Gulf Shores, Baldwin County",Swimming,Chuck Anderson,M,44,Right forearm severed surgically amputated above elbow,N,Bull shark,"Orlando Sentinel, 6/10/2000, p.A20 & 6/11/2000, p.A22; T. Allen, pp.74-75Jun 10, 2000. pg. A.20"
+2000.06.02,6/2/2000,2000,Unprovoked,USA,Florida,"27th Avenue, New Smyrna Beach, Volusia County",Snorkeling,Brian Alcorn,M,13,Right forearm lacerated,N,,"S. Petersohn, GSAF; D. Brannon; M.I. Johnson, Daytona Beach News Journal, 6/3/2000, p.1C"
+2000.04.14,########,2000,Unprovoked,USA,Florida,"On the south side of Ponce Inlet, Volusia County",Walking,Adam Metz,M,34,Left foot lacerated,N,,"Scott Petersohn, GSAF; M. Johnson; Daytona Beach News-Journal, 4/16/2000, p.3B"
+2000.04.09,4/9/2000,2000,Unprovoked,USA,Florida,"Municipal Beach, Riviera Beach, Palm Beach County",Boogie boarding / wading,teen,M,,Puncture marks on right thigh,N,,"The Palm Beach Post, 4/11/2000, p.4B"
+2000.03.31,########,2000,Unprovoked,USA,Florida,Santa Rosa Sound Escambia County,Fishing,Dave Edwards,M,,"No Injury, bumped by shark",N,,"R. Aiden Martin, GSAF; Pensacola News Journal & Orlando Sentinel, 5/9/2000, p.D.5"
+2000.03.26,########,2000,Unprovoked,USA,Florida,"Juno Beach, Palm Beach County",Boogie boarding,Heather Van Olst,F,14,Right knee lacerated,N,1.8 m [6'] shark,"Stuart News, 3/28/2000; Jupiter Couier, 3/29/2000"
+2000.03.24,########,2000,Unprovoked,USA,Florida,"Floridana Beach, Brevard County",Surfing,Barry Pasonski,M,37,Left hand bitten,N,1.2 m [4'] shark,"Orlando Sentinel, 3/25/2000, p.D.3"
+2000.03.00,3/1/2000,2000,Unprovoked,USA,Louisiana,Midnight Lump (38 miles offshore),Spearfishing,Kurt Bickel,M,39,"No injury to diver, speargun damaged",N,"Shortfin mako shark, 3 m to 3.4 m [10' to 11']","R. Collier, GSAF"
+2000.02.21,########,2000,Unprovoked,USA,Florida,"Riviera Beach, Palm Beach County",,male,M,27,Right calf bitten,N,,"The Palm Beach Post, 2/22/2000"
