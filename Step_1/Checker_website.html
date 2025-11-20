@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Shark Attack Reporter</title>
+<style>
+  body {
+    font-family: Arial, sans-serif;
+    margin: 30px;
+    background: #ffffff;
+    color: #222;
+  }
+  h2 { color: #004f7c; }
+  input, button, select {
+    padding: 8px;
+    margin: 6px 0;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+  }
+  table {
+    border-collapse: collapse;
+    width: 100%;
+    margin-top: 15px;
+  }
+  th, td {
+    border: 1px solid #aaa;
+    padding: 6px;
+    text-align: left;
+  }
+  th {
+    background-color: #cfe8ff;
+  }
+</style>
+</head>
+<body>
+  <h2>🦈 Shark Attack Checker</h2>
+  <p>Upload your <strong>shark_data.csv</strong> file to begin.</p>
+
+  <input type="file" id="fileInput" accept=".csv"><br>
+  <label>Enter a State/Area:</label>
+  <input type="text" id="stateInput" placeholder="e.g. Florida">
+  <button onclick="processQuery()">Check</button>
+
+  <div id="report"></div>
+  <div id="details"></div>
+
+  <script>
+    let csvData = [];
+
+    // Read CSV file into array
+    document.getElementById('fileInput').addEventListener('change', function(e) {
+      const file = e.target.files[0];
+      if (!file) return;
+      const reader = new FileReader();
+      reader.onload = function(evt) {
+        const lines = evt.target.result.split(/\r?\n/);
+        csvData = lines.map(line => line.split(','));
+        alert("CSV loaded successfully!");
+      };
+      reader.readAsText(file);
+    });
+
+    function titleCase(str) {
+      return str.toLowerCase().split(' ').map(word => 
+        word.charAt(0).toUpperCase() + word.slice(1)
+      ).join(' ');
+    }
+
+    function processQuery() {
+      const stateInput = document.getElementById('stateInput').value.trim();
+      if (!stateInput || csvData.length === 0) {
+        alert("Please upload CSV and enter a state.");
+        return;
+      }
+
+      const formatted = titleCase(stateInput);
+      const header = csvData[0];
+      const matches = csvData.filter((row, idx) => {
+        if (idx === 0) return false;
+        const area = row[5]?.trim(); // Column 6 (index 5)
+        return area === formatted;
+      });
+
+      const count = matches.length;
+      const reportDiv = document.getElementById('report');
+      const detailsDiv = document.getElementById('details');
+
+      if (count > 0) {
+        reportDiv.innerHTML = `
+          <h3>Report for ${formatted}</h3>
+          <p><strong>Number of attacks:</strong> ${count}</p>
+          <button onclick="showDetails()">Show Details</button>
+        `;
+
+        // Build details table but keep hidden until button clicked
+        let tableHTML = `
+          <table>
+            <tr>
+              <th>Date</th><th>Type</th><th>Area</th><th>Location</th><th>Activity</th>
+              <th>Sex</th><th>Age</th><th>Injury</th><th>Fatal</th><th>Time</th><th>Species</th>
+            </tr>
+        `;
+        matches.forEach(row => {
+          tableHTML += `
+            <tr>
+              <td>${row[1] || ''}</td>
+              <td>${row[3] || ''}</td>
+              <td>${row[5] || ''}</td>
+              <td>${row[6] || ''}</td>
+              <td>${row[7] || ''}</td>
+              <td>${row[9] || ''}</td>
+              <td>${row[10] || ''}</td>
+              <td>${row[11] || ''}</td>
+              <td>${row[12] || ''}</td>
+              <td>${row[13] || ''}</td>
+              <td>${row[14] || ''}</td>
+            </tr>
+          `;
+        });
+        tableHTML += `</table>`;
+        detailsDiv.innerHTML = tableHTML;
+        detailsDiv.style.display = 'none';
+      } else {
+        reportDiv.innerHTML = `<p>No records found for '${stateInput}'.</p>`;
+        detailsDiv.innerHTML = '';
+      }
+    }
+
+    function showDetails() {
+      const detailsDiv = document.getElementById('details');
+      detailsDiv.style.display = detailsDiv.style.display === 'none' ? 'block' : 'none';
+    }
+  </script>
+</body>
+</html>
